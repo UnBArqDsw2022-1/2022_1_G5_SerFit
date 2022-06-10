@@ -19,4 +19,4 @@
 
  Versão |       Alteração       |    Autor(es)   |    Revisor
   ---   |          ---          |       ---      |      ---
-        |                       |                |        
+        |                       |                |
