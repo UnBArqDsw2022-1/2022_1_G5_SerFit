@@ -17,42 +17,97 @@
 </html>
 
 <style>
+    @import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Roboto:ital,wght@1,300&family=Ubuntu&display=swap');
     #app {
         margin: 0;
         padding: 0;
+        font-weight: 700;
+        font-family: 'Roboto', sans-serif;
     }
-    
+
     .content {
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
-        align-content: space-between;
+        justify-content: space-evenly;
     }
-    
+
     .card {
         display: flex;
         flex-direction: column;
+        flex-basis: 300px;
+        justify-content: space-evenly;
+        align-items: center;
+        margin-bottom: 20px;
     }
-    
+
+    .card:hover {
+        transform: scale(1.15);
+        transition: transform 300ms 0ms cubic-bezier(0.6, -0.28, 0.735, 0.045);
+        cursor: pointer;
+    }
+
+    .card:not(:hover) {
+        transition: all 180ms;
+    }
+
     .card .card-title {
         margin: 0;
         padding: 0;
         display: flex;
         flex-direction: row;
         align-items: center;
+        max-height: 32px;
     }
-    
+
+    .card .card-title > p {
+        text-transform: uppercase;
+        font-family: 'Ubuntu', sans-serif;
+        font-weight: 400;
+        color: rgb(86, 96, 118);
+    }
+
+    .card .card-title > span {
+        margin-left: 5px;
+        font-family: 'Kdam Thmor Pro', sans-serif;
+        font-size: smaller;
+        color: rgb(72, 151, 151);
+    }
+
     .card .card-tag {
-        margin: 0;
         padding: 0;
         display: flex;
         align-items: center;
+        max-height: 29px;
+        background-color: #24292f;
+        color: white;
+        padding-inline: 5px;
+        border-radius: 8px;
     }
-    
+
+    .card .card-tag > span {
+        padding-right: 5px;
+        border-right-color:rgb(230, 233, 238);
+        border-right-width: 1px;
+        border-right-style: solid;
+    }
+
+    .card .card-tag > p {
+        margin-left: 7px;
+    }
+
     .card .card-img {
         border-radius: 50%;
         flex-basis: 200px;
         max-width: 200px;
+        opacity: 0.8;
+        filter: grayscale(40%);
+    }
+
+    .card:hover .card-img{
+        transition: opacity .5s ease-in-out;
+        opacity: 1;
+        filter: none;
     }
 </style>
 
@@ -84,12 +139,35 @@
                 let cardDiv = document.querySelector('.content');
                 members.forEach(async(member) => {
                     let cardImg = buildImgCard(member.avatar_url);
-                    let followers = await buildFollowTag(member.followers_url);
+                    let [followersTag, followersNum] = await buildFollowTag(member.followers_url);
                     let cardTitle = await buildTitle(member.login, member.url);
                     /*let usrLink = getUsrLink(member);
                      */
-                    let card = appendCardChildren([cardImg, followers, cardTitle /*, usrLink */ ]);
 
+                    let card = appendCardChildren([cardImg, followersTag, cardTitle /*, usrLink */ ], member.login);
+                    var i = 1;
+                    for(tagElem of followersTag.children) {
+                        tagElem.id = `${member.login}-follow${i++}`
+                    }
+
+                    card.id = member.login;
+                    card.addEventListener('click', (ev) => {
+                        window.open(member.html_url);
+                    });
+                    card.addEventListener('mouseover', (ev) => {
+                        let span = document.querySelector(`#${member.login}-follow1`);
+                        let p = document.querySelector(`#${member.login}-follow2`);
+
+                        span.innerText = 'follow-me';
+                        p.innerText = '+'
+                    });
+                    card.addEventListener('mouseout', (ev) => {
+                        let span = document.querySelector(`#${member.login}-follow1`);
+                        let p = document.querySelector(`#${member.login}-follow2`);
+
+                        span.innerText = 'followers';
+                        p.innerText = followersNum;
+                    });
                     cardDiv.appendChild(card);
                 });
             })
@@ -105,7 +183,7 @@
                 nameElem.innerText = name;
 
                 let loginElem = document.createElement('span');
-                loginElem.innerText = login;
+                loginElem.innerText = `@${login}`;
 
                 cardName.className = 'card-title';
                 cardName.appendChild(nameElem);
@@ -125,13 +203,15 @@
                 let p = document.createElement('p');
                 p.innerText = `${num}`;
 
+                let followNum = num;
+
                 let span = document.createElement('span');
                 span.innerText = 'followers'
                 followTag.appendChild(span);
                 followTag.appendChild(p);
 
 
-                resolve(followTag);
+                resolve([followTag, followNum]);
             });
         });
     }
@@ -180,9 +260,10 @@
         });
     }
 
-    function appendCardChildren([cardImg, followers, cardTitle /*, usrLink */ ]) {
+    function appendCardChildren([cardImg, followers, cardTitle /*, usrLink */ ], id) {
         let card = document.createElement('div');
         card.className = 'card';
+        card.id = id;
 
         card.appendChild(cardImg);
         card.appendChild(cardTitle);
