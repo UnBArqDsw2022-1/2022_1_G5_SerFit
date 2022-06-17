@@ -119,6 +119,7 @@ Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados
         padding: 0;
         display: flex;
         align-items: center;
+        justify-content: space-around;
         max-height: 29px;
         background-color: #24292f;
         color: white;
