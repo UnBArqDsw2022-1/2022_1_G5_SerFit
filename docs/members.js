@@ -55,10 +55,6 @@ async function createMembersCards(issue = issue1) {
                     p.innerText = followersNum;
                 });
                 cardDiv.appendChild(card);
-
-                let content = document.querySelector('.content');
-
-                concent.appendChild(cardDiv);
             });
         })
         .catch(error => console.log('Error:', error));
