@@ -50,7 +50,6 @@ BS03 | O Prestador de Serviço deve capaz de classificar o tipo de serviço | RF
 BS04 | Um usuário deve ser capaz de recomendar um prestador de serviço para outro usuário | RF
 BS05 | A plaforma deve agendar um grade horária com os serviços agendados | RF
 BS06 | O usuário deve poder fazer uma vídeo chamada para o atendimento do serviço adquirido | RF
-BS07 | O usuário deve poder fazer uma vídeo chamada para o atendimento do serviço adquirido | RF
 BS07 | O usuário deve ser capaz de buscar serviços | RF
 BS08 | O usuário deve ser capaz de filtrar serviços | RF
 BS09 | O usuário deve conseguir avaliar prestadores de serviço | RF
