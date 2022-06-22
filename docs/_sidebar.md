@@ -9,6 +9,7 @@
     - **Elicitação**
       - [Brainstorm](pages/Base/ProjetoNaoOrientado/Requisistos/Elicitação/Brainstorm.md)
   - **Processos, Metodologias e Abordagens**
+    - [Metodologia BPMN](pages/Base/Metodologias/BPMN.md)
   - **Iniciativas extras**
 
 - **Modelagem**
