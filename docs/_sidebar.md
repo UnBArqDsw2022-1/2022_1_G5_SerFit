@@ -10,6 +10,7 @@
       - [Brainstorm](pages/Base/ProjetoNaoOrientado/Requisistos/Elicitação/Brainstorm.md)
   - **Processos, Metodologias e Abordagens**
   - **Iniciativas extras**
+    - [Política de Contribuição](pages/Base/ProjetoNaoOrientado/Extra/CONTRIBUTING.md)
 
 - **Modelagem**
 
