@@ -10,7 +10,59 @@
 
 ### Persona 1
 
+Persona | Maria | 
+---- | ---------|
+Nome | Maria
+Profissão | Servidora pública
+Escolaridade | Ensino Superior
+Nível de conhecimento sobre o app | Nunca usou o aplicativo
+História e contexto | Maria mexe com muitos processos diariamente e fica muito tempo sentada. Portanto ela foi auxiliada a praticar atividades físicas e não tem noção de exercícios da academia. 
+Sugestão para melhoria | Poder através de um aplicativo ver a execução de exercícios e atividades que a academia oferece. 
+
 #### Requisitos Elicitados
+
+ID | DESCRIÇÃO | TIPO DE REQUISITO 
+---- | ---------| ----------------|
+	| 	| 
+	|   | 
+
+### Persona 2
+
+Persona | Maria | 
+---- | ---------|
+Nome | 
+Profissão | 
+Escolaridade | 
+Nível de conhecimento sobre o app |
+História e contexto | 
+Sugestão para melhoria |  
+
+
+#### Requisitos Elicitados
+
+ID | DESCRIÇÃO | TIPO DE REQUISITO 
+---- | ---------| ----------------|
+	|  | 
+	|  | 
+
+### Persona 3
+
+Persona | Maria | 
+---- | ---------|
+Nome | 
+Profissão | 
+Escolaridade | 
+Nível de conhecimento sobre o app |
+História e contexto | 
+Sugestão para melhoria |  
+
+
+#### Requisitos Elicitados
+
+ID | DESCRIÇÃO | TIPO DE REQUISITO 
+---- | ---------| ----------------|
+	|  | 
+	|  | 
 
 ## Histórico de Versionamento
 
