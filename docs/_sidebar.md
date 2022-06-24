@@ -9,6 +9,8 @@
     - **Elicitação**
       - [Brainstorm](pages/Base/ProjetoNaoOrientado/Requisistos/Elicitação/Brainstorm.md)
       - [5W2H](pages/Base/Metodologias/5W2H.md)
+    - **Modelagem**
+      - [Léxicos](pages/Base/ProjetoNaoOrientado/Requisistos/Modelagem/Lexicos.md)
   - **Processos, Metodologias e Abordagens**
   - **Iniciativas extras**
 
