@@ -19,7 +19,7 @@ Demais diretrizes sobre a organização da wiki constam no Moodle Aprender 3.
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 18/0113259  |  Felipe Correia Andrade |
 | xx/xxxxxx  |  xxxx xxxx xxxxx |
 
 ## Sobre 
