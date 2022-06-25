@@ -2,12 +2,9 @@
 
 ## 1. Introdução
 
-<p style="text-indent: 40px;">O léxico permite a descrição de símbolos que compõem uma linguagem específica. Devido a isso, o léxico é a base para o entendimento entre clientes, usuários e
-profissionais de software, pois é necessário que todos os participantes compartilhem uma mesma compreensão dos termos próprios do
-domínio. [1]</p>
-<p style="text-indent: 40px;">Cada símbolo é descrito com Noção (Descreve o significado do símbolo), Impacto (Descreve a repercussão do símbolo no sistema), Tipo (Objeto, Verbo, Estado ou Sujeito) e, caso tenha, Sinônimo. </p>
+<p style="text-indent: 40px;">Os Léxicos permitem a descrição de símbolos que compõem uma linguagem específica. Devido a isso, o léxico é a base para o entendimento entre clientes, usuários e profissionais de software, pois é necessário que todos os participantes compartilhem uma mesma compreensão dos termos próprios do domínio. [1]</p>
 
-
+<p style="text-indent: 40px;">Cada símbolo é descrito com <b>Noção</b> (descreve o significado do símbolo), <b>Impacto</b> (que descreve a repercussão do símbolo no sistema), <b>Tipo</b> (objeto, verbo, estado ou sujeito) e, caso tenha, <b>Sinônimo</b>. </p>
 
 ## 2. Léxicos
 
@@ -116,5 +113,6 @@ domínio. [1]</p>
 
  Versão |       Alteração       |    Autor(es)     |    Revisor
   ---   |          ---          |       ---        |      ---
-  1.0   |  Criação do Documento | Lucas Gomes Lopes |
-  2.0   |  Adição dos Léxicos | Lucas Gomes Lopes |
+  1.0   |  Criação do Documento | Lucas Gomes Lopes | ---
+  2.0   |  Adição dos Léxicos | Lucas Gomes Lopes | ---
+  2.1   |  Revisão e correções ortográficas | Lucas Gomes Lopes | ---
