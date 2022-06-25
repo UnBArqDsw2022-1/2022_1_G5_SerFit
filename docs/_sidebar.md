@@ -5,9 +5,10 @@
 - **Base**
   - **Projeto Não Orientado a Abordagens Específicas**
     - [Design Sprint](pages/Base/ProjetoNaoOrientado/DesignSprint.md)
+    - [Diagramas de Causa e Efeito](pages/Base/ProjetoNaoOrientado/CausaEfeito.md)
     - [5W2H](pages/Base/Metodologias/5W2H.md)
   - **Requisitos**
-    - **Elicitação**
+    - **Elic
       - [Brainstorm](pages/Base/ProjetoNaoOrientado/Requisistos/Elicitacao/Brainstorm.md)
       - [Instrospecção](pages/Base/ProjetoNaoOrientado/Requisistos/Elicitacao/Introspeccao.md)
     - **Modelagem**
