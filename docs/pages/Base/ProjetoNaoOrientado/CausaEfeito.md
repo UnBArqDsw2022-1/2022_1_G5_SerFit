@@ -15,7 +15,18 @@ Para o projeto, utilizamos os diagramas para averiguar causas de atrasos na entr
 
 ## 3. Diagramas Elaborados
 
+Os diagramas elaborados foram elaborados inspirados por temas propostos por Ishikawa que costumam ser as causas de problemas em processos industriais, utilizando os 6M's. Foram adaptados para o contexto da aplicação que será desenvolvida. Utilizamos também para verificar causas de satisfação dos usuários. Os 6M's são:
+
+* Método: Passos dentro de um processo;
+* Máquina: Máquinas e ferramentas necessárias;
+* Material: Os materiais, consumíves, peças e similares necessários;
+* *Manpower* (Pessoas): Os stakeholders do processo;
+* Medições: Dados, medições, resultados de testes, entre outros, retirados dos processos;
+* Meio Ambiente: Variáveis ambientais. Foi adaptado para ambiente, ou seja, variáveis do ambiente e do contexto em que o efeito analisado está inserido.
+
 ### 3.1 Diagramas sobre Satisfação dos Usuários
+
+Foram levantadas algumas hipóteses para efetivar a satisfação, tanto dos usuários profissionais que teriam conteúdos na plataforma, quanto para os usuários consumidores comuns, interessados em acessar serviços fitness.
 
 ![UsersSimp](../../../assets/causaefeito/Cause_And_Effect_PROFISS.svg)
 
@@ -27,11 +38,15 @@ Para o projeto, utilizamos os diagramas para averiguar causas de atrasos na entr
 
 ### 3.2 Diagramas sobre falhas no projeto
 
+Hipóteses sobre causas de atrasos na entrega do projeto, fato que costuma causar estresse aos alunos em disciplinas de projeto.
+
 ![UsersProj](../../../assets/causaefeito/Cause_And_Effect%20_PROJ.svg)
 
 <a href="https://svgshare.com/s/iag.svg"> Clique Aqui para ver expandido </a>
 
-### 3.3 Diagramas sobre falhas no produto
+### 3.3 Diagramas sobre rejeição do produto
+
+Foram trazidas possíveis causas para o não engajamento de usuários à aplicação que será desenvolvida.
 
 ![ProductFailed](../../../assets/causaefeito/Cause_And_Effect_BAD_PRODUCT.svg)
 
