@@ -15,6 +15,7 @@
   - **Processos, Metodologias e Abordagens**
   - **Iniciativas extras**
     - [Política de Contribuição](pages/Base/ProjetoNaoOrientado/Extra/CONTRIBUTING.md)
+    - [Disponibilidade de Horários](pages/Base/ProjetoNaoOrientado/Extra/heatmap.md)
 
 - **Modelagem**
 
