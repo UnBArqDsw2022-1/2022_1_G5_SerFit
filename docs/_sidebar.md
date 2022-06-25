@@ -8,6 +8,7 @@
   - **Requisitos**
     - **Elicitação**
       - [Brainstorm](pages/Base/ProjetoNaoOrientado/Requisistos/Elicitação/Brainstorm.md)
+      - [Instrospecção](pages/Base/ProjetoNaoOrientado/Requisistos/Elicitação/Introspeccao.md)
   - **Processos, Metodologias e Abordagens**
   - **Iniciativas extras**
 
