@@ -32,8 +32,8 @@
 | RNF 03 |                                   Os usuários devem conseguir encontrar a funcionalidade desejada rapidamente                                    | Should |
 | RNF 04 |                                                O aplicativo deve proteger os dados dos usuários.                                                 |  Must  |
 | RNF 05 |                                                O aplicativo deve apresentar persistência de login                                                | Could  |
-| RNF 06 |                                       O aplicativo deve acessar e persistir os dados em um banco de dados                                        |  Must  |
-| RNF 07 |                                    O aplicativo ser capaz de realizar atualizações de versões periodicamente                                     | should |
+| RNF 06 |                                       O aplicativo deve acessar e persistir os dados em um banco de dados eficiente                              |  Must  |
+| RNF 07 |                                    O aplicativo deve ser capaz de realizar atualizações de versões periodicamente                                | should |
 | RNF 08 |                               O aplicativo deverá possuir um backend com a parte logica separada de sua interface                                | Should |
 | RNF 09 |                O aplicativo deverá possuir portabilidade para todos as plataformas mais atuais de Android, IOS e Navegadores Web                 | Could  |
 | RNF 10 |                         O aplicativo deverá possuir uma imagem conteinerizada para facil onboarding dos desenvolvedores                          | Would  |
@@ -74,3 +74,4 @@
 | 1.0    | Criação do documento              |  Daniel   | Gustave e Fernando |
 | 1.1    | Adiçāo de RNFs                    | Fernando  |  Gustave e Daniel  |
 | 1.2    | Correção e revisão da v1.0 e v1.1 |  Gustave  |         -          |
+| 1.3    | Correção da v1.2 e adição RNF16, RNF17 e RF17 |  Adrian   |         -          |
