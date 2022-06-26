@@ -19,6 +19,7 @@
     - [Metodologia BPMN](pages/Base/Metodologias/BPMN.md)
   - **Iniciativas extras**
     - [Política de Contribuição](pages/Base/ProjetoNaoOrientado/Extra/CONTRIBUTING.md)
+    - [Disponibilidade de Horários](pages/Base/ProjetoNaoOrientado/Extra/heatmap.md)
 
 - **Modelagem**
 
