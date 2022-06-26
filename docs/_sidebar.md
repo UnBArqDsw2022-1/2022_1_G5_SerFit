@@ -14,6 +14,8 @@
       - [Instrospecção](pages/Base/ProjetoNaoOrientado/Requisistos/Elicitacao/Introspeccao.md)
     - **Modelagem**
       - [Léxicos](pages/Base/ProjetoNaoOrientado/Requisistos/Modelagem/Lexicos.md)
+    - **Priorização**
+      - [MoSCoW](pages/Base/ProjetoNaoOrientado/Requisistos/Priorizacao/Moscow.md)
   - **Processos, Metodologias e Abordagens**
     - [Metodologia](pages/Base/Metodologias/Metodologias.md)
     - [Metodologia BPMN](pages/Base/Metodologias/BPMN.md)
