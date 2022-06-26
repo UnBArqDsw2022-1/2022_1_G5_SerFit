@@ -1,30 +1,25 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial, da home page do Projeto.
-As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
-Demais diretrizes sobre a organização da wiki constam no Moodle Aprender 3.
-
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto)*. !!** 
-
-**!! *Não coloque os nomes dos alunos no título do repositório*. !!**
-
-**!! *Exemplo de título correto: 2022.1_G1_ProjetoPandora*. !!** 
- 
- (Apague esses comentários)
-
 # Nome do Projeto
 
 **Código da Disciplina**: FGA0208<br>
-**Número do Grupo**: XX<br>
+**Número do Grupo**: 5<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+
+| Matrícula | Aluno |  | 
+| -- | -- | -- |
+| 16/0000572  | [Adrian Soares Lopes](https://github.com/SwampTG) | <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/66492055?v=4" width="100px;" alt=""/> |
+| 19/0026375  | [Daniel Vinicius Ribeiro Alves](https://github.com/DanielViniciusAlves) | <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/52768341?v=4" width="100px;" alt=""/> |
+| 18/0113259  | [Felipe Correia Andrade](https://github.com/Percon12) | <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/48574280?v=4" width="100px;" alt=""/> |
+| 14/0139281  | [Fernando Ribeiro Aguilar](https://github.com/fernando-ra) | <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/16293264?v=4" width="100px;" alt=""/> |
+| 19/0046091  | [Gustave Augusto Persijn](https://github.com/gpersijn) | <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/56366957?v=4" width="100px;" alt=""/> |
+| 17/0080102  | [Lucas Gomes Lopes](https://github.com/LucasGlopes) | <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/49499946?v=4" width="100px;" alt=""/> |
+| 15/0016310  | [Luis Gustavo Avelino de Lima Jacinto](https://github.com/luis-gustavo) | <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/15164988?v=4" width="100px;" alt=""/> |
+| 20/0043111  | [Ricardo de Castro Loureiro](https://github.com/castroricardo1) | <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/83254747?v=4" width="100px;" alt=""/> |
+| 18/0149598  | [Victor Hugo Siqueira Costa](https://github.com/V100k) | <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/50213514?v=4" width="100px;" alt=""/> |
+| 18/0029240  | [Wesley Pedrosa dos Santos ](https://github.com/wesleysantos00) | <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/54296715?v=4" width="100px;" alt=""/> |
 
 ## Sobre 
-Descreva o seu projeto em linhas gerais.
-Use referências, links, que permitam conhecer um pouco mais sobre o projeto.
+Este software tem o objetivo de ajudar e facilitar a vida de pessoas da área fitness. Assim podemos dar um exemplo como: Um prestador de serviços da área fitness (personal trainer ou nutricionista) se cadastra no app/site onde ele consegue aumentar a gama de pessoas que estão a procura desse tipo de profissional/serviço. Já do outro lado uma pessoa procura por um serviço prestado na area fitness. No app/site é será possível filtrar por nota que o profissional possui, a distância de algum lugar (casa, academia ou espaço ao ar livre), o preço da consulta entre outros, deixando todo o processo mais ágil e pratico para os dois.
 
 ## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Primeira Entrega.
@@ -46,7 +41,9 @@ Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcioname
 
 ## O Projeto está rodando?
 ( ) SIM
+
 ( ) NÃO
+
 Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados em consultar o projeto.
 
 ## Informações Complementares 
