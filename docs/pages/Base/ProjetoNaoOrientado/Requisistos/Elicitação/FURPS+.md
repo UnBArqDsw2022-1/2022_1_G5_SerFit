@@ -21,45 +21,42 @@
 
 <br>
 
-
 ## 3. Resultados
 
 <center>
 
-| ID     |                                  Requisito                                  | MosCoW |
-| :----- | :-------------------------------------------------------------------------: | :----: |
-| RNF 01 |               O aplicativo não pode demorar muito para abrir.               | Should |
-| RNF 02 |                  O aplicativo não pode ficar indisponível.                  |  Must  |
-| RNF 03 | Os usuários devem conseguir encontrar a funcionalidade desejada rapidamente | Should |
-| RNF 04 |              O aplicativo deve proteger os dados dos usuários.              |  Must  |
-| RNF 05 |             O aplicativo deve apresentar persistência de login              | Could  |
-| RNF 06 |     O aplicativo deve acessar e persistir os dados em um banco de dados              | Must  |
-| RNF 07 |        O aplicativo ser capaz de realizar atualizações de versões periodicamente            | should  |
-| RNF 08 |      O aplicativo deverá possuir um backend com a parte logica separada de sua interface             | Should  |
-| RNF 09 |       O aplicativo deverá possuir portabilidade para todos as plataformas mais atuais de Android, IOS e Navegadores Web            | Could  |
-| RNF 10 |        O aplicativo deverá possuir uma imagem conteinerizada para facil onboarding dos desenvolvedores           | Would  |
-| RNF 11 |    O deploy to sistema deverá ser feito em uma plataforma de servidores na nuvem com suas chaves de segurança armazenadas de forma segura e secreta          | Would  |
-| RNF 12 |        O aplicativo deverá possuir conecção com plataforma de envio de emails para confirmações            | Could  |
-| RNF 13 |       O aplicativo deverá possuir uma cobertura de testes maior do que 70%             | Should  |
-| RNF 14 |   O aplicativo deverá possuir documentação legivel e compreensivel sobre a instalação e as boas praticas de desenvolvimento                | MUST  |
-| RNF 15 |     O aplicativo deverá possuir uma instância de testes e uma instancia de produçāo              | Could  |
-| RF 16 |       A capacidade de um usuário conectar nosso aplicativo aos seus contatos, selecionar seu amigo e enviar uma mensagem pré-preenchida.             | Would |
-
+| ID     |                                                                    Requisito                                                                     | MosCoW |
+| :----- | :----------------------------------------------------------------------------------------------------------------------------------------------: | :----: |
+| RNF 01 |                                                 O aplicativo não pode demorar muito para abrir.                                                  | Should |
+| RNF 02 |                                                    O aplicativo não pode ficar indisponível.                                                     |  Must  |
+| RNF 03 |                                   Os usuários devem conseguir encontrar a funcionalidade desejada rapidamente                                    | Should |
+| RNF 04 |                                                O aplicativo deve proteger os dados dos usuários.                                                 |  Must  |
+| RNF 05 |                                                O aplicativo deve apresentar persistência de login                                                | Could  |
+| RNF 06 |                                       O aplicativo deve acessar e persistir os dados em um banco de dados                                        |  Must  |
+| RNF 07 |                                    O aplicativo ser capaz de realizar atualizações de versões periodicamente                                     | should |
+| RNF 08 |                               O aplicativo deverá possuir um backend com a parte logica separada de sua interface                                | Should |
+| RNF 09 |                O aplicativo deverá possuir portabilidade para todos as plataformas mais atuais de Android, IOS e Navegadores Web                 | Could  |
+| RNF 10 |                         O aplicativo deverá possuir uma imagem conteinerizada para facil onboarding dos desenvolvedores                          | Would  |
+| RNF 11 | O deploy to sistema deverá ser feito em uma plataforma de servidores na nuvem com suas chaves de segurança armazenadas de forma segura e secreta | Would  |
+| RNF 12 |                             O aplicativo deverá possuir conexão com plataforma de envio de emails para confirmações                              | Could  |
+| RNF 13 |                                       O aplicativo deverá possuir uma cobertura de testes maior do que 70%                                       | Should |
+| RNF 14 |            O aplicativo deverá possuir documentação legivel e compreensivel sobre a instalação e as boas praticas de desenvolvimento             |  MUST  |
+| RNF 15 |                                 O aplicativo deverá possuir uma instância de testes e uma instancia de produçāo                                  | Could  |
+| RF 16  |        A capacidade de um usuário conectar nosso aplicativo aos seus contatos, selecionar seu amigo e enviar uma mensagem pré-preenchida.        | Would  |
 
 </center>
 
 <center>
 
-| FURPS | Requisito   |
-| :---: | ----------- |
-|   Functionality   | RNF12, RF16,            |
-|   Usability   | RNF3, RNF10, RNF14        |
-|   Reliability   | RNF4, RNF06, RNF08, RNF11, RNF13     |
-|   Performance  | RNF1, RNF2, RNF07  |
-|   Supportability  | RNF2, RNF05, RNF09, RNF15 |
+|     FURPS      | Requisito                                                                 |
+| :------------: | ------------------------------------------------------------------------- |
+| Functionality  | Corresponde aos requisitos funcionais que serão elicitados separadamente. |
+|   Usability    | RNF03, RNF10, RNF14                                                       |
+|  Reliability   | RNF04, RNF06, RNF08, RNF11, RNF13                                         |
+|  Performance   | RNF01, RNF02, RNF07                                                       |
+| Supportability | RNF02, RNF05, RNF09, RNF15, RFN12                                         |
 
 </center>
-
 
 ## Bibliografia
 
@@ -68,7 +65,8 @@
 
 ## Histórico de Versionamento
 
-Versão |       Alteração       |    Autor(es)   |    Revisor(es) 
----- | ---- | ---- | ---- 
-1.0 | Criação do documento | Daniel |  Gustave e Fernando
-1.1 | Adiçāo de RNFs | Fernando |  Gustave e Daniel
+| Versão | Alteração                         | Autor(es) |    Revisor(es)     |
+| ------ | --------------------------------- | :-------: | :----------------: |
+| 1.0    | Criação do documento              |  Daniel   | Gustave e Fernando |
+| 1.1    | Adiçāo de RNFs                    | Fernando  |  Gustave e Daniel  |
+| 1.2    | Correção e revisão da v1.0 e v1.1 |  Gustave  |         -          |
