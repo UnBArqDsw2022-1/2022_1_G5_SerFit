@@ -4,10 +4,12 @@
 
 - **Base**
   - **Projeto Não Orientado a Abordagens Específicas**
-    - [Design Sprint](pages/Base/ProjetoNaoOrientado/DesignSprint.md)
-    - [Diagramas de Causa e Efeito](pages/Base/ProjetoNaoOrientado/CausaEfeito.md)
-    - [Termo de Abertura](pages/Base/ProjetoNaoOrientado/TAP.md)
-    - [5W2H](pages/Base/Metodologias/5W2H.md)
+  [Design Sprint](pages/Base/ProjetoNaoOrientado/DesignSprint.md)
+  - **Requisitos**
+    - **Pré-Rastreabilidade**
+      - [Rich Picture](pages/Base/Metodologias/RichPicture.md)
+      - [5W2H](pages/Base/Metodologias/5W2H.md)
+      - [Diagramas de Causa e Efeito](pages/Base/ProjetoNaoOrientado/CausaEfeito.md)
   - **Requisitos**
     - **Elicitação**
       - [Brainstorm](pages/Base/ProjetoNaoOrientado/Requisistos/Elicitacao/Brainstorm.md)
@@ -20,6 +22,7 @@
     - [Metodologia](pages/Base/Metodologias/Metodologias.md)
     - [Metodologia BPMN](pages/Base/Metodologias/BPMN.md)
   - **Iniciativas extras**
+    - [Termo de Abertura](pages/Base/ProjetoNaoOrientado/TAP.md)
     - [Política de Contribuição](pages/Base/ProjetoNaoOrientado/Extra/CONTRIBUTING.md)
     - [Disponibilidade de Horários](pages/Base/ProjetoNaoOrientado/Extra/heatmap.md)
 
