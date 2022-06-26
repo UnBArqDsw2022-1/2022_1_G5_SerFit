@@ -15,6 +15,7 @@
     - **Modelagem**
       - [Léxicos](pages/Base/ProjetoNaoOrientado/Requisistos/Modelagem/Lexicos.md)
   - **Processos, Metodologias e Abordagens**
+    - [Metodologia](pages/Base/Metodologias/Metodologias.md)
     - [Metodologia BPMN](pages/Base/Metodologias/BPMN.md)
   - **Iniciativas extras**
     - [Política de Contribuição](pages/Base/ProjetoNaoOrientado/Extra/CONTRIBUTING.md)
