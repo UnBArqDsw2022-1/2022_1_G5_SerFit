@@ -10,6 +10,7 @@
       - [Rich Picture](pages/Base/Metodologias/RichPicture.md)
       - [5W2H](pages/Base/Metodologias/5W2H.md)
       - [Diagramas de Causa e Efeito](pages/Base/ProjetoNaoOrientado/CausaEfeito.md)
+  - **Requisitos**
     - **Elicitação**
       - [Brainstorm](pages/Base/ProjetoNaoOrientado/Requisistos/Elicitacao/Brainstorm.md)
       - [Instrospecção](pages/Base/ProjetoNaoOrientado/Requisistos/Elicitacao/Introspeccao.md)
@@ -17,6 +18,7 @@
       - [Léxicos](pages/Base/ProjetoNaoOrientado/Requisistos/Modelagem/Lexicos.md)
   - **Processos, Metodologias e Abordagens**
   - **Iniciativas extras**
+    - [Termo de Abertura](pages/Base/ProjetoNaoOrientado/TAP.md)
     - [Política de Contribuição](pages/Base/ProjetoNaoOrientado/Extra/CONTRIBUTING.md)
 
 - **Modelagem**
