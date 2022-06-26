@@ -65,6 +65,5 @@ Para nosso contexto serão utilizados as seguintes pipelines:
 
  Versão |       Alteração       |    Autor(es)   |    Revisor(es)
   ---   |          ---          |       ---      |      ---
-  0.1 |  Criação do documento |  Adrian Soares | ---
   1.0 |  Criação do mapa mental das metodologias |  Luis Gustavo | ---
   1.1 |  Descrição de cada metodologia escolhida, juntamente com suas referências |  Luis Gustavo | ---
