@@ -14,7 +14,7 @@
     - **Modelagem**
       - [Léxicos](pages/Base/ProjetoNaoOrientado/Requisistos/Modelagem/Lexicos.md)
     - **Priorização**
-      - [MoSCoW](pages/Base/ProjetoNaoOrientado/Requisistos/Priorização/Moscow.md)
+      - [MoSCoW](pages/Base/ProjetoNaoOrientado/Requisistos/Priorizacao/Moscow.md)
   - **Processos, Metodologias e Abordagens**
   - **Iniciativas extras**
     - [Política de Contribuição](pages/Base/ProjetoNaoOrientado/Extra/CONTRIBUTING.md)

@@ -26,21 +26,21 @@ A partir de técnicas de elicitação como: [Brainstorm](https://unbarqdsw2022-1
 ID | Descricão | Tipo de Requisito | Prioridade |
 ---- | ---- | ---- | ----
 BS01 | O Prestador de Serviço deve capaz de se cadastrar | RF | Must
-BS02 | O Prestador de Serviço deve capaz de se editar o seu cadastro | RF | Should
-BS03 | O Prestador de Serviço deve capaz de classificar o tipo de serviço | RF | Could
-BS04 | Um usuário deve ser capaz de recomendar um prestador de serviço para outro usuário | RF | Should
-BS05 | A plaforma deve agendar um grade horária com os serviços agendados | RF | Could
-BS06 | O usuário deve poder fazer uma vídeo chamada para o atendimento do serviço adquirido | RF | Should
+BS02 | O Prestador de Serviço deve capaz de se editar o seu cadastro | RF | Must
+BS03 | O Prestador de Serviço deve capaz de classificar o tipo de serviço | RF | Should
+BS04 | Um usuário deve ser capaz de recomendar um prestador de serviço para outro usuário | RF | Could
+BS05 | A plaforma deve agendar um grade horária com os serviços agendados | RF | Should
+BS06 | O usuário deve poder fazer uma vídeo chamada para o atendimento do serviço adquirido | RF | Could
 BS07 | O usuário deve ser capaz de buscar serviços | RF | Should
-BS08 | O usuário deve ser capaz de filtrar serviços | RF | Could
-BS09 | O usuário deve conseguir avaliar prestadores de serviço | RF | Could
+BS08 | O usuário deve ser capaz de filtrar serviços | RF | Should
+BS09 | O usuário deve conseguir avaliar prestadores de serviço | RF | Should
 BS10 | A plataforma deve ter uma seção de destaque | RF | Would/Wan't/Won't
 BS11 | O Prestador de serviço deve ser capaz de adicionar vídeos | RF | Must
 BS12 | O Prestador de serviço deve ser capaz de adicionar imagens | RF | Must
-BS13 | O Prestador de serviço deve ser capaz de adicionar links para produtos de lojas parceiras | RF | Could
+BS13 | O Prestador de serviço deve ser capaz de adicionar links para produtos de lojas parceiras | RF | Would/Wan't/Won't
 BS14 | A plataforma deve ter chat de mensagens para permitir interação entre os usuários | RF | Should
 IN01 | O usuário deve ser capaz de buscar serviços  | RF | Should
-IN02 | O usuário deve ser capaz de filtrar serviços | RF | Could
+IN02 | O usuário deve ser capaz de filtrar serviços | RF | Should
 IN03 | O usuário deve conseguir ver atividades, treinos, exercícios | RF | Must
 IN04 | O usuário deve ser capaz de encontrar outros usuários | RF | Should
 IN05 | A plataforma deve ter chat de mensagens para permitir interação entre os usuários | RF | Should
@@ -62,3 +62,4 @@ IN09 | A plataforma deve permitir a adição de conteúdo em texto, fotos e víd
   ---   |          ---          |       ---        |      ---
   1.0   |  Criação do Documento com introdução e metodologia | Luis Gustavo | ---
   1.1   |  Adicionado requisitos com a referente priorização | Luis Gustavo | ---
+  1.2   |  Revisão da priorização com pequenas alterações | Luis Gustavo | ---
