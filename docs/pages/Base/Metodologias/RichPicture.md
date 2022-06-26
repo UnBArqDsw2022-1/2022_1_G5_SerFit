@@ -48,7 +48,11 @@ O grupo optou por utilizar o artefato como uma forma de elucidar as ideias dos m
 
 ![alt text](../../../assets/richpicture/wesleysantos.jpeg)
 
-## 3. Referências
+### 3.2. Unificado
+
+![unif_rich](../../../assets/richpicture/RichPictureFinal.png)
+
+## 4. Referências
 
 * SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 4. 1º/2019. 37 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 * SERRANO, Milene. 02c - VídeoAula - DSW - Base - RichPicture. Material apresentado para a disciplina de Arquitetura e Desenho de Software no curso de Engenharia de Software da Universidade de Brasília, FGA.
@@ -60,3 +64,4 @@ O grupo optou por utilizar o artefato como uma forma de elucidar as ideias dos m
   ---   |          ---          |       ---      |      ---
   1.0 |  Criação do documento com introdução, metodologia e referências |  Luis Gustavo | ---
   1.1 |  Adição dos Rich Pictures individuais |  Luis Gustavo | ---
+  1.2 |  Adição do Unificado |  Adrian Soares | ---
