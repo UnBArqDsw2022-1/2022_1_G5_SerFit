@@ -27,7 +27,7 @@
 
 | ID     |                                                                    Requisito                                                                     | MosCoW |
 | :----- | :----------------------------------------------------------------------------------------------------------------------------------------------: | :----: |
-| RNF 01 |                                                 O aplicativo não pode demorar muito para abrir.                                                  | Should |
+| RNF 01 |                                                 O aplicativo não pode demorar mais de 2s para abrir ou Logar.                                    | Should |
 | RNF 02 |                                                    O aplicativo não pode ficar indisponível.                                                     |  Must  |
 | RNF 03 |                                   Os usuários devem conseguir encontrar a funcionalidade desejada rapidamente                                    | Should |
 | RNF 04 |                                                O aplicativo deve proteger os dados dos usuários.                                                 |  Must  |
@@ -42,7 +42,11 @@
 | RNF 13 |                                       O aplicativo deverá possuir uma cobertura de testes maior do que 70%                                       | Should |
 | RNF 14 |            O aplicativo deverá possuir documentação legivel e compreensivel sobre a instalação e as boas praticas de desenvolvimento             |  MUST  |
 | RNF 15 |                                 O aplicativo deverá possuir uma instância de testes e uma instancia de produçāo                                  | Could  |
+| RNF 16 |                                   O aplicativo deve ter uma interface coerente com padrão de cores e ícones.                                     | Should |
+| RNF 17 |     O aplicativo deve ser intuitivo e de fácil utilização. Com layouts semelhantes à aplicações de mídias sociais já estabelecidas .             | Could  |
 | RF 16  |        A capacidade de um usuário conectar nosso aplicativo aos seus contatos, selecionar seu amigo e enviar uma mensagem pré-preenchida.        | Would  |
+| RF 17  |           O usuário deve ser notificado de ações como horários de agendamentos, mensagens e conteúdos de profissionais favoritados.              | Could  |
+
 
 </center>
 
@@ -51,7 +55,7 @@
 |     FURPS      | Requisito                                                                 |
 | :------------: | ------------------------------------------------------------------------- |
 | Functionality  | Corresponde aos requisitos funcionais que serão elicitados separadamente. |
-|   Usability    | RNF03, RNF10, RNF14                                                       |
+|   Usability    | RNF03, RNF10, RNF14, RNF16, RNF17                                         |
 |  Reliability   | RNF04, RNF06, RNF08, RNF11, RNF13                                         |
 |  Performance   | RNF01, RNF02, RNF07                                                       |
 | Supportability | RNF02, RNF05, RNF09, RNF15, RFN12                                         |
@@ -60,8 +64,8 @@
 
 ## Bibliografia
 
-> - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 13;
-> - https://qualidadebr.wordpress.com/2008/07/10/furps#:~:text=FURPS%2B%20%C3%A9%20um%20sistema%20paraRational%20Unified%20Process%20(RUP)%3A
+* SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 13;
+* https://qualidadebr.wordpress.com/2008/07/10/furps#:~:text=FURPS%2B%20%C3%A9%20um%20sistema%20paraRational%20Unified%20Process%20(RUP)%3A
 
 ## Histórico de Versionamento
 
