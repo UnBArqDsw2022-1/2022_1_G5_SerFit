@@ -40,18 +40,18 @@ Case o projeto necessite de novas funcionalidade, documentação, correção de 
 
 # 4. Política de Commits
 
-Commits devem ser feitos de maneira clara, sucinta e objetiva, descrevendo as alterações realizadas e, em caso de commit realizado por mais de uma pessoa, os demais autores deverão ser representados pelo termo `Co-authored-by:`.
+Commits devem ser feitos de maneira clara, sucinta e objetiva, descrevendo as alterações realizadas seguindo o padrão "#NumeroIssue - Mensagem". Em caso de commit realizado por mais de uma pessoa, os demais autores deverão ser representados pelo termo `Co-authored-by:`.
 
 Ex. de commit:
 
 ```
-Adicionado campo de email no formulário de login
+#18 - Adicionado campo de email no formulário de login
 ```
 
 Ex de commit com mais de um autor:
 
 ```
-Adicionado campo de email no formulário de login
+#12 - Adicionado campo de email no formulário de login
 
 Co-authored-by: Usuário <email@email.com>
 ```
@@ -60,14 +60,24 @@ Co-authored-by: Usuário <email@email.com>
 
 Alterações no projeto deverão ser feitos por meio de Pull Requests e estes deverão seguir corretamente a padrão disponibilizado e para ser aprovado precisão se conformar qualquer verificação automática que existir (Lintter/CI/CD/etc...) e ser revisado por ao menos um membro oficial do projeto.
 
-# 6. Referências
+# 6. Política de Revisão de Documentos
 
-* Fluxo de Trabahlo de Gitflow. Disponível em: < https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow > Acesso em: 23 de Junho de 2022
-* Exemplo de Guia de Contribuição. Disponível em < https://github.com/DNXLabs/terraform-aws-ecs/blob/master/CONTRIBUTING.md > Acesso em: 23 de Junho de 2022
+Os documentos que forem revisados deverão ser rastreáveis no histórico de versão que se encontra na parte inferior de todos os documentos, conforme o padrão mostrado a seguir:
+
+| Versão | Alteração                  | Autor(es)       | Revisor(es)     |
+| ------ | -------------------------- | --------------- | --------------- |
+| 1.0    | Criação do Documentos      | Nome do autor   | Nome do revisor |
+| 1.1    | Correção e revisão da v1.0 | Nome do revisor | ----            |
+
+# 7. Referências
+
+- Fluxo de Trabahlo de Gitflow. Disponível em: < https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow > Acesso em: 23 de Junho de 2022
+- Exemplo de Guia de Contribuição. Disponível em < https://github.com/DNXLabs/terraform-aws-ecs/blob/master/CONTRIBUTING.md > Acesso em: 23 de Junho de 2022
 
 ## Histórico de Versionamento
 
-Versão |       Alteração       |    Autor(es)   |    Revisor(es) 
----- | ---- | ---- | ---- 
-1.0 | Criação do documento | Luis Gustavo |  ---- 
-1.1 | Adicionado política de branches, commits, issues e pull requests | Luis Gustavo |  ---- 
+| Versão | Alteração                                                        | Autor(es)       | Revisor(es) |
+| ------ | ---------------------------------------------------------------- | --------------- | ----------- |
+| 1.0    | Criação do documento                                             | Luis Gustavo    | ----        |
+| 1.1    | Adicionado política de branches, commits, issues e pull requests | Luis Gustavo    | ----        |
+| 1.3    | Detalhando política de commit e adicionando política de revisão  | Gustave Persijn | ----        |
