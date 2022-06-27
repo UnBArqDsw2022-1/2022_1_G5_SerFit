@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-A prototipação é uma etapa importante no desenvolvimento de software, pois possibilita que haja uma interação com a interface do produto antes de seu desenvolvimento. Por meio dessa interação, é possível evoluir ideias, facilitar o entendimento de como a aplicação funciona e encontrar melhorias que podem ser realizadas no produto para que os requisitos sejam atendidos [1].
+A prototipação é uma etapa importante no desenvolvimento de software, pois possibilita que haja uma interação com a interface do produto antes de seu desenvolvimento. Por meio dessa interação, é possível evoluir ideias, facilitar o entendimento de como a aplicação funciona e encontrar melhorias que podem ser realizadas no produto para que os requisitos sejam atendidos, com foco na usabilidade [1].
 
 Um protótipo pode ser de:
 
@@ -34,4 +34,4 @@ O grupo definiu que o protótipo a ser realizado seria de Média Fidelidade e qu
 
  Versão |       Alteração       |    Autor(es)     |    Revisor(es)
   ---   |          ---          |       ---        |      ---
-  1.0   |  Criação do documento | Lucas Gomes | ---
+  1.0   |  Criação do documento | Lucas Gomes | Adrian Soares
