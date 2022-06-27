@@ -6,10 +6,10 @@ Em um projeto de Engenharia de Software, em que o tempo é fixo, é necessário 
 
 O MoSCoW é um framework de priorização de funcionalidades desenvolvido por Dai Clegg na Oracle. O acrônimo representa quatro categorias diferentes de iniciativas:
 
-* **M**ust: Obrigatorio ter;
-* **S**hould: Deveria ter;
-* **C**ould: Poderia ter;
-* **W**ould/**W**ant/**W**on't: Não terão no momento.
+* *M*ust: Obrigatorio ter;
+* *S*hould: Deveria ter;
+* *C*ould: Poderia ter;
+* *Would/Want/W*on't: Não terão no momento.
 
 ## 2. Metodologia
 
@@ -17,11 +17,12 @@ A partir de técnicas de elicitação como: [Brainstorm](https://unbarqdsw2022-1
 
 ## 3. Resultados
 
-**Legenda**
-* BS: Brainstorm
-* IN: Introspecção
-* RF: Requisito Funcional
-* RNF: Requisito não Funcional
+| Legenda 	| Significado             	|   	|
+|---------	|-------------------------	|---	|
+| BS      	| Brainstorm              	|   	|
+| IN      	| Introspecção            	|   	|
+| RF      	| Requisitos Funcional    	|   	|
+| RFN     	| Requisito não funcional 	|   	|
 
 ID | Descricão | Tipo de Requisito | Prioridade |
 ---- | ---- | ---- | ----
@@ -49,9 +50,13 @@ IN07 | O usuário deve conseguir compartilhar seus objetivos/metas | RF | Could
 IN08 | A plataforma deve ter uma seção de destaque de conteúdo (serviços, exercícios, etc...) | RF | Would/Wan't/Won't
 IN09 | A plataforma deve permitir a adição de conteúdo em texto, fotos e vídeos | RF | Must
 
+## 4. Conclusão
+
+Após feita a priorização, os resultados obtidos referente à porcetagem dos requisitos em cada nível de prioridade foi:
+
 ![alt text](../../../../../assets/priorizacao/moscow.png)
 
-## 4. Referências
+## 5. Referências
 
 * Moscow Priorization. Disponível em < https://www.agilebusiness.org/page/ProjectFramework_10_MoSCoWPrioritisation > Acesso 26 de Julho de 2022.
 * O Framework de priorização MoSCoW. Disponível em < https://vidadeproduto.com.br/framework-moscow/ > Acesso 26 de Julho de 2022.
@@ -63,3 +68,4 @@ IN09 | A plataforma deve permitir a adição de conteúdo em texto, fotos e víd
   1.0   |  Criação do Documento com introdução e metodologia | Luis Gustavo | ---
   1.1   |  Adicionado requisitos com a referente priorização | Luis Gustavo | ---
   1.2   |  Revisão da priorização com pequenas alterações | Luis Gustavo | ---
+  1.3   |  Revisando Documento                          | Ricardo Loureiro | ---
