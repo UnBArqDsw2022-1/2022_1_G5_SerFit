@@ -5,6 +5,7 @@
 - **Base**
   - **Projeto Não Orientado a Abordagens Específicas**
   [Design Sprint](pages/Base/ProjetoNaoOrientado/DesignSprint.md)
+  [Protótipo](pages/Base/ProjetoNaoOrientado/PrototipoMedia.md)
   - **Requisitos**
     - **Pré-Rastreabilidade**
       - [Rich Picture](pages/Base/Metodologias/RichPicture.md)
