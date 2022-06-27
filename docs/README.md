@@ -1,4 +1,4 @@
-# Nome do Projeto
+# FitShare
 
 **Código da Disciplina**: FGA0208<br>
 **Número do Grupo**: 5<br>
@@ -24,6 +24,9 @@ Este software tem o objetivo de ajudar e facilitar a vida de pessoas da área fi
 ## Screenshots Primeira Entrega <<FOCO: DSW(Base)>>
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Primeira Entrega.
 
+[![Captura-de-tela-de-2022-06-26-23-53-49.png](https://i.postimg.cc/j2X4GRwT/Captura-de-tela-de-2022-06-26-23-53-49.png)](https://postimg.cc/q6NKKVxD)
+[![Captura-de-tela-de-2022-06-26-23-51-59.png](https://i.postimg.cc/nV55kkKh/Captura-de-tela-de-2022-06-26-23-51-59.png)](https://postimg.cc/xqvtjLFw)
+
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Segunda Entrega.
 
@@ -42,7 +45,7 @@ Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcioname
 ## O Projeto está rodando?
 ( ) SIM
 
-( ) NÃO
+(x) NÃO
 
 Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados em consultar o projeto.
 
