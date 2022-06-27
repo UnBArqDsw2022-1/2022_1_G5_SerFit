@@ -13,6 +13,9 @@
       - [Diagramas de Causa e Efeito](pages/Base/ProjetoNaoOrientado/CausaEfeito.md)
     - **Elicitação**
       - [Brainstorm](pages/Base/ProjetoNaoOrientado/Requisistos/Elicitacao/Brainstorm.md)
+      - [Instrospecção](pages/Base/ProjetoNaoOrientado/Requisistos/Elicitacao/Introspeccao.md)
+      - [Questionário](pages/Base/ProjetoNaoOrientado/Requisistos/Elicitacao/Questionario.md)
+      - [FURPS](pages/Base/ProjetoNaoOrientado/Requisistos/Elicitacao/FURPS+.md)
     - **Modelagem**
       - [Léxicos](pages/Base/ProjetoNaoOrientado/Requisistos/Modelagem/Lexicos.md)
     - **Priorização**
@@ -24,10 +27,6 @@
     - [Termo de Abertura](pages/Base/ProjetoNaoOrientado/TAP.md)
     - [Política de Contribuição](pages/Base/ProjetoNaoOrientado/Extra/CONTRIBUTING.md)
     - [Disponibilidade de Horários](pages/Base/ProjetoNaoOrientado/Extra/heatmap.md)
-    - **Elicitação**
-      - [FURPS](pages/Base/ProjetoNaoOrientado/Requisistos/Elicitacao/FURPS+.md)
-      - [Instrospecção](pages/Base/ProjetoNaoOrientado/Requisistos/Elicitacao/Introspeccao.md)
-      - [Questionário](pages/Base/ProjetoNaoOrientado/Requisistos/Elicitacao/Questionario.md)
 
 - **Modelagem**
 
