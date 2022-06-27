@@ -64,4 +64,4 @@ Versão |       Alteração       |    Autor(es)   |    Revisor(es)
 1.0 | Criação do documento | Adrian Soares |  ----
 1.1 | Diagramas do usuário| Adrian Soares |  ----
 1.2 | Diagramas do projeto| Adrian Soares |  Daniel
-2.0 | Revisão do documento | Daniel Vinicius | ----
+1.3 | Revisão do documento | Daniel Vinicius | ----
