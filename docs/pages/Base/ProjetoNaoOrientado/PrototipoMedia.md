@@ -26,7 +26,11 @@ O grupo definiu que o protótipo a ser realizado seria de Média Fidelidade e qu
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FDDhc2sBZwDraR2S4A8fF9F%2FProt%25C3%25B3tipo%3Fnode-id%3D66%253A30%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D66%253A30" allowfullscreen></iframe>
 
-## 4. Referências
+## 4. Paleta de Cores
+
+![Paleta de Cores](https://github.com/UnBArqDsw2022-1/2022_1_grupo5/blob/main/docs/assets/prototipo/paletaDeCoresProt%C3%B3tipo.jpeg?raw=true)
+
+## 5. Referências
 
 [1] COMO FUNCIONA a prototipação no desenvolvimento de software?. [S. l.], 2022. Disponível em: https://www.treinaweb.com.br/blog/como-funciona-a-prototipacao-no-desenvolvimento-de-software. Acesso em: 26 jun. 2022.
 
@@ -35,3 +39,4 @@ O grupo definiu que o protótipo a ser realizado seria de Média Fidelidade e qu
  Versão |       Alteração       |    Autor(es)     |    Revisor(es)
   ---   |          ---          |       ---        |      ---
   1.0   |  Criação do documento | Lucas Gomes | Adrian Soares
+  1.1   |  Adição da paleta de cores | Felipe Correia | ---
