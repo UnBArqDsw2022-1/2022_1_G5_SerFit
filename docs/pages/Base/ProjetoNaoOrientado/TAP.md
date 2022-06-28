@@ -11,7 +11,7 @@ O presente termo tem a finalidade de definir os objetivos do projeto e mapear se
 ### 2.1. Descrição
 
 <p style="text-align: justify;">
-O projeto do aplicativo fitness tem a finalidade de aproximar usuários que desejam manter e evoluir sua saúde com pessoas capacitadas e indicadas para essa função, como *personal trainers*, nutricionistas, professores de yoga e afins. Com a aplicação será possível unir profissionais em comunidades, onde eles poderão postar conteúdos, serem seguidos por usuários, divulgar seu trabalho online e combinar encontros como aulas presenciais. Os usuários não profissionais poderão acessar conteúdos recomendados e poderão aprimorar seu estilo de vida com mais saúde.</p>
+O projeto do aplicativo fitness tem a finalidade de aproximar usuários que desejam manter e evoluir sua saúde com pessoas capacitadas e indicadas para essa função, como <i>personal trainers</i>, nutricionistas, professores de yoga e afins. Com a aplicação será possível unir profissionais em comunidades, onde eles poderão postar conteúdos, serem seguidos por usuários, divulgar seu trabalho online e combinar encontros como aulas presenciais. Os usuários não profissionais poderão acessar conteúdos recomendados e poderão aprimorar seu estilo de vida com mais saúde.</p>
 
 ### 2.2. Justificativa
 
@@ -99,11 +99,9 @@ O planejamento inicial do tempo foi representado baseando-se nos prazos de entre
 
 <p style="text-align: justify;">
 Os softwares utilizados serão todos OpenSource e nos aproveitaremos do Hardware disponível por todos o membros da disciplina, já que a maior parte do trabalho será realizada de forma remota.
-A grande fonte de custo serão os recursos humanos, ou seja, o time composto de 10 membros.
+A grande fonte de custo serão os recursos humanos, ou seja, o time composto de 10 membros.</p>
 
 Considerando a média salarial de R$ 2.500,00 (fonte: https://www.glassdoor.com.br/Sal%C3%A1rios/programador-j%C3%BAnior-sal%C3%A1rio-SRCH_KO0,18.htm). E considerando os 10 membros em 3 meses de trabalho para a entrega do MVP, conseguimos estimar um custo de R$ 90.000,00 com uma margem de +20% para possíveis gargalos e imprevistos.
-
-</p>
 
 ## 3. Referências
 

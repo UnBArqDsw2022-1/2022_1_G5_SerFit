@@ -2,7 +2,9 @@
 
 ## 1. Introdução
 
+<p style="text-align: justify;">
 A prototipação é uma etapa importante no desenvolvimento de software, pois possibilita que haja uma interação com a interface do produto antes de seu desenvolvimento. Por meio dessa interação, é possível evoluir ideias, facilitar o entendimento de como a aplicação funciona e encontrar melhorias que podem ser realizadas no produto para que os requisitos sejam atendidos, com foco na usabilidade [1].
+</p>
 
 Um protótipo pode ser de:
 
@@ -14,7 +16,10 @@ Um protótipo pode ser de:
 
 ## 2. Metodologia
 
-O grupo definiu que o protótipo a ser realizado seria de Média Fidelidade e que seria feito na plataforma [Figma](figma.com). Os membros que participaram da elaboração do protótipo foram:
+<p style="text-align: justify;">
+O grupo definiu que o protótipo a ser realizado seria de Média Fidelidade e que seria feito na plataforma <a href="figma.com">Figma</a>. Os membros que participaram da elaboração do protótipo foram:
+</p>
+
 <ul>
 <li>Lucas Gomes Lopes</li>
 <li>Felipe Correia Andrade</li>
@@ -36,7 +41,7 @@ O grupo definiu que o protótipo a ser realizado seria de Média Fidelidade e qu
 
 ## Histórico de Versionamento
 
- Versão |       Alteração       |    Autor(es)     |    Revisor(es)
-  ---   |          ---          |       ---        |      ---
-  1.0   |  Criação do documento | Lucas Gomes | Adrian Soares
-  1.1   |  Adição da paleta de cores | Felipe Correia | ---
+| Versão | Alteração                 | Autor(es)      | Revisor(es)   |
+| ------ | ------------------------- | -------------- | ------------- |
+| 1.0    | Criação do documento      | Lucas Gomes    | Adrian Soares |
+| 1.1    | Adição da paleta de cores | Felipe Correia | ---           |
