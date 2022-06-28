@@ -27,29 +27,24 @@
 - Crítica (Criou/participou de issue de grande complexidade ou fez sozinho);
 - Importante (Contribuição que modificou o documento de forma essencial);
 - Simples (Correções ortográficas, revisões sem muitas alterações);
-- --- (Nenhuma).
-<!--
-Como preencher:
-Copie:
-<ul><li>Contrib 1</li><li>Contrib 2...</li></ul><p>Nível: [Crítica, Importante, Simples]</p>
--->
+- (---) (Nenhuma).
 
 ## Tabela 1
 
-|Artefato| <p>16/0000572</p> [Adrian Soares Lopes](https://github.com/SwampTG) | <p>19/0026375</p>  [Daniel Vinicius Ribeiro Alves](https://github.com/DanielViniciusAlves) | <p>18/0113259</p> [Felipe Correia Andrade](https://github.com/Percon12) | <p>14/0139281</p> [Fernando Ribeiro Aguilar](https://github.com/fernando-ra) | 19/0046091 [Gustave Augusto Persijn](https://github.com/gpersijn) |
+|Artefato| <p>16/0000572</p> [Adrian Soares Lopes](https://github.com/SwampTG) | <p>19/0026375</p>  [Daniel Vinicius Ribeiro Alves](https://github.com/DanielViniciusAlves) | <p>18/0113259</p> [Felipe Correia Andrade](https://github.com/Percon12) | <p>14/0139281</p> [Fernando Ribeiro Aguilar](https://github.com/fernando-ra) | <p>19/0046091</p> [Gustave Augusto Persijn](https://github.com/gpersijn) |
 |:---|:---:|:---:|:---:|:---:|:---:|
-|**Mapa Mental**             |<ul><li>Ideias de requisitos funcionais e não funcionais</li><li>Ideias de escopo</li></ul><p>Nível: Importante</p><!-- end Adrian -->|---|<ul><li>Ideia de alguns requistos tanto funcionais quanto nao funcionais</li></ul><p>Nível: Importante</p>|---|
-|Rich Picture            |<ul><li>Sketch prórpia</li><li>Unificação</li></ul><p>Nível: Importante</p><!-- end Adrian  -->|<ul><li>Sketch prórpia</li></ul><p>Nível: Importante</p><!-- end Daniel -->|<ul><li>Ideias de requisitos funcionais e não funcionais</li><li>Sketch própria</li></ul><p>Nível: Importante</p><!-- end Felipe -->|---|<ul><li>Sketch prórpia</li></ul><p>Nível: Simples</p>|
+|**Mapa Mental**         |<ul><li>Ideias de requisitos funcionais e não funcionais</li><li>Ideias de escopo</li></ul><p>Nível: Importante</p><!-- end Adrian -->|---|<ul><li>Ideia de alguns requistos tanto funcionais quanto nao funcionais</li></ul><p>Nível: Importante</p>|---|
+|Rich Picture            |<ul><li>Sketch prórpia</li><li>Unificação</li></ul><p>Nível: Importante</p><!-- end Adrian  -->|<ul><li>Sketch prórpia</li></ul><p>Nível: Importante</p><!-- end Daniel -->|<ul><li>Ideias de requisitos funcionais e não funcionais</li><li>Sketch própria</li></ul><p>Nível: Importante</p><!-- end Felipe -->|---|<ul><li>Sketch própria</li></ul><p>Nível: Simples</p>|
 |Léxicos                 |---|---|---|---|---|
 |BPMN                    |---|---|---|---|---|
 |Metodologias            |---|---|---|<ul><li>Sugestões, criaçāo do board kanban, manutenção</li> Nivel: Simples </ul>|---|
-|Design Sprint           |---|---|---|<ul><li>Edição, ideação, colaboração</li> Nível: Importante|---|
+|Design Sprint           |---|---|---|<ul><li>Edição, ideação, colaboração</li></ul> Nível: Importante|---|
 |5W2H                    |---|<ul><li>Correção de alguns erros ortográficos</li><li>Adição de alguns pontos</li><li>Revisão</li></ul><p>Nível: Simples</p><!-- end Daniel -->|---|---|---|
-|FURPS+                  |<ul><li>Alguns requisitos de usabilidade</li><li>Alguns requisitos funcionais</li></ul><p>Nível: Simples</p><!-- end Adrian -->|<ul><li>Criação do artefato</li><li>Adição de requisitos não funcionais</li></ul><p>Nível: Crítica</p><!-- end Daniel -->|---|<ul><li>Adiçāo de requisitos funcionais e nāo funcionais</li><li>categorizaçāo dos novos requisitos</li> Nivel: Importante|---|
+|FURPS+                  |<ul><li>Alguns requisitos de usabilidade</li><li>Alguns requisitos funcionais</li></ul><p>Nível: Simples</p><!-- end Adrian -->|<ul><li>Criação do artefato</li><li>Adição de requisitos não funcionais</li></ul><p>Nível: Crítica</p><!-- end Daniel -->|---|<ul><li>Adiçāo de requisitos funcionais e nāo funcionais</li><li>categorizaçāo dos novos requisitos</li></ul> Nivel: Importante|---|
 |Introspecção            |---|---|---|---|---|
 |Causa e Efeito          |<ul><li>Criação artefato</li><li>Diagramas</li></ul><p>Nível: Crítica</p><!-- end Adrian -->|<ul><li>Correção de alguns erros ortográficos</li><li>Adição de alguns pontos</li><li>Revisão</li></ul><p>Nível: Simples</p><!-- end Daniel -->|---|---|---|
 |Termo de Abertura       |<ul><li>Criação artefato</li><li>Planos</li></ul><p>Nível: Crítica</p><!-- end Adrian -->|---|---|---|---|
-|MOSCOW                  |---|---|---|<ul><li>Classificaçāo dos requisitos levantados durante furps</li> nivel: simples|---|
+|MOSCOW                  |---|---|---|<ul><li>Classificaçāo dos requisitos levantados durante furps</li></ul> nivel: simples|---|
 |Protótipo de média      |<ul><li>Revisão</li></ul><p>Nível: Simples</p><!-- end Adrian -->|---|<ul><li>Criação do documento e de algumas telas</li><li>Revisão da padronização do documento </li></ul><p>Nível: Crítica</p><!-- end Adrian -->|---|---|
 |Política de contribuição|---|---|---|<ul><li>Revisão do pull request</li> Nivel: Simples</ul>|---|
 |Código de conduta       |---|---|---|<ul><li>Revisão do pull request</li> Nivel: Simples</ul>|---|
