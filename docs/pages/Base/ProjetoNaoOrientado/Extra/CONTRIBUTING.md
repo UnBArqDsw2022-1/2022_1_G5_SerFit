@@ -103,4 +103,4 @@ Os documentos que forem revisados deverão ser rastreáveis no histórico de ver
 | ------ | ---------------------------------------------------------------- | --------------- | ----------- |
 | 1.0    | Criação do documento                                             | Luis Gustavo    | ----        |
 | 1.1    | Adicionado política de branches, commits, issues e pull requests | Luis Gustavo    | ----        |
-| 1.3    | Detalhando política de commit e adicionando política de revisão  | Gustave Persijn | ----        |
+| 1.2    | Detalhando política de commit e adicionando política de revisão  | Gustave Persijn | ----        |
