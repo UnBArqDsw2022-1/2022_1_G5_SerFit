@@ -40,15 +40,15 @@
 |Metodologias            |---|---|---|<ul><li>Sugestões, criaçāo do board kanban, manutenção</li> Nivel: Simples </ul>|---|
 |Design Sprint           |---|---|---|<ul><li>Edição, ideação, colaboração</li></ul> Nível: Importante|---|
 |5W2H                    |---|<ul><li>Correção de alguns erros ortográficos</li><li>Adição de alguns pontos</li><li>Revisão</li></ul><p>Nível: Simples</p><!-- end Daniel -->|---|---|---|
-|FURPS+                  |<ul><li>Alguns requisitos de usabilidade</li><li>Alguns requisitos funcionais</li></ul><p>Nível: Simples</p><!-- end Adrian -->|<ul><li>Criação do artefato</li><li>Adição de requisitos não funcionais</li></ul><p>Nível: Crítica</p><!-- end Daniel -->|---|<ul><li>Adiçāo de requisitos funcionais e nāo funcionais</li><li>categorizaçāo dos novos requisitos</li></ul> Nivel: Importante|---|
+|FURPS+                  |<ul><li>Alguns requisitos de usabilidade</li><li>Alguns requisitos funcionais</li></ul><p>Nível: Simples</p><!-- end Adrian -->|<ul><li>Criação do artefato</li><li>Adição de requisitos não funcionais</li></ul><p>Nível: Crítica</p><!-- end Daniel -->|---|<ul><li>Adiçāo de requisitos funcionais e nāo funcionais</li><li>categorizaçāo dos novos requisitos</li></ul> Nivel: Importante|<ul><li>Contribuição na tabela FURPS</li><li>Revisão ortográfica</li> <p>Nivel: Importante</p>|
 |Introspecção            |---|---|---|---|---|
 |Causa e Efeito          |<ul><li>Criação artefato</li><li>Diagramas</li></ul><p>Nível: Crítica</p><!-- end Adrian -->|<ul><li>Correção de alguns erros ortográficos</li><li>Adição de alguns pontos</li><li>Revisão</li></ul><p>Nível: Simples</p><!-- end Daniel -->|---|---|---|
-|Termo de Abertura       |<ul><li>Criação artefato</li><li>Planos</li></ul><p>Nível: Crítica</p><!-- end Adrian -->|---|---|---|---|
+|Termo de Abertura       |<ul><li>Criação artefato</li><li>Planos</li></ul><p>Nível: Crítica</p><!-- end Adrian -->|---|---|---|<li>Revisão ortográfica e revisão de PR</li> <p>Nivel: Simples</p>|
 |MOSCOW                  |---|---|---|<ul><li>Classificaçāo dos requisitos levantados durante furps</li></ul> nivel: simples|---|
 |Protótipo de média      |<ul><li>Revisão</li></ul><p>Nível: Simples</p><!-- end Adrian -->|---|<ul><li>Criação do documento e de algumas telas</li><li>Revisão da padronização do documento </li></ul><p>Nível: Crítica</p><!-- end Adrian -->|---|---|
-|Política de contribuição|---|---|---|<ul><li>Revisão do pull request</li> Nivel: Simples</ul>|---|
+|Política de contribuição|---|---|---|<ul><li>Revisão do pull request</li> Nivel: Simples</ul>|<li>Adicionando política de commit e de revisão</li> Nível: Simples |
 |Código de conduta       |---|---|---|<ul><li>Revisão do pull request</li> Nivel: Simples</ul>|---|
-|Organização do repo     |<ul><li>Criação do Repo</li><li>Convite dos membros</li><li>Adições ao README</li><li>Cards de membros</li><li>Organizaçao de Issues</li><li>Diagrama HeatMap</li></ul><p>Nível: Simples</p><!-- end Adrian -->|---|<ul><li>Criação de branches</li><li>Criação de issues</li></ul><p>Nível: Simples</p><!-- end Felipe -->|---|---|
+|Organização do repo     |<ul><li>Criação do Repo</li><li>Convite dos membros</li><li>Adições ao README</li><li>Cards de membros</li><li>Organizaçao de Issues</li><li>Diagrama HeatMap</li></ul><p>Nível: Simples</p><!-- end Adrian -->|---|<ul><li>Criação de branches</li><li>Criação de issues</li></ul><p>Nível: Simples</p><!-- end Felipe -->|---|<ul><li>Arrumando padrão de texto justificado em todos os documentos</li><li>Revisão ortográfica de todos os documentos</li> Nivel: Importante</ul> |
 
 ## Tabela 2
 
