@@ -97,11 +97,18 @@ O planejamento inicial do tempo foi representado baseando-se nos prazos de entre
 
 #### 2.4.3. Custos
 
-<p style="text-align: justify;">
-Os softwares utilizados serão todos OpenSource e nos aproveitaremos do Hardware disponível por todos o membros da disciplina, já que a maior parte do trabalho será realizada de forma remota.
+<p style="text-align: justify;"> 
+Deve-se considerar, em conjunto, as possibilidades de custos principais e uma margem de erro para que o projeto não incorra em diparidades econômicos.
+Os softwares utilizados serão todos OpenSource ou gratuitos, por tanto, não ocorrerão gastos com licenças de software. Os membros utilizarão sistemas baseados em Linux.
 A grande fonte de custo serão os recursos humanos, ou seja, o time composto de 10 membros.</p>
 
-Considerando a média salarial de R$ 2.500,00 (fonte: https://www.glassdoor.com.br/Sal%C3%A1rios/programador-j%C3%BAnior-sal%C3%A1rio-SRCH_KO0,18.htm). E considerando os 10 membros em 3 meses de trabalho para a entrega do MVP, conseguimos estimar um custo de R$ 90.000,00 com uma margem de +20% para possíveis gargalos e imprevistos.
+<p style="text-align: justify;"> Considerando a média salarial de R$ 2.500,00 para um desenvolvedor iniciante (fonte: https://www.glassdoor.com.br/Sal%C3%A1rios/programador-j%C3%BAnior-sal%C3%A1rio-SRCH_KO0,18.htm), utilizamos custo da hora de trabalho como R$ 15,63 (2500/(8 h * 20 dias úteis)), para que haja uma boa margem de erro, mesmo que a maioria dos membros esteja no nível de estagiário.</p>
+
+<p style="text-align: justify;"> Considerando os 10 membros em 3 meses de trabalho para a entrega do MVP, trabalhando 4h diárias,  conseguimos estimar um custo de R$ 37.512,00 para o custo de cada membro. Esse custo somado ao deslocamento de cada um, 2 vezes por semana, para reuniões semanais presenciais (às quartas e sextas, durante o horário da disciplina) foi somado ao valor da passagem individual em 2022, em Brasília-DF (R$ 11,00 por dia) durante os 3 meses (R$ 264,00), totalizando R$ 40.152,00.</p>
+
+<p style="text-align: justify;"> Como um Hardware de bom custo benefício, consideramos notebooks ASUS X515JA-EJ1792, com preços de até R$ 2.890,00 ([loja 1](https://www.magazineluiza.com.br/notebook-asus-x515ja-ej1792-intel-core-i5-1035g1-8gb-256gb-ssd-linux-156-led-backlit-tft-lcd-cinza/p/ehk7ghced0/in/note/?&seller_id=asus) e [loja 2](https://www.casasbahia.com.br/notebook-asus-x515ja-ej1792-intel-core-i5-1035g1-8gb-256gb-ssd-linux-156-quot-led-backlit-tft-lcd-cinza-1531203572/p/1531203572?utm_medium=Cpc&utm_source=google_freelisting&IdSku=1531203572&idLojista=13702&tipoLojista=3P)). Possui uma boa configuração, com processador I5 e, 8gb de Ram e SSD e não possui o custo da licença do Sistema Operacional Windows embutida. O custo com hardware totaliza R$ 28.900,00.</p>
+
+<p style="text-align: justify;"> **O custo com pessoas e hardware totalizam R$ 69.052,00, em 3 meses de trabalho**. Considerando uma margem de erro de 20% como alguma segurança para emprevistos, **o custo final é de R$ 82.862,40**</p>
 
 ## 3. Referências
 
@@ -116,3 +123,4 @@ Considerando a média salarial de R$ 2.500,00 (fonte: https://www.glassdoor.com.
 | 1.0    | Criação do Documentos   | Adrian Soares   | ----        |
 | 1.1    | Planos de Tempo e Custo | Adrian Soares   | ----        |
 | 1.2    | Revisão da v1.0 e v1.1  | Gustave Persijn | ----        |
+| 1.3    | Análise de custo especificada  | Adrian Soares | ----        |
