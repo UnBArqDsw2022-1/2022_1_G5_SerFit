@@ -3,6 +3,7 @@
 - [Página Inicial](README.md)
 
 - **Base**
+  - [Contribuições entrega Base](pages/Base/Contribuicoes_entrega_1.md)
   - **Projeto Não Orientado a Abordagens Específicas**
   [Design Sprint](pages/Base/ProjetoNaoOrientado/DesignSprint.md)
   [Protótipo](pages/Base/ProjetoNaoOrientado/PrototipoMedia.md)
