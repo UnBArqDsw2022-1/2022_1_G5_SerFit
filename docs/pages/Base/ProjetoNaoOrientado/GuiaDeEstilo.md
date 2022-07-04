@@ -42,9 +42,8 @@
 ### 3.3. Símbolos não tipográficos
 
 <img src="https://user-images.githubusercontent.com/48844857/157974806-e9861053-e8b3-4e3e-a1f9-b7359bfd3699.png" width="600">
-  <br><b>Figura 3: Simbolos do aplicativo</b>
-  <br><small><i>Fonte: Autores</i></small>
-</p>
+<br><b>Figura 3: Simbolos do aplicativo</b>
+<br><small><i>Fonte: Autores</i></small>
 
 ### 3.4. Paleta de Cores
 
