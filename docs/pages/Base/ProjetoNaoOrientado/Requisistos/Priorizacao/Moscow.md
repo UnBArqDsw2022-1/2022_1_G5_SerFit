@@ -23,12 +23,14 @@ A partir de técnicas de elicitação como: <a href="https://unbarqdsw2022-1.git
 
 ## 3. Resultados
 
-| Legenda | Significado             |     |
-| ------- | ----------------------- | --- |
-| BS      | Brainstorm              |     |
-| IN      | Introspecção            |     |
-| RF      | Requisitos Funcional    |     |
-| RFN     | Requisito não funcional |     |
+| Legenda | Significado             |
+| ------- | ----------------------- |
+| BS      | Brainstorm              |
+| IN      | Introspecção            |
+| QT      | Questionário            |
+| FU      | FURPS+                  |
+| RF      | Requisitos Funcional    |
+| RFN     | Requisito não funcional |
 
 | ID   | Descricão                                                                                 | Tipo de Requisito | Prioridade        |
 | ---- | ----------------------------------------------------------------------------------------- | ----------------- | ----------------- |
@@ -55,6 +57,36 @@ A partir de técnicas de elicitação como: <a href="https://unbarqdsw2022-1.git
 | IN07 | O usuário deve conseguir compartilhar seus objetivos/metas                                | RF                | Could             |
 | IN08 | A plataforma deve ter uma seção de destaque de conteúdo (serviços, exercícios, etc...)    | RF                | Would/Wan't/Won't |
 | IN09 | A plataforma deve permitir a adição de conteúdo em texto, fotos e vídeos                  | RF                | Must              |
+| QT01 | O software deve rodar prioritariamente em plataforma Mobile                                   | RNF               | Must
+| QT02 | O aplicativo deve mostrar o plano de exercícios                                               | RF                | Must
+| QT03 | O aplicativo deve ter uma base de dados de exercícios                                         | RF                | Must
+| QT04 | O aplicativo deve ter uma forma de _gamification_ para incentivar os consumidores de serviços | RNF               | Could
+| QT05 | O aplicativo deve disponibilizar plano de valores dos prestadores e de seus serviços          | RF                | Should
+| QT06 | O aplicativo deve disponibilizar perfil do profissional, com seu currículo                    | RF                | Should
+| QT07 | O aplicativo deve dispor de filtro por categoria de profissional                              | RF                | Should
+| QT08 | A aplicação deve permitir compartilhamento de video-aulas                                     | RF                | Could
+| QT09 | O usuário deve conseguir salvar e criar seus próprios planos de exercícios                    | RF                | Should
+| QT10 | O software deve permitir a filtragem de profissionais por região                              | RF                | Should
+| QT11 | A aplicação deve ser fácil de utilizar por usuários de diversas idades, inclusive idosos      | RNF               | Must
+| FU01 | O aplicativo não pode demorar mais de 2s para abrir ou Logar. | RNF | Should |
+| FU02 | O aplicativo não pode ficar indisponível. | RNF | Must |
+| FU03 | Os usuários devem conseguir encontrar a funcionalidade desejada rapidamente | RNF | Should |
+| FU04 | O aplicativo deve proteger os dados dos usuários. | RNF |  Must  |
+| FU05 | O aplicativo deve apresentar persistência de login | RNF | Could  |
+| FU06 | O aplicativo deve acessar e persistir os dados em um banco de dados eficiente | RNF |  Must  |
+| FU07 | O aplicativo deve ser capaz de realizar atualizações de versões periodicamente | RNF | Should |
+| FU08 | O aplicativo deverá possuir um backend com a parte logica separada de sua interface | RNF | Should |
+| FU09 | O aplicativo deverá possuir portabilidade para todos as plataformas mais atuais de Android, IOS e Navegadores Web | RNF | Could  |
+| FU10 | O aplicativo deverá possuir uma imagem conteinerizada para facil onboarding dos desenvolvedores | RNF | Would/Wan't/Won't  |
+| FU11 | O deploy to sistema deverá ser feito em uma plataforma de servidores na nuvem com suas chaves de segurança armazenadas de forma segura e secreta | RNF | Would/Wan't/Won't  |
+| FU12 | O aplicativo deverá possuir conexão com plataforma de envio de emails para confirmações | RNF | Could  |
+| FU13 | O aplicativo deverá possuir uma cobertura de testes maior do que 70% | RNF | Should |
+| FU14 | O aplicativo deverá possuir documentação legivel e compreensivel sobre a instalação e as boas praticas de desenvolvimento | RNF | Must |
+| FU15 | O aplicativo deverá possuir uma instância de testes e uma instancia de produçāo | RNF | Could  |
+| FU16 | O aplicativo deve ter uma interface coerente com padrão de cores e ícones. | RNF | Should |
+| FU17 | O aplicativo deve ser intuitivo e de fácil utilização. Com layouts semelhantes à aplicações de mídias sociais já estabelecidas. | RNF | Could  |
+| FU18  | A capacidade de um usuário conectar nosso aplicativo aos seus contatos, selecionar seu amigo e enviar uma mensagem pré-preenchida. | RF | Would/Wan't/Won't  |
+| FU19  | O usuário deve ser notificado de ações como horários de agendamentos, mensagens e conteúdos de profissionais favoritados. | RF | Could  |
 
 ## 4. Conclusão
 
@@ -77,3 +109,4 @@ Após feita a priorização, os resultados obtidos referente à porcetagem dos r
 | 1.1    | Adicionado requisitos com a referente priorização | Luis Gustavo     | ---         |
 | 1.2    | Revisão da priorização com pequenas alterações    | Luis Gustavo     | ---         |
 | 1.3    | Revisando Documento                               | Ricardo Loureiro | ---         |
+| 1.4    | Adição da priorização do requisitos de quesitonário e FURPS+ | Luis Gustavo | ---         |

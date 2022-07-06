@@ -16,7 +16,7 @@
       - [Brainstorm](pages/Base/ProjetoNaoOrientado/Requisistos/Elicitacao/Brainstorm.md)
       - [Instrospecção](pages/Base/ProjetoNaoOrientado/Requisistos/Elicitacao/Introspeccao.md)
       - [Questionário](pages/Base/ProjetoNaoOrientado/Requisistos/Elicitacao/Questionario.md)
-      - [FURPS](pages/Base/ProjetoNaoOrientado/Requisistos/Elicitacao/FURPS+.md)
+      - [FURPS+](pages/Base/ProjetoNaoOrientado/Requisistos/Elicitacao/FURPS+.md)
     - **Modelagem**
       - [Léxicos](pages/Base/ProjetoNaoOrientado/Requisistos/Modelagem/Lexicos.md)
     - **Priorização**
