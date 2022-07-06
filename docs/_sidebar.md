@@ -30,6 +30,15 @@
     - [Disponibilidade de Horários](pages/Base/ProjetoNaoOrientado/Extra/heatmap.md)
 
 - **Modelagem**
+  - [2. Desenho de Software (Modelagem)](pages/Modelagem/2.Modelagem.md)
+    - [2.1. Módulo Projeto Orientado a Abordagens Tradicionais](pages/Modelagem/2.1.ModelagemTradicional.md)
+      - [2.1.1. Notação UML – Diagramas Estáticos](pages/Modelagem/2.1.1.UMLEstaticos.md)
+      - [2.1.2. Notação UML – Diagramas Dinâmicos](pages/Modelagem/2.1.2.UMLDinamicos.md)
+      - [2.1.3. Modelagem Ágil](pages/Modelagem/2.1.3.Agil.md)
+    - [2.2. Iniciativas Extras - Modelagem](pages/Modelagem/2.2.IniciativasExtras.md)
+    - [2.3. Participações - Modelagem](pages/Modelagem/2.3.ParticipacoesModelagem.md)
+
+
 
 - **Padrões de Projeto**
 
