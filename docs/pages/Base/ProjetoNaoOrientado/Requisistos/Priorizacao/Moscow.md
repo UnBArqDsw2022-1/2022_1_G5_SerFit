@@ -10,10 +10,10 @@ Em um projeto de Engenharia de Software, em que o tempo é fixo, é necessário 
 O MoSCoW é um framework de priorização de funcionalidades desenvolvido por Dai Clegg na Oracle. O acrônimo representa quatro categorias diferentes de iniciativas:
 </p>
 
-- *M*ust: Obrigatorio ter;
-- *S*hould: Deveria ter;
-- *C*ould: Poderia ter;
-- *Would/Want/W*on't: Não terão no momento.
+- **M**ust: Obrigatorio ter;
+- **S**hould: Deveria ter;
+- **C**ould: Poderia ter;
+- **W**ould/**W**ant/**W**on't: Não terão no momento.
 
 ## 2. Metodologia
 
@@ -32,42 +32,50 @@ A partir de técnicas de elicitação como: <a href="https://unbarqdsw2022-1.git
 | RF      | Requisitos Funcional    |
 | RFN     | Requisito não funcional |
 
-| ID   | Descricão                                                                                 | Tipo de Requisito | Prioridade        |
-| ---- | ----------------------------------------------------------------------------------------- | ----------------- | ----------------- |
-| BS01 | O Prestador de Serviço deve capaz de se cadastrar                                         | RF                | Must              |
-| BS02 | O Prestador de Serviço deve capaz de se editar o seu cadastro                             | RF                | Must              |
+| ID   | Descricão | Tipo de Requisito | Prioridade        |
+| --- | --- | --- | --- |
+| BS01 | O usuário deve capaz de se cadastrar e fazer login na plataforma | RF | Must |
+| BS02 | O usuário deve capaz de se editar o seu cadastro | RF | Must |
 | BS03 | O Prestador de Serviço deve capaz de classificar o tipo de serviço                        | RF                | Should            |
 | BS04 | Um usuário deve ser capaz de recomendar um prestador de serviço para outro usuário        | RF                | Could             |
 | BS05 | A plaforma deve agendar um grade horária com os serviços agendados                        | RF                | Should            |
 | BS06 | O usuário deve poder fazer uma vídeo chamada para o atendimento do serviço adquirido      | RF                | Could             |
-| BS07 | O usuário deve ser capaz de buscar serviços                                               | RF                | Should            |
-| BS08 | O usuário deve ser capaz de filtrar serviços                                              | RF                | Should            |
-| BS09 | O usuário deve conseguir avaliar prestadores de serviço                                   | RF                | Should            |
+| BS07 | O usuário deve ser capaz de buscar prestadores de serviços                                               | RF                | Should            |
+| BS08 | O usuário deve ser capaz de filtrar serviços por nome e avaliação | RF | Could |
+| BS09 | O usuário deve conseguir avaliar prestadores de serviço e vice versa | RF | Could |
 | BS10 | A plataforma deve ter uma seção de destaque                                               | RF                | Would/Wan't/Won't |
-| BS11 | O Prestador de serviço deve ser capaz de adicionar vídeos                                 | RF                | Must              |
-| BS12 | O Prestador de serviço deve ser capaz de adicionar imagens                                | RF                | Must              |
-| BS13 | O Prestador de serviço deve ser capaz de adicionar links para produtos de lojas parceiras | RF                | Would/Wan't/Won't |
-| BS14 | A plataforma deve ter chat de mensagens para permitir interação entre os usuários         | RF                | Should            |
-| IN01 | O usuário deve ser capaz de buscar serviços                                               | RF                | Should            |
-| IN02 | O usuário deve ser capaz de filtrar serviços                                              | RF                | Should            |
-| IN03 | O usuário deve conseguir ver atividades, treinos, exercícios                              | RF                | Must              |
-| IN04 | O usuário deve ser capaz de encontrar outros usuários                                     | RF                | Should            |
+| BS11 | O Prestador de serviço deve ser capaz de cadastrar, editar e excluir um serviço                                 | RF | Must |
+| BS12 | O Prestador de serviço visualizar o perfil de seus clientes | RF | Should |
+| BS13 | A plataforma deve fornecer link de lojas parceiras que vendem produtos fitness | RF | Could |
+| BS14 | A plataforma deve ter chat de mensagens para permitir interação entre os usuários | RF | Should |
+| BS15 | O usuário deve capaz de fazer logout na plataforma | RF | Must |
+| BS16 | O usuário poderá ver e editar as informações da sua conta conta. | RF | Should |
+| BS17 | O Prestador de serviço poderá ver e escolher os serviços que deseja prestar | RF | Should |
+| IN01 | O usuário deve ser capaz de buscar serviços | RF | Should |
+| IN02 | O usuário deve ser capaz de filtrar serviços | RF | Could |
+| IN03 | O usuário deve conseguir ver atividades, treinos, exercícios | RF | Must |
+| IN04 | O usuário deve ser capaz de encontrar prestadores de serviço | RF | Should |
 | IN05 | A plataforma deve ter chat de mensagens para permitir interação entre os usuários         | RF                | Should            |
 | IN06 | O usuário deve conseguir definir objetivos dentro da plataforma                           | RF                | Could             |
-| IN07 | O usuário deve conseguir compartilhar seus objetivos/metas                                | RF                | Could             |
-| IN08 | A plataforma deve ter uma seção de destaque de conteúdo (serviços, exercícios, etc...)    | RF                | Would/Wan't/Won't |
-| IN09 | A plataforma deve permitir a adição de conteúdo em texto, fotos e vídeos                  | RF                | Must              |
+| IN07 | O usuário deve conseguir compartilhar um serviço | RF | Could |
+| IN08 | A plataforma deve permitir a adição de treinos em texto, fotos e vídeos | RF | Must |
+| IN09 | A plataforma deve permitir a edição de conteúdo e deleção de treinos | RF | Must |
 | QT01 | O software deve rodar prioritariamente em plataforma Mobile                                   | RNF               | Must
-| QT02 | O aplicativo deve mostrar o plano de exercícios                                               | RF                | Must
+| QT02 | O aplicativo deve mostrar o treino do usuário | RF | Must
 | QT03 | O aplicativo deve ter uma base de dados de exercícios                                         | RF                | Must
-| QT04 | O aplicativo deve ter uma forma de _gamification_ para incentivar os consumidores de serviços | RNF               | Could
-| QT05 | O aplicativo deve disponibilizar plano de valores dos prestadores e de seus serviços          | RF                | Should
-| QT06 | O aplicativo deve disponibilizar perfil do profissional, com seu currículo                    | RF                | Should
-| QT07 | O aplicativo deve dispor de filtro por categoria de profissional                              | RF                | Should
-| QT08 | A aplicação deve permitir compartilhamento de video-aulas                                     | RF                | Could
+| QT04 | O aplicativo deve ter uma forma de fidelização para incentivar os consumidores de serviços | RF | Could
+| QT05 | O aplicativo deve mostrar os serviços cadastrados pelos prestadores | RF | Should
+| QT06 | O aplicativo deve disponibilizar perfil do profissional | RF | Should
+| QT07 | O aplicativo deve dispor de filtro por categoria de profissional | RF | Should
+| QT08 | A aplicação deve permitir compartilhamento de serviços	 | RF | Could
 | QT09 | O usuário deve conseguir salvar e criar seus próprios planos de exercícios                    | RF                | Should
-| QT10 | O software deve permitir a filtragem de profissionais por região                              | RF                | Should
+| QT10 | O software deve permitir a filtragem de profissionais por região                              | RF                | Could
 | QT11 | A aplicação deve ser fácil de utilizar por usuários de diversas idades, inclusive idosos      | RNF               | Must
+| QT12 | A aplicação deve mostrar atividades que eu posso realizar perto de mim | RF | Must
+| QT13 | A aplicação deve mostrar exercícios | RF | Must
+| QT14 | A aplicação deve prover explicações sobre os exercícios em texto, imagens, vídeos, etc... | RF | Must
+| QT15 | A aplicação deve permitir a contratação de um serviço | RF | Must
+| QT16 | A aplicação deve permitir o cancelamento de um serviço | RF | Must
 | FU01 | O aplicativo não pode demorar mais de 2s para abrir ou Logar. | RNF | Should |
 | FU02 | O aplicativo não pode ficar indisponível. | RNF | Must |
 | FU03 | Os usuários devem conseguir encontrar a funcionalidade desejada rapidamente | RNF | Should |
@@ -103,10 +111,10 @@ Após feita a priorização, os resultados obtidos referente à porcetagem dos r
 
 ## Histórico de Versionamento
 
-| Versão | Alteração                                         | Autor(es)        | Revisor(es) |
-| ------ | ------------------------------------------------- | ---------------- | ----------- |
-| 1.0    | Criação do Documento com introdução e metodologia | Luis Gustavo     | ---         |
-| 1.1    | Adicionado requisitos com a referente priorização | Luis Gustavo     | ---         |
-| 1.2    | Revisão da priorização com pequenas alterações    | Luis Gustavo     | ---         |
-| 1.3    | Revisando Documento                               | Ricardo Loureiro | ---         |
-| 1.4    | Adição da priorização do requisitos de quesitonário e FURPS+ | Luis Gustavo | ---         |
+| Versão | Alteração | Autor(es) | Revisor(es) |
+| --- | --- | --- | --- |
+| 1.0 | Criação do Documento com introdução e metodologia | Luis Gustavo | --- |
+| 1.1 | Adicionado requisitos com a referente priorização | Luis Gustavo | --- |
+| 1.2 | Revisão da priorização com pequenas alterações | Luis Gustavo | --- |
+| 1.3 | Revisando Documento | Ricardo Loureiro | --- |
+| 1.4 | Adição da priorização do requisitos de questionário e FURPS+ | Luis Gustavo | --- |
