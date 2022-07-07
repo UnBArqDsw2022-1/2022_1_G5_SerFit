@@ -32,17 +32,22 @@ Tabela com perguntas e respostas.
 
 | ID   | Descrição                                                                                     | Tipo de Requisito |
 | ---- | --------------------------------------------------------------------------------------------- | ----------------- |
-| QT01 | O software deve rodar prioritariamente em plataforma Mobile                                   | RNF               |
-| QT02 | O aplicativo deve mostrar o plano de exercícios                                               | RF                |
+| QT01 | O software deve rodar prioritariamente em plataforma Mobile | RNF |
+| QT02 | O aplicativo deve mostrar o treino do usuário | RF |
 | QT03 | O aplicativo deve ter uma base de dados de exercícios                                         | RF                |
-| QT04 | O aplicativo deve ter uma forma de _gamification_ para incentivar os consumidores de serviços | RNF               |
-| QT05 | O aplicativo deve disponibilizar plano de valores dos prestadores e de seus serviços          | RF                |
-| QT06 | O aplicativo deve disponibilizar perfil do profissional, com seu currículo                    | RF                |
+| QT04 | O aplicativo deve ter uma forma de fidelização para incentivar os consumidores de serviços | RF |
+| QT05 | O aplicativo deve mostrar os serviços cadastrados pelos prestadores | RF |
+| QT06 | O aplicativo deve disponibilizar perfil do profissional  | RF |
 | QT07 | O aplicativo deve dispor de filtro por categoria de profissional                              | RF                |
-| QT08 | A aplicação deve permitir compartilhamento de video-aulas                                     | RF                |
+| QT08 | A aplicação deve permitir compartilhamento de serviços | RF                |
 | QT09 | O usuário deve conseguir salvar e criar seus próprios planos de exercícios                    | RF                |
 | QT10 | O software deve permitir a filtragem de profissionais por região                              | RF                |
 | QT11 | A aplicação deve ser fácil de utilizar por usuários de diversas idades, inclusive idosos      | RNF               |
+| QT12 | A aplicação deve mostrar atividades que eu posso realizar perto de mim | RF               |
+| QT13 | A aplicação deve mostrar exercícios | RF |
+| QT14 | A aplicação deve prover explicações sobre os exercícios em texto, imagens, vídeos, etc... | RF |
+| QT15 | A aplicação deve permitir a contratação de um serviço | RF |
+| QT16 | A aplicação deve permitir o cancelamento de um serviço | RF |
 
 ## 4. Referências
 
