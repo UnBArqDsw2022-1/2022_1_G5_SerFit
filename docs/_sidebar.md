@@ -5,26 +5,6 @@
 
 - **Base**
 
-  <!-- - [1. Módulo Projeto Não Orientado a Abordagens Específicas]()
-    - [1.1. Design Sprint]()
-      - [Definição](Base/ProjetoNaoOrientado/DesignSprint.md)
-      - [1.1.1 Unpack]()
-        - [Brainstorm](Base/ProjetoNaoOrientado/Requisistos/Elicitacao/Brainstorm.md)
-        - [Diagrama de Causa e Efeito](Base/ProjetoNaoOrientado/CausaEfeito.md)
-      - [1.1.2 Sketch]()
-        - [Rich Picture](Base/Metodologias/RichPicture.md)
-        - [5W2H](Base/Metodologias/5W2H.md)
-        - [Léxicos](Base/ProjetoNaoOrientado/Requisistos/Modelagem/Lexicos.md)
-      - [1.1.3 Define]()
-        - [Introspecção](Base/ProjetoNaoOrientado/Requisistos/Elicitacao/Introspeccao.md)
-        - [FURPS+](Base/ProjetoNaoOrientado/Requisistos/Elicitacao/FURPS%2B.md)
-        - [Questionário](Base/ProjetoNaoOrientado/Requisistos/Elicitacao/Questionario.md)
-      - [1.1.4 Decision]()
-        - [MoSCoW](Base/ProjetoNaoOrientado/Requisistos/Priorizacao/Moscow.md)
-        - [Backlog do Produto]()
-      - [1.1.5 Prototype]()
-        - [Protótipo de Media Fidelidade](Base/ProjetoNaoOrientado/PrototipoMedia.md)
-        - [Plano de Gerenciamento de Riscos](Base/ProjetoNaoOrientado/TAP.md) -->
   - Módulo Projeto Não Orientado a Abordagens Específicas
     - [Design Sprint](Base/ProjetoNaoOrientado/DesignSprint.md)
     - [Brainstorm](Base/ProjetoNaoOrientado/Requisistos/Elicitacao/Brainstorm.md)
