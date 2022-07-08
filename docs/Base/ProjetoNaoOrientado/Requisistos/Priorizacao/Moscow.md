@@ -62,12 +62,12 @@ A partir de técnicas de elicitação como: <a href="https://unbarqdsw2022-1.git
 Após feita a priorização, os resultados obtidos referente à porcetagem dos requisitos em cada nível de prioridade foi:
 </p>
 
-![alt text](../../../../../assets/priorizacao/moscow.png)
+![alt text](./../../../../assets/priorizacao/moscow.png)
 
 ## 5. Referências
 
-- Moscow Priorization. Disponível em < https://www.agilebusiness.org/page/ProjectFramework_10_MoSCoWPrioritisation > Acesso 26 de Julho de 2022.
-- O Framework de priorização MoSCoW. Disponível em < https://vidadeproduto.com.br/framework-moscow/ > Acesso 26 de Julho de 2022.
+- Moscow Priorization. Disponível em < <https://www.agilebusiness.org/page/ProjectFramework_10_MoSCoWPrioritisation> > Acesso 26 de Julho de 2022.
+- O Framework de priorização MoSCoW. Disponível em < <https://vidadeproduto.com.br/framework-moscow/> > Acesso 26 de Julho de 2022.
 
 ## Histórico de Versionamento
 

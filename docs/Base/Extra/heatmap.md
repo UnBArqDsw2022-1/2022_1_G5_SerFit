@@ -8,12 +8,12 @@ Heatmap é uma representação gráfica de dados em que os valores individuais c
 
 ## 2. Resultado
 
-![alt text](../../../../assets/heatmap/heatmap.jpg)
+![alt text](../../assets/heatmap/heatmap.jpg)
 
 ## 3. Referências
 
-- SCRUM. Disponível em: https://www.desenvolvimentoagil.com.br/scrum/ Acesso em: 24 de outubro de 2019.
-- EXTREME PROGRAMMING. Disponível em: https://www.desenvolvimentoagil.com.br/xp/ Acesso em: 24 de outubro de 2019.
+- SCRUM. Disponível em: <https://www.desenvolvimentoagil.com.br/scrum/> Acesso em: 24 de outubro de 2019.
+- EXTREME PROGRAMMING. Disponível em: <https://www.desenvolvimentoagil.com.br/xp/> Acesso em: 24 de outubro de 2019.
 
 ## Histórico de Versionamento
 
