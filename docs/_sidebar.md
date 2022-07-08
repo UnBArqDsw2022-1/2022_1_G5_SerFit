@@ -1,11 +1,11 @@
 <!-- docs/_sidebar.md -->
 
-- [Home](/docs)
-- [Diretrizes](/docs/Diretrizes/Diretrizes.md)
+- [Home]()
+- [Diretrizes](/Diretrizes/Diretrizes.md)
 
 - **Base**
 
-  - [1. Módulo Projeto Não Orientado a Abordagens Específicas]()
+  <!-- - [1. Módulo Projeto Não Orientado a Abordagens Específicas]()
     - [1.1. Design Sprint]()
       - [Definição](Base/ProjetoNaoOrientado/DesignSprint.md)
       - [1.1.1 Unpack]()
@@ -24,15 +24,29 @@
         - [Backlog do Produto]()
       - [1.1.5 Prototype]()
         - [Protótipo de Media Fidelidade](Base/ProjetoNaoOrientado/PrototipoMedia.md)
-        - [Plano de Gerenciamento de Riscos](Base/ProjetoNaoOrientado/TAP.md)
-  - [2. Módulo Processos/Metodologias/Abordagens]()
-    - [2.1. BPMN](Base/Metodologias/BPMN.md)
-    - [2.2. Metodologia](Base/Metodologias/Metodologias.md)
-  - [3. Iniciativas Extras]()
-    - [3.1. Termo de Abertura](Base/ProjetoNaoOrientado/TAP.md)
-    - [3.2. Política de Contribuição](Base/ProjetoNaoOrientado/Extra/CONTRIBUTING.md)
-    - [3.3. Heatmap](Base/ProjetoNaoOrientado/Extra/heatmap.md)
-  - [4. Participações - Base](Base/ParticipacoesBase.md)
+        - [Plano de Gerenciamento de Riscos](Base/ProjetoNaoOrientado/TAP.md) -->
+  - Módulo Projeto Não Orientado a Abordagens Específicas
+    - [Design Sprint](Base/ProjetoNaoOrientado/DesignSprint.md)
+    - [Brainstorm](Base/ProjetoNaoOrientado/Requisistos/Elicitacao/Brainstorm.md)
+    - [Diagrama de Causa e Efeito](Base/ProjetoNaoOrientado/CausaEfeito.md)
+    - [Rich Picture](Base/Metodologias/RichPicture.md)
+    - [5W2H](Base/Metodologias/5W2H.md)
+    - [Léxicos](Base/ProjetoNaoOrientado/Requisistos/Modelagem/Lexicos.md)
+    - [Introspecção](Base/ProjetoNaoOrientado/Requisistos/Elicitacao/Introspeccao.md)
+    - [FURPS+](Base/ProjetoNaoOrientado/Requisistos/Elicitacao/FURPS%2B.md)
+    - [Questionário](Base/ProjetoNaoOrientado/Requisistos/Elicitacao/Questionario.md)
+    - [MoSCoW](Base/ProjetoNaoOrientado/Requisistos/Priorizacao/Moscow.md)
+    <!-- - [Backlog do Produto]() -->
+    - [Protótipo de Media Fidelidade](Base/ProjetoNaoOrientado/PrototipoMedia.md)
+    - [Plano de Gerenciamento de Riscos](Base/ProjetoNaoOrientado/TAP.md)
+  - Módulo Processos/Metodologias/Abordagens
+    - [BPMN](Base/Metodologias/BPMN.md)
+    - [Metodologias](Base/Metodologias/Metodologias.md)
+  - Iniciativas Extras
+    - [Termo de Abertura](Base/ProjetoNaoOrientado/TAP.md)
+    - [Política de Contribuição](Base/ProjetoNaoOrientado/Extra/CONTRIBUTING.md)
+    - [Heatmap](Base/ProjetoNaoOrientado/Extra/heatmap.md)
+  - [Participações - Base](Base/ParticipacoesBase.md)
 
 - **Modelagem**
 
