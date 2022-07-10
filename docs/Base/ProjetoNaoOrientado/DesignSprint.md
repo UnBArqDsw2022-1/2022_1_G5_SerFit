@@ -78,13 +78,13 @@ Com os requisitos elicitados, realizou-se a seguinte técnica para contemplar a 
 Por fim, alguns membros da equipe trabalharam na construção de um <a href="https://www.figma.com/proto/DDhc2sBZwDraR2S4A8fF9F/Prot%C3%B3tipo?node-id=66%3A30&scaling=scale-down&page-id=0%3A1&starting-point-node-id=66%3A30">Protótipo de Média Fidelidade</a>, com o objetivo de representar visualmente as ideias levantadas.
 </p>
 
-![alt text](../../../assets/prototipo/prototipo.png)
+![alt text](./../../assets/prototipo/prototipo.png)
 
 ## 4. Referências
 
-- The Design Sprint. Disponível em: < https://www.gv.com/sprint/ > Acesso em: 20 de Junho de 2022
+- The Design Sprint. Disponível em: < <https://www.gv.com/sprint/> > Acesso em: 20 de Junho de 2022
 - SERRANO, Milene. Design Sprint, 2021. Material apresentado na Disciplina de Arquitetura e Desenho de Software do curso de engenharia de software da UnB, FGA. Acesso em: 20 de Junho de 2022.
-- Google Design Sprint: como funciona e como aplicar no seu projeto. Disponível em: < https://brasil.uxdesign.cc/google-design-sprint-como-funciona-e-como-aplicar-no-seu-projeto-279107363659 > Acesso em: 20 de Junho de 2022
+- Google Design Sprint: como funciona e como aplicar no seu projeto. Disponível em: < <https://brasil.uxdesign.cc/google-design-sprint-como-funciona-e-como-aplicar-no-seu-projeto-279107363659> > Acesso em: 20 de Junho de 2022
 
 ## Histórico de Versionamento
 
