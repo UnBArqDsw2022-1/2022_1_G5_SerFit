@@ -115,57 +115,52 @@ Esse relacionamento é representado por uma seta tracejada com uma ponta de seta
 | :------: | :---------------------------------------------------------------------------: |
 | Descrição | O usuário deve ser capaz de realizar um registro                         | 
 | Pré-Condições | Acesso à internet em um dispositivo válido                           | 
-| Autor | Usuário                                                                      | 
-| Ação | Informar CPF para realizar o cadastro                                         |
-| Fluxo principal | <ul> <li> O usuário acessa a aplicação <li> O usuário informa seu CPF <li> O usuário é encaminhado para gov.br <li> O usuário informa seus dados para cadastro</ul>|
-| Pós-condições | O usuário poderá utilizar os serviços do aplicativo                  |
+| Autor | Usuário (Personal ou Cliente)                                                                      | 
+| Ação | Informar E-mail, nome e senha                                         |
+| Fluxo principal | <ul> <li> O usuário acessa a aplicação <li> O usuário informa seu E-mail, nome e senha <li> O usuário realiza o cadastro</ul>|
+| Pós-condições | O usuário poderá utilizar os serviços do aplicativo disponibilizados para seu tipo de usuário(Personal ou Cliente)                 |
   
 </center>
 
-### 3.2. Fluxo de Histórico
+### 3.2. Fluxo de Pesquisar Profissionais
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/48844857/156847608-75337053-6150-4f87-a642-af1cc5bd3b5a.jpg">
-  <br><b>Figura 7: Diagrama do fluxo de Consultar Histórico</b>
+  <br><b>Figura 7: Diagrama do fluxo de Pesquisar Profissionais</b>
 </p>
 
 <center>
   
 |  UC02  | Informações                                                                 |
 | :------: | :---------------------------------------------------------------------------: |
-| Descrição | O usuário deve ser capaz de consultar seus históricos                    | 
+| Descrição | O Cliente deve ser capaz de consultar os profissionais disponíveis                    | 
 | Pré-Condições | Acesso à internet e um cadastro no aplicativo                        | 
-| Autor | Usuário                                                                      | 
-| Ação | O usuário consulta um histórico                                               |
-| Fluxo principal | <ul> <li> O usuário acessa a aplicação <li> O usuário realiza o login <li> O usuário entra em históricos <li> O usuário escolhe um histórico para consultar</ul>|
-| Pós-condições | O usuário poderá utilizar as informações do histórico consultado     |
+| Autor | Cliente                                                                      | 
+| Ação | O Cliente pesquisa um Profissional                                               |
+| Fluxo principal | <ul> <li> O Cliente acessa a aplicação <li> O Cliente realiza o login <li> O Cliente pesquisar Profissionais <li> O Cliente escolhe um Profissional para ver detalhes</ul>|
+| Pós-condições | O Cliente poderá entrar em contato com o Profissional encontrado     |
   
 </center>
 
-### 3.3. Fluxo de Registros
+### 3.3. Fluxo de Conversar com Cliente
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/48844857/156847697-0c3e264e-b90f-48f0-9edb-5f6e17757a5a.jpg">
-  <br><b>Figura 8: Diagrama do fluxo de Consultar Registros</b>
+  <br><b>Figura 8: Diagrama do fluxo de Conversar com Cliente</b>
 </p>
 
 <center>
 
 |  UC03  | Informações                                                                 |
 | :------ | :---------------------------------------------------------------------------: |
-| Descrição | O usuário deve ser capaz de consultar seus registros                     | 
+| Descrição | O Profissional deve ser capaz de conversar com seu Cliente                     | 
 | Pré-Condições | Acesso à internet e um cadastro no aplicativo                        | 
-| Autor | Usuário                                                                      | 
-| Ação | O usuário consulta um registro                                                |
-| Fluxo principal | <ul> <li> O usuário acessa a aplicação <li> O usuário realiza o login <li> O usuário entra em registros <li> O usuário escolhe um registro para consultar</ul>|
-| Pós-condições | O usuário poderá utilizar as informações do registro consultado      |
+| Autor | Profissional                                                                      | 
+| Ação | O Profissional conversa com um Cliente                                               |
+| Fluxo principal | <ul> <li> O Profissional acessa a aplicação <li> O Profissional realiza o login <li> O Profissional entra em chat <li> O Profissional será disponibilizado uma conversa com seu Cliente</ul>|
+| Pós-condições | O Profissional poderá conversar com o Cliente que o contratou      |
 
 </center>
-
-## 4. Conclusão
-<p align = "justify">
-Com base no conteúdo apresentado, é possível avaliar as atividades que o usuário pode realizar no sistema, bem como os seus fluxos. Portanto, isso permite a elaboração de documentos mais complexos como os de pós-rastreabilidade, a partir dos casos de uso levantados.
-</p>
 
 ## Bibliografia
 >SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 11;
@@ -177,4 +172,5 @@ Com base no conteúdo apresentado, é possível avaliar as atividades que o usu�
 | Versão | Alteração                        | Autor(es)         | Revisor |
 | ------ | -------------------------------- | ----------------- | ------- |
 | 1.0    | Criação do Documento             | Daniel | ---     |
+| 2.0    | Adicionando três casos de uso             | Daniel | Gustave     |
 
