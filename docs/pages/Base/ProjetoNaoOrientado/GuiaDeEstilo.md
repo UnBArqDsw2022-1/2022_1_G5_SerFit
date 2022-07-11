@@ -25,14 +25,20 @@
 <p align=justify>O protótipo de aplicativo desenvolvido segue um padrão de disposição espacial em que mantem os elementos verticalmente alinhados. Alem disso o aplicativo deve seguir esse padrão ao longo de todas as telas para manter o usuário com uma curva de aprendizado baixa.</p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/48844857/157974598-794adefb-0e3b-46df-9116-1847fb7b38fa.jpg" width="600">
-  <br><b>Figura 1: Exemplo layout padrão</b>
-  <br><small><i>Fonte: Autores</i></small>
+
+![alt text](../../../assets/guia_estilo/exemplo_layout_2.png)
+
+<br><b>Figura 1: Exemplo layout padrão</b>
+<br><small><i>Fonte: Autores</i></small>
+
 </p>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/48844857/157974598-794adefb-0e3b-46df-9116-1847fb7b38fa.jpg" width="600">
-  <br><b>Figura 2: Exemplo layout padrão</b>
-  <br><small><i>Fonte: Autores</i></small>
+
+![alt text](../../../assets/guia_estilo/exemplo_layout_2.png)
+
+<br><b>Figura 2: Exemplo layout padrão</b>
+<br><small><i>Fonte: Autores</i></small>
+
 </p>
 
 ### 3.2. Tipografia
@@ -41,7 +47,8 @@
 
 ### 3.3. Símbolos não tipográficos
 
-<img src="https://user-images.githubusercontent.com/48844857/157974806-e9861053-e8b3-4e3e-a1f9-b7359bfd3699.png" width="600">
+![alt text](../../../assets/guia_estilo/icones_prototipo.png)
+
 <br><b>Figura 3: Simbolos do aplicativo</b>
 <br><small><i>Fonte: Autores</i></small>
 
@@ -83,15 +90,15 @@ Algumas seleções são bloqueadas no aplicativo por questões de credenciais po
 O usuário tem uma série de limitações pelo site necessitando estar logado para ter acesso completo as funcionalidades disponíveis ou ter uma autorizção diferente.
 </p>
 
-
 ## 6. Referências
 
-* The Design Sprint. Disponível em: < https://www.gv.com/sprint/ > Acesso em: 20 de Junho de 2022
-* SERRANO, Milene. Design Sprint, 2021. Material apresentado na Disciplina de Arquitetura e Desenho de Software do curso de engenharia de software da UnB, FGA. Acesso em: 20 de Junho de 2022.
-* Google Design Sprint: como funciona e como aplicar no seu projeto. Disponível em: < https://brasil.uxdesign.cc/google-design-sprint-como-funciona-e-como-aplicar-no-seu-projeto-279107363659 > Acesso em: 20 de Junho de 2022
+- The Design Sprint. Disponível em: < https://www.gv.com/sprint/ > Acesso em: 20 de Junho de 2022
+- SERRANO, Milene. Design Sprint, 2021. Material apresentado na Disciplina de Arquitetura e Desenho de Software do curso de engenharia de software da UnB, FGA. Acesso em: 20 de Junho de 2022.
+- Google Design Sprint: como funciona e como aplicar no seu projeto. Disponível em: < https://brasil.uxdesign.cc/google-design-sprint-como-funciona-e-como-aplicar-no-seu-projeto-279107363659 > Acesso em: 20 de Junho de 2022
 
 ## Histórico de Versionamento
 
-Versão |       Alteração       |    Autor(es)   |    Revisor(es) 
----- | ---- | ---- | ---- 
-1.0 | Criação do esboço do documento | Daniel |  Gustave
+| Versão | Alteração                      | Autor(es) | Revisor(es) |
+| ------ | ------------------------------ | --------- | ----------- |
+| 1.0    | Criação do esboço do documento | Daniel    | Gustave     |
+| 1.1    | Revisão da v1.0                | Gustave   | ---         |
