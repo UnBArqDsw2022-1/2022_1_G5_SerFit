@@ -18,43 +18,43 @@ O grupo optou por utilizar o artefato como uma forma de elucidar as ideias dos m
 
 ### 3.1.1 Adrian Soares
 
-![alt text](../../../assets/richpicture/adriansoares.jpeg)
+![alt text](../../assets/richpicture/adriansoares.jpeg)
 
 ### 3.1.2 Daniel Vinicius
 
-![alt text](../../../assets/richpicture/danielvinicius.jpeg)
+![alt text](../../assets/richpicture/danielvinicius.jpeg)
 
 ### 3.1.3 Felipe Correia
 
-![alt text](../../../assets/richpicture/felipecorreia.jpeg)
+![alt text](../../assets/richpicture/felipecorreia.jpeg)
 
 ### 3.1.4 Fernando Ribeiro
 
-![alt text](../../../assets/richpicture/fernandoribeiro.jpeg)
+![alt text](../../assets/richpicture/fernandoribeiro.jpeg)
 
 ### 3.1.5 Gustave Persijn
 
-![alt text](../../../assets/richpicture/gustavepersijn.jpeg)
+![alt text](../../assets/richpicture/gustavepersijn.jpeg)
 
 ### 3.1.6 Lucas Gomes
 
-![alt text](../../../assets/richpicture/lucasgomes.jpeg)
+![alt text](../../assets/richpicture/lucasgomes.jpeg)
 
 ### 3.1.7 Luis Gustavo
 
-![alt text](../../../assets/richpicture/luisgustavo.png)
+![alt text](../../assets/richpicture/luisgustavo.png)
 
 ### 3.1.8 Victor Hugo
 
-![alt text](../../../assets/richpicture/victorhugo.png)
+![alt text](../../assets/richpicture/victorhugo.png)
 
 ### 3.1.9 Wesley Santos
 
-![alt text](../../../assets/richpicture/wesleysantos.jpeg)
+![alt text](../../assets/richpicture/wesleysantos.jpeg)
 
 ### 3.2. Unificado
 
-![unif_rich](../../../assets/richpicture/RichPictureFinal.png)
+![unif_rich](../../assets/richpicture/RichPictureFinal.png)
 
 ## 4. Referências
 

@@ -14,31 +14,31 @@ A notação BPMN foi utilizada para modelar, de forma gráfica e de fácil enten
 
 ### 2.1 Definição do Tema
 
-![alt text](./../../../assets/bpmn/DefinirTema.png)
+![alt text](../../assets/bpmn/DefinirTema.png)
 
 ### 2.2 Processo Geral
 
-![alt text](./../../../assets/bpmn/ProcessoGeral.png)
+![alt text](../../assets/bpmn/ProcessoGeral.png)
 
 ### 2.2 Design Sprint
 
-![alt text](./../../../assets/bpmn/DesignSprint.png)
+![alt text](../../assets/bpmn/DesignSprint.png)
 
 ### 2.2 Sprint Planning
 
-![alt text](./../../../assets/bpmn/SprintPlanning.png)
+![alt text](../../assets/bpmn/SprintPlanning.png)
 
 ### 2.2 Sprint
 
-![alt text](./../../../assets/bpmn/Sprint.png)
+![alt text](../../assets/bpmn/Sprint.png)
 
 ### 2.2 Sprint Review
 
-![alt text](./../../../assets/bpmn/SprintReview.png)
+![alt text](../../assets/bpmn/SprintReview.png)
 
 ## 3. Referências
 
-- O que é BPMN. Disponível em: < https://www.lucidchart.com/pages/pt/o-que-e-bpmn > Acesso em: 22 de Junho de 2022
+- O que é BPMN. Disponível em: < <https://www.lucidchart.com/pages/pt/o-que-e-bpmn> > Acesso em: 22 de Junho de 2022
 - SERRANO, Milene. BPMN, 2022. Vídeo-aulas apresentadas na Disciplina de Arquitetura e Desenho de Software do curso de engenharia de software da UnB, FGA. Acesso em: 22 de Junho de 2022.
 
 ## Histórico de Versionamento

@@ -14,7 +14,7 @@ Persona é um personagem fictício de um grupo de usuários reais, criada para d
 
 ### 2.1 Persona 1
 
-![alt text](../../../../../assets/instrospeccao/maria.jpeg)
+![alt text](./../../../../assets/instrospeccao/maria.jpeg)
 
 | Persona                                                  | Maria                                                                                                                                                                       |
 | -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -41,7 +41,7 @@ Persona é um personagem fictício de um grupo de usuários reais, criada para d
 
 ### 2.2 Persona 2
 
-![alt text](../../../../../assets/instrospeccao/joao.jpeg)
+![alt text](./../../../../assets/instrospeccao/joao.jpeg)
 
 | Persona                                                  | João                                                                                                                                                                                                                                                                                                         |
 | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -56,14 +56,14 @@ Persona é um personagem fictício de um grupo de usuários reais, criada para d
 
 | ID   | Descrição                                                                         | Tipo de Requisito |
 | ---- | --------------------------------------------------------------------------------- | ----------------- |
-| IN04 | O usuário deve ser capaz de encontrar outros usuários                             | RF                |
+| IN04 | O usuário deve ser capaz de encontrar prestadores de serviço | RF |
 | IN05 | A plataforma deve ter chat de mensagens para permitir interação entre os usuários | RF                |
 | IN06 | O usuário deve conseguir definir objetivos dentro da plataforma                   | RF                |
-| IN07 | O usuário deve conseguir compartilhar seus objetivos/metas                        | RF                |
+| IN07 | O usuário deve conseguir compartilhar um serviço | RF |
 
 ### 2.3 Persona 3
 
-![alt text](../../../../../assets/instrospeccao/guilherme.jpeg)
+![alt text](./../../../../assets/instrospeccao/guilherme.jpeg)
 
 | Persona                                                  | Guilherme                                                                                                                                                    |
 | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -78,14 +78,14 @@ Persona é um personagem fictício de um grupo de usuários reais, criada para d
 
 | ID   | Descrição                                                                              | Tipo de Requisito |
 | ---- | -------------------------------------------------------------------------------------- | ----------------- |
-| IN08 | A plataforma deve ter uma seção de destaque de conteúdo (serviços, exercícios, etc...) | RF                |
-| IN09 | A plataforma deve permitir a adição de conteúdo em texto, fotos e vídeos               | RF                |
+| IN08 | A plataforma deve permitir a adição de treinos em texto, fotos e vídeos | RF |
+| IN09 | A plataforma deve permitir a edição de conteúdo e deleção de treinos | RF |
 
 ## 3. Referências
 
 - SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 07. 1º/2019. 50 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 - FERREIRA, Bruna Moraes. Utilizando personas para apoiar a elicitação de requisitos. 2017. 150 f. Dissertação (Mestrado em Informática) - Universidade Federal do Amazonas, Manaus, 2017.
-- Instrospecção. Sinesp. Disponível em < https://requisitos-de-software.github.io/2020.1-Sinesp/Elicitation/introspection/ > Acesso 25 de Julho de 2022.
+- Instrospecção. Sinesp. Disponível em < <https://requisitos-de-software.github.io/2020.1-Sinesp/Elicitation/introspection/> > Acesso 25 de Julho de 2022.
 
 ## Histórico de Versionamento
 
