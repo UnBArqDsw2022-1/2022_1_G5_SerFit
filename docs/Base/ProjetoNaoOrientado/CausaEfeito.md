@@ -40,11 +40,11 @@ Foram levantadas algumas hipóteses para efetivar a satisfação, tanto dos usu�
 
 </p>
 
-![UsersSimp](../../../assets/causaefeito/Cause_And_Effect_PROFISS.svg)
+![UsersSimp](./../../assets/causaefeito/Cause_And_Effect_PROFISS.svg)
 
 <a href="https://svgshare.com/s/iah.svg"> Clique Aqui para ver expandido </a>
 
-![UsersProf](../../../assets/causaefeito/Cause_And_Effect_USER.svg)
+![UsersProf](./../../assets/causaefeito/Cause_And_Effect_USER.svg)
 
 <a href="https://svgur.com/i/iag.svg"> Clique Aqui para ver expandido </a>
 
@@ -54,7 +54,7 @@ Foram levantadas algumas hipóteses para efetivar a satisfação, tanto dos usu�
 Hipóteses sobre causas de atrasos na entrega do projeto, fato que costuma causar estresse aos alunos em disciplinas de projeto.
 </p>
 
-![UsersProj](../../../assets/causaefeito/Cause_And_Effect%20_PROJ.svg)
+![UsersProj](./../../assets/causaefeito/Cause_And_Effect%20_PROJ.svg)
 
 <a href="https://svgshare.com/s/iag.svg"> Clique Aqui para ver expandido </a>
 
@@ -64,14 +64,14 @@ Hipóteses sobre causas de atrasos na entrega do projeto, fato que costuma causa
 Foram trazidas possíveis causas para o não engajamento de usuários à aplicação que será desenvolvida.
 </p>
 
-![ProductFailed](../../../assets/causaefeito/Cause_And_Effect_BAD_PRODUCT.svg)
+![ProductFailed](./../../assets/causaefeito/Cause_And_Effect_BAD_PRODUCT.svg)
 
 <a href="https://svgur.com/i/ib2.svg"> Clique Aqui para ver expandido </a>
 
 ## 4. Referências
 
-- Hessing, T. (2014, April 11). Cause and Effect Diagram (aka Ishikawa, Fishbone). Six Sigma Study Guide. Disponível em < https://sixsigmastudyguide.com/cause-effect-diagram-aka-ishikawa-fishbone-herringbone-fishikawa/ > . Acesso em: 22 de Junho de 2022
-- Fishbone diagram: Solving problems properly. (n.d.). IONOS Startupguide. Disponível em < https://www.ionos.ca/startupguide/productivity/fishbone-diagram/ > . Acesso em: 23 de Junho de 2022.
+- Hessing, T. (2014, April 11). Cause and Effect Diagram (aka Ishikawa, Fishbone). Six Sigma Study Guide. Disponível em < <https://sixsigmastudyguide.com/cause-effect-diagram-aka-ishikawa-fishbone-herringbone-fishikawa/> > . Acesso em: 22 de Junho de 2022
+- Fishbone diagram: Solving problems properly. (n.d.). IONOS Startupguide. Disponível em < <https://www.ionos.ca/startupguide/productivity/fishbone-diagram/> > . Acesso em: 23 de Junho de 2022.
 
 ## Histórico de Versionamento
 

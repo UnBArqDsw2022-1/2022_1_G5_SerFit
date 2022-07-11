@@ -35,7 +35,7 @@ Utilizou-se da técnica de Brainstorm para propor soluções para diversos tópi
 Foi utilizado a técnica de Brainstorm para a resolução dessa tarefa. A partir de uma reunião com todos os membros do grupo, foram escolhidos possíveis temas para o projeto e, após isso, com o apoio da ferramenta Telegram que possibilita a geração de votações rápidas, foi tomada a decisão do tema do projeto.
 </p>
 
-![alt text](./.././../../../../assets/brainstorm/telegram.png)
+![alt text](../../../../assets/brainstorm/telegram.png)
 
 ### 3.2 Escopo do Projeto
 
@@ -43,7 +43,7 @@ Foi utilizado a técnica de Brainstorm para a resolução dessa tarefa. A partir
 Para a realização do Brainstorm foi utilizada a ferramenta <a href="https://www.mindmeister.com/">MindMeister</a> que permite a construção de um mapa mental colaborativamente. Utilizou-se a técnica de Mapa Mental para documentar o Brainstorm pois são "diagramas de fluxo de pensamento" cujo grande objetivo é deixar o pensamento visualmente organizado, para que seja fácil recuperar a informação ali contida.
 </p>
 
-![alt text](./.././../../../../assets/\brainstorm/mindmeister.png)
+![alt text](../../../../assets/brainstorm/mindmeister.png)
 
 ## 4. Requisitos Elicitados
 
@@ -75,8 +75,8 @@ Para a realização do Brainstorm foi utilizada a ferramenta <a href="https://ww
 
 ## 5. Referências
 
-- Brainstorming: O Que É, Como Fazer. Disponível em: < https://neilpatel.com/br/blog/o-que-e-brainstorming/ >
-- Mapa Mental e Mapa Conceitual. Disponível em: < https://prof.valiante.info/dicas-de-estudo/mapa-mental-e-mapa-conceitual > Acesso em: 21 de Junho de 2022
+- Brainstorming: O Que É, Como Fazer. Disponível em: < <https://neilpatel.com/br/blog/o-que-e-brainstorming/> >
+- Mapa Mental e Mapa Conceitual. Disponível em: < <https://prof.valiante.info/dicas-de-estudo/mapa-mental-e-mapa-conceitual> > Acesso em: 21 de Junho de 2022
 
 ## Histórico de Versionamento
 
