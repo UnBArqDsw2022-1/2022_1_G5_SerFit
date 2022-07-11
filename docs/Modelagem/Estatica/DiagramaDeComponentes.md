@@ -1,11 +1,21 @@
 # Diagrama de Componentes
 
 ## 1. Introdução
-O Diagrama de Componentes tem como objetivo mostrar o relacionamento entre os diferentes componentes de um sistema [1]. 
-Este diagrama geralmente é desenvolvido para ajudar a modelar os detalhes da implementação e para verificar novamente se todos os aspectos dos requisitos do sistema estão sendo cobertos pelo desenvolvimento planejado. [2]
+O Diagrama de Componentes fornece uma visão geral de um sistema de software, mostrando o relacionamento entre os diferentes componentes deste sistema [1]. 
+Este diagrama geralmente é desenvolvido para ajudar a modelar os detalhes da implementação e para verificar novamente se todos os aspectos dos requisitos do sistema estão sendo cobertos pelo desenvolvimento planejado. [2]</br>
+O Diagrama de componentes é formado pelos seguintes símbolos [2]:
+
+
+| Nome | Símbolo | Descrição | 
+| -- | -- | -- |
+| Componente | ![Diagrama de Componentes](../../assets/diagramaComponentes/component-symbol.jpg) | Módulo de classes que representa sistemas ou subsistemas independentes com capacidade de interagir com o restante do sistema [1]. |
+| Interface | ![Diagrama de Componentes](../../assets/diagramaComponentes/interface-symbol.jpg) | Conjunto de operações que um componente requer ou provém. |
+| Dependência | ![Diagrama de Componentes](../../assets/diagramaComponentes/dependency-symbol.jpg) | Mostra a relação de dependência entre partes distintas do sistema. |
+| Porta | ![Diagrama de Componentes](../../assets/diagramaComponentes/port-symbol.jpg) | Ajuda a expor as interfaces de um componente. |
+
 
 ## 2. Metodologia
-O diagrama de componentes foi elaborado com a utilização da plataforma Draw.io. </br>
+Com base na documentação já elaborada do projeto, o Diagrama de Componentes foi desenvolvido por meio da plataforma [Draw.io](https://app.diagrams.net/). 
 Os membros participantes foram:
 <ul>
 <li>Lucas Gomes Lopes</li>
@@ -29,3 +39,5 @@ Os membros participantes foram:
 | Versão | Alteração                        | Autor(es)    | Revisor(es) |
 | ------ | -------------------------------- | ------------ | ----------- |
 | 1.0    | Criação do documento             | Lucas Gomes | ---         |
+| 2.0    | Adição da descrição dos símbolos do diagrama             | Lucas Gomes | ---         |
+
