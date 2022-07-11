@@ -56,10 +56,10 @@ Persona é um personagem fictício de um grupo de usuários reais, criada para d
 
 | ID   | Descrição                                                                         | Tipo de Requisito |
 | ---- | --------------------------------------------------------------------------------- | ----------------- |
-| IN04 | O usuário deve ser capaz de encontrar outros usuários                             | RF                |
+| IN04 | O usuário deve ser capaz de encontrar prestadores de serviço | RF |
 | IN05 | A plataforma deve ter chat de mensagens para permitir interação entre os usuários | RF                |
 | IN06 | O usuário deve conseguir definir objetivos dentro da plataforma                   | RF                |
-| IN07 | O usuário deve conseguir compartilhar seus objetivos/metas                        | RF                |
+| IN07 | O usuário deve conseguir compartilhar um serviço | RF |
 
 ### 2.3 Persona 3
 
@@ -78,8 +78,8 @@ Persona é um personagem fictício de um grupo de usuários reais, criada para d
 
 | ID   | Descrição                                                                              | Tipo de Requisito |
 | ---- | -------------------------------------------------------------------------------------- | ----------------- |
-| IN08 | A plataforma deve ter uma seção de destaque de conteúdo (serviços, exercícios, etc...) | RF                |
-| IN09 | A plataforma deve permitir a adição de conteúdo em texto, fotos e vídeos               | RF                |
+| IN08 | A plataforma deve permitir a adição de treinos em texto, fotos e vídeos | RF |
+| IN09 | A plataforma deve permitir a edição de conteúdo e deleção de treinos | RF |
 
 ## 3. Referências
 

@@ -55,20 +55,23 @@ Para a realização do Brainstorm foi utilizada a ferramenta <a href="https://ww
 
 | ID   | Descricão                                                                                 | Tipo de Requisito |
 | ---- | ----------------------------------------------------------------------------------------- | ----------------- |
-| BS01 | O Prestador de Serviço deve capaz de se cadastrar                                         | RF                |
-| BS02 | O Prestador de Serviço deve capaz de se editar o seu cadastro                             | RF                |
+| BS01 | O usuário deve capaz de se cadastrar e fazer login na plataforma | RF |
+| BS02 | O usuário deve capaz de se editar o seu cadastro | RF |
 | BS03 | O Prestador de Serviço deve capaz de classificar o tipo de serviço                        | RF                |
 | BS04 | Um usuário deve ser capaz de recomendar um prestador de serviço para outro usuário        | RF                |
 | BS05 | A plaforma deve agendar um grade horária com os serviços agendados                        | RF                |
 | BS06 | O usuário deve poder fazer uma vídeo chamada para o atendimento do serviço adquirido      | RF                |
-| BS07 | O usuário deve ser capaz de buscar serviços                                               | RF                |
-| BS08 | O usuário deve ser capaz de filtrar serviços                                              | RF                |
-| BS09 | O usuário deve conseguir avaliar prestadores de serviço                                   | RF                |
+| BS07 | O usuário deve ser capaz de buscar prestadores de serviços                                               | RF                |
+| BS08 | O usuário deve ser capaz de filtrar serviços por nome e avaliação                                              | RF                |
+| BS09 | O usuário deve conseguir avaliar prestadores de serviço e vice versa | RF |
 | BS10 | A plataforma deve ter uma seção de destaque                                               | RF                |
-| BS11 | O Prestador de serviço deve ser capaz de adicionar vídeos                                 | RF                |
-| BS12 | O Prestador de serviço deve ser capaz de adicionar imagens                                | RF                |
-| BS13 | O Prestador de serviço deve ser capaz de adicionar links para produtos de lojas parceiras | RF                |
+| BS11 | O Prestador de serviço deve ser capaz de cadastrar, editar e excluir um serviço | RF |
+| BS12 | O Prestador de serviço visualizar o perfil de seus clientes | RF |
+| BS13 | A plataforma deve fornecer link de lojas parceiras que vendem produtos fitness | RF |
 | BS14 | A plataforma deve ter chat de mensagens para permitir interação entre os usuários         | RF                |
+| BS15 | O usuário deve capaz de fazer logout na plataforma | RF |
+| BS16 | O usuário poderá ver e editar as informações da sua conta conta. | RF |
+| BS17 | O Prestador de serviço poderá ver e escolher os serviços que deseja prestar | RF |
 
 ## 5. Referências
 
