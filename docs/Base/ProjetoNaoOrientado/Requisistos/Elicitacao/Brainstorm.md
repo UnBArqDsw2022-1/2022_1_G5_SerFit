@@ -35,7 +35,7 @@ Utilizou-se da técnica de Brainstorm para propor soluções para diversos tópi
 Foi utilizado a técnica de Brainstorm para a resolução dessa tarefa. A partir de uma reunião com todos os membros do grupo, foram escolhidos possíveis temas para o projeto e, após isso, com o apoio da ferramenta Telegram que possibilita a geração de votações rápidas, foi tomada a decisão do tema do projeto.
 </p>
 
-![alt text](./.././../../../../assets/brainstorm/telegram.png)
+![alt text](../../../../assets/brainstorm/telegram.png)
 
 ### 3.2 Escopo do Projeto
 
@@ -43,7 +43,7 @@ Foi utilizado a técnica de Brainstorm para a resolução dessa tarefa. A partir
 Para a realização do Brainstorm foi utilizada a ferramenta <a href="https://www.mindmeister.com/">MindMeister</a> que permite a construção de um mapa mental colaborativamente. Utilizou-se a técnica de Mapa Mental para documentar o Brainstorm pois são "diagramas de fluxo de pensamento" cujo grande objetivo é deixar o pensamento visualmente organizado, para que seja fácil recuperar a informação ali contida.
 </p>
 
-![alt text](./.././../../../../assets/\brainstorm/mindmeister.png)
+![alt text](../../../../assets/brainstorm/mindmeister.png)
 
 ## 4. Requisitos Elicitados
 
@@ -55,25 +55,28 @@ Para a realização do Brainstorm foi utilizada a ferramenta <a href="https://ww
 
 | ID   | Descricão                                                                                 | Tipo de Requisito |
 | ---- | ----------------------------------------------------------------------------------------- | ----------------- |
-| BS01 | O Prestador de Serviço deve capaz de se cadastrar                                         | RF                |
-| BS02 | O Prestador de Serviço deve capaz de se editar o seu cadastro                             | RF                |
+| BS01 | O usuário deve capaz de se cadastrar e fazer login na plataforma | RF |
+| BS02 | O usuário deve capaz de se editar o seu cadastro | RF |
 | BS03 | O Prestador de Serviço deve capaz de classificar o tipo de serviço                        | RF                |
 | BS04 | Um usuário deve ser capaz de recomendar um prestador de serviço para outro usuário        | RF                |
 | BS05 | A plaforma deve agendar um grade horária com os serviços agendados                        | RF                |
 | BS06 | O usuário deve poder fazer uma vídeo chamada para o atendimento do serviço adquirido      | RF                |
-| BS07 | O usuário deve ser capaz de buscar serviços                                               | RF                |
-| BS08 | O usuário deve ser capaz de filtrar serviços                                              | RF                |
-| BS09 | O usuário deve conseguir avaliar prestadores de serviço                                   | RF                |
+| BS07 | O usuário deve ser capaz de buscar prestadores de serviços                                               | RF                |
+| BS08 | O usuário deve ser capaz de filtrar serviços por nome e avaliação                                              | RF                |
+| BS09 | O usuário deve conseguir avaliar prestadores de serviço e vice versa | RF |
 | BS10 | A plataforma deve ter uma seção de destaque                                               | RF                |
-| BS11 | O Prestador de serviço deve ser capaz de adicionar vídeos                                 | RF                |
-| BS12 | O Prestador de serviço deve ser capaz de adicionar imagens                                | RF                |
-| BS13 | O Prestador de serviço deve ser capaz de adicionar links para produtos de lojas parceiras | RF                |
+| BS11 | O Prestador de serviço deve ser capaz de cadastrar, editar e excluir um serviço | RF |
+| BS12 | O Prestador de serviço visualizar o perfil de seus clientes | RF |
+| BS13 | A plataforma deve fornecer link de lojas parceiras que vendem produtos fitness | RF |
 | BS14 | A plataforma deve ter chat de mensagens para permitir interação entre os usuários         | RF                |
+| BS15 | O usuário deve capaz de fazer logout na plataforma | RF |
+| BS16 | O usuário poderá ver e editar as informações da sua conta conta. | RF |
+| BS17 | O Prestador de serviço poderá ver e escolher os serviços que deseja prestar | RF |
 
 ## 5. Referências
 
-- Brainstorming: O Que É, Como Fazer. Disponível em: < https://neilpatel.com/br/blog/o-que-e-brainstorming/ >
-- Mapa Mental e Mapa Conceitual. Disponível em: < https://prof.valiante.info/dicas-de-estudo/mapa-mental-e-mapa-conceitual > Acesso em: 21 de Junho de 2022
+- Brainstorming: O Que É, Como Fazer. Disponível em: < <https://neilpatel.com/br/blog/o-que-e-brainstorming/> >
+- Mapa Mental e Mapa Conceitual. Disponível em: < <https://prof.valiante.info/dicas-de-estudo/mapa-mental-e-mapa-conceitual> > Acesso em: 21 de Junho de 2022
 
 ## Histórico de Versionamento
 

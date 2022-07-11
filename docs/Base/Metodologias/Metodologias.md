@@ -8,7 +8,7 @@ Este documento tem como finalidade descrever e explicar as abordagens, metodolog
 
 ## 2. Metodologias
 
-![alt text](../../../assets/metodologia/metodologia.png)
+![alt text](../../assets/metodologia/metodologia.png)
 
 ### 2.1 Scrum
 
@@ -30,7 +30,7 @@ Esta metodologia contém diversas cerimônias, práticas, atividades e artefatos
 ### 2.2 XP
 
 <p style="text-align: justify;">
-O XP (<i>Extreme Programming</i>) é uma framework de desenvolvimento de software ágil que visa produzir software de maior qualidade e maior qualidade de vida para a equipe de desenvolvimento. XP é o mais específico dos frameworks ágeis em relação às práticas de engenharia apropriadas para o desenvolvimento de software. 
+O XP (<i>Extreme Programming</i>) é uma framework de desenvolvimento de software ágil que visa produzir software de maior qualidade e maior qualidade de vida para a equipe de desenvolvimento. XP é o mais específico dos frameworks ágeis em relação às práticas de engenharia apropriadas para o desenvolvimento de software.
 </p>
 
 <p style="text-align: justify;">
@@ -71,10 +71,10 @@ Para nosso contexto serão utilizados as seguintes pipelines:
 
 ## 3. Referências
 
-- Scrum Guide. Disponível em: < https://scrumguides.org/scrum-guide.html > Acesso em: 22 de Junho de 2022
+- Scrum Guide. Disponível em: < <https://scrumguides.org/scrum-guide.html> > Acesso em: 22 de Junho de 2022
 - GENARI, J. O. S.; FERRARI, F. C. Times de alto desempenho no contexto dasmetodologias scrum e kanban. p. 9, 2015.
 - SILVA, D. V. d. S.; SANTOS, F. A. d. O.; NETO, P. S. Os benefícios do uso de kanban na gerência de projetos de manutenção de software. In: . [S.l.]: VIII Simpósio Brasileiro de Sistemas de Informação, 2012.
-- What is Extreme Programming. Disponível em: < https://www.agilealliance.org/glossary/xp/) > Acesso em: 22 de Junho de 2022
+- What is Extreme Programming. Disponível em: < <https://www.agilealliance.org/glossary/xp/>) > Acesso em: 22 de Junho de 2022
 - SOMMERVILLE, I. Engenharia de software. [S.l.]: Pearson Prentice Hall, 2011. ISBN 978-85-7936-108-1.
 
 ## Histórico de Versionamento
