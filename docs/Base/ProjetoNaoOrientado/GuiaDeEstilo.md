@@ -26,7 +26,7 @@
 
 <p align="center">
 
-![alt text](../../../assets/guia_estilo/exemplo_layout_2.png)
+![alt text](../../assets/guia_estilo/exemplo_layout_2.png)
 
 <br><b>Figura 1: Exemplo layout padrão</b>
 <br><small><i>Fonte: Autores</i></small>
@@ -34,7 +34,7 @@
 </p>
 <p align="center">
 
-![alt text](../../../assets/guia_estilo/exemplo_layout_2.png)
+![alt text](../../assets/guia_estilo/exemplo_layout_2.png)
 
 <br><b>Figura 2: Exemplo layout padrão</b>
 <br><small><i>Fonte: Autores</i></small>
