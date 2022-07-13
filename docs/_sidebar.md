@@ -16,7 +16,6 @@
     - [FURPS+](Base/ProjetoNaoOrientado/Requisistos/Elicitacao/FURPS%2B.md)
     - [Questionário](Base/ProjetoNaoOrientado/Requisistos/Elicitacao/Questionario.md)
     - [MoSCoW](Base/ProjetoNaoOrientado/Requisistos/Priorizacao/Moscow.md)
-    <!-- - [Backlog do Produto]() -->
     - [Protótipo de Media Fidelidade](Base/ProjetoNaoOrientado/PrototipoMedia.md)
     - [Plano de Gerenciamento de Riscos](Base/ProjetoNaoOrientado/TAP.md)
   - Módulo Processos/Metodologias/Abordagens
