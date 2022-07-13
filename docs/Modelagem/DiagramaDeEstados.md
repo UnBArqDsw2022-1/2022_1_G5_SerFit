@@ -29,16 +29,35 @@ Os diagrama de estados, possuem os seguintes componentes:
 </center>
 
 
-## 3. Metodologia 
-
-Para a realização dos diagramas utilizamos a plataforma <a href="https://lucidchart.com">LucidChart</a>, e com o grupo foi definido quais diagramas iriam ser feitos.
-
-## 4. Diagramas de Estados
+## 3. Diagramas de Estados
 
 Diante do projeto, a metodologia para desenvolver os diagramas de estado, consistiu, em definir quais eram as principais aplicações e com isso discutir e desenvolver os estados que podemos encontrar no aplicativo. **Entrar no app**, **Cadastrar Treino**.
 
-### 4.1 Entrar no App
+### 3.1 Entrar no App
 
 ![Diagrama Entrar no App](../assets/modelagem/diagramaDeEstados/Diagrama1.svg)
 
-### 4.2 Cadastrar Treino
+<center>
+<figcaption>Imagem 3: Diagrama de estado cadastrando treinador.</figcaption>
+<figcaption>Autor: Ricardo Loureiro</figcaption>
+</center>
+
+### 3.2 Cadastrar Treino
+
+![Diagrama Cadastrar Treino](../assets/modelagem/diagramaDeEstados/Diagrama2.svg)
+
+<center>
+<figcaption>Imagem 2: Diagrama de estado acessando app.</figcaption>
+<figcaption>Autor: Ricardo Loureiro</figcaption>
+</center>
+
+## 4. Referências
+
+> [1] SERRANO, Milene. 06c - VídeoAula - DSW - Modelagem - Diagrama de Atividades. Material apresentado para a disciplina de Arquitetura e Desenho de Software no curso de Engenharia de Software da Universidade de Brasília, FGA.
+> [2] O que é um diagrama de máquina de estados?. Lucidchart. Disponível em: <a href="https://www.lucidchart.com/pages/pt/o-que-e-diagrama-de-maquina-de-estados-uml">Lucidchart - Diagrama de Estados</a>. Acesso em: 13 de julho de 2022.
+
+## Histórico de Versionamento
+
+| Versão | Alteração            | Autor(es)       | Revisor(es) |
+| ------ | -------------------- | --------------- | ----------- |
+| 1.0    | Criação do documento | Ricardo Loureiro| ----------- |
