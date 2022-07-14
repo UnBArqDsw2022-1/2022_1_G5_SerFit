@@ -21,10 +21,13 @@ Para a confecção do Diagrama de Atividades, foi utilizado o software [LucidCha
 ## 3. Resultados
 
 ### 3.1. Cadastro
+![Diagrama de Atividades do Cadastro](../assets/diagramadeatividades/atividadesCadastro.png)
 
 ### 3.2. Profissional
+![Diagrama de Atividades do Profissional](../assets/diagramadeatividades/atividadesProfissional.png)
 
 ### 3.3. Cliente
+![Diagrama de Atividades do Cliente](../assets/diagramadeatividades/atividadesCliente.png)
 
 ## 4. Referências
 
@@ -37,3 +40,5 @@ Para a confecção do Diagrama de Atividades, foi utilizado o software [LucidCha
 | Versão | Alteração                        | Autor(es)    | Revisor(es) |
 | ------ | -------------------------------- | ------------ | ----------- |
 | 1.0    | Criação do documento             | Lucas Gomes | ---         |
+| 2.0    | Adição dos diagramas             | Lucas Gomes | ---         |
+
