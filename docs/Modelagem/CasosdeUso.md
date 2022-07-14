@@ -52,55 +52,6 @@ Definem como os atores e casos de uso interagem entre si e podem ser de 4 tipos:
 <li>	Incluir.
 </ul>
 
-### 2.4.1. Generalização
-<p align = "justify">
-A generalização entre casos de uso é semelhante à generalização entre classes – o caso de uso filho herda as propriedades e o comportamento do caso de uso pai e pode substituir o comportamento do pai. Ela é representada como uma linha sólida direcionada, com uma grande ponta de seta triangular oca, do caso de uso mais específico para o caso de uso geral, como mostra o exemplo da Figura 2.
-</p>
- 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/48844857/156846626-64fa250e-69ce-457f-a5ba-b6940eaaffcd.jpg" width="400">
-  <br><b>Figura 2: Exemplo de Generalização</b>
-</p>
-
-### 2.4.2. Associações
-<p align = "justify">
-Cada caso de uso representa uma unidade de funcionalidade útil que os sujeitos fornecem aos atores. Uma associação entre um ator e um caso de uso indica que o ator e o caso de uso de alguma forma interagem ou se comunicam, como mostra o exemplo da Figura 3.
-</p>
- 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/48844857/156846969-149c3df4-e0ba-4399-890d-2a06d8b83d97.jpg" width="400">
-  <br><b>Figura 3: Exemplo de Associação</b>
-</p>
-
-### 2.4.3. Estender
-<p align = "justify">
-Estender é um relacionamento direcionado que especifica como e quando o comportamento definido no caso de uso de extensão geralmente suplementar (opcional) pode ser inserido no comportamento definido no caso de uso estendido. Ele é representado como uma linha tracejada com uma ponta de seta aberta direcionada do caso de uso estendido para o caso de uso base. A seta é rotulada com a palavra-chave «extend», como mostra o exemplo da Figura 4.
-</p>
- 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/48844857/156847023-cee8a818-990f-420e-913b-895202abde02.jpg" width="400">
-  <br><b>Figura 4: Exemplo de Estender</b>
-</p>
-
-### 2.4.4. Incluir
-<p align = "justify">
-A inclusão de caso de uso é um relacionamento direcionado entre dois casos de uso que é usado para mostrar que o comportamento do caso de uso incluído (a adição) é inserido no comportamento do caso de uso base. A relação de incluir pode ser usada para:
-</p>
-
-<ul>
-<li>	simplificar o caso de uso grande dividindo-o em vários casos de uso;
-<li>	extrair partes comuns dos comportamentos de dois ou mais casos de uso.
-</ul>
-
-<p align = "justify">
-Esse relacionamento é representado por uma seta tracejada com uma ponta de seta aberta do caso de uso base para o caso de uso incluído (parte comum). A seta é rotulada com a palavra-chave «incluir», como mostra o exemplo da Figura 5.
-</p>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/48844857/156847139-513d7996-c468-4a21-9237-2e2e68508dca.jpg" width="400">
-  <br><b>Figura 5: Exemplo de Incluir</b>
-</p>
-
 ## 3. Diagramas
 ### 3.1. Fluxo de Registrar-se 
  
@@ -163,7 +114,7 @@ Esse relacionamento é representado por uma seta tracejada com uma ponta de seta
 </center>
 
 ## Bibliografia
->SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 11;
+>SERRANO, Maurício; SERRANO, Milene;
 
 >UML Use Case Diagrams. UML Diagrams. Disponível em:  https://www.uml-diagrams.org/use-case-diagrams.html. Acesso em: 04/03/2022.
 
@@ -173,4 +124,5 @@ Esse relacionamento é representado por uma seta tracejada com uma ponta de seta
 | ------ | -------------------------------- | ----------------- | ------- |
 | 1.0    | Criação do Documento             | Daniel | ---     |
 | 2.0    | Adicionando três casos de uso             | Daniel | Gustave     |
+| 3.0    | Diminuindo introdução do arquivo          | Daniel | Gustave     |
 
