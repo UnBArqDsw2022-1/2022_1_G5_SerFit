@@ -28,17 +28,29 @@
     - [Política de Contribuição](Base/ProjetoNaoOrientado/Extra/CONTRIBUTING.md)
     - [Heatmap](Base/ProjetoNaoOrientado/Extra/heatmap.md)
   - [Participações - Base](Base/ParticipacoesBase.md)
-  - [EAP](Base/ProjetoNaoOrientado/Extra/EAP.md)
 
 - **Modelagem**
   - Módulo Projeto Orientado a Abordagens Tradicionais
     - Diagramas Estáticos
+      - [Diagrama de Classes](Modelagem/2.1.1.1.DiagramaDeClasses.md)
+      - [Diagrama de Pacotes](Modelagem/DiagramasEstaticos/DiagramaDePacotes.md)
       - [Diagrama de Componentes](Modelagem/Estatica/DiagramaDeComponentes.md)
+      - [Diagrama de Implantação](Modelagem/2.1.1.UMLEstaticos.md)
     - Diagramas Dinâmicos
-    - Modelagem Ágil
-    - Iniciativas Extras
-      - [Diagrama NFR](Modelagem/IniciativasExtras/NFR.md)
+      - [Diagrama de Sequência]()
+      - [Diagrama de Comunicação](Modelagem/DiagramasDinamicos/DiagramaDeComunicacao.md)
       - [Diagrama de Estados](Modelagem/DiagramaDeEstados.md)
+      - [Diagrama de Atividades](Modelagem/DiagramaDeAtividades.md)
+    - Modelagem Ágil
+      - [Backlog](Modelagem/2.1.3.Agil.md)
+    - Iniciativas Extras
+      - [Documento de Tecnologias](Modelagem/DiagramasDinamicos/DiagramaDeTecnologias.md)
+      - [Casos de Uso](Base/Requisistos/Modelagem/CasosdeUso.md)
+      - [Diagrama de Banco de Dados]()
+      - [EAP](Base/ProjetoNaoOrientado/Extra/EAP.md)
+      - [Diagrama NFR](Modelagem/IniciativasExtras/NFR.md)
+      - [Canvas](Modelagem/Canvas.md)
+      - [Atas](Ata/Entrega2.md)
   - [Participações - Modelagem](Modelagem/2.3.ParticipacoesModelagem.md)
 
 - **Padrões de Projeto**
