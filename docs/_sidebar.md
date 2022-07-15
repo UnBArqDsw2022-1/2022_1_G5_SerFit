@@ -17,8 +17,6 @@
     - [Questionário](Base/ProjetoNaoOrientado/Requisistos/Elicitacao/Questionario.md)
     - [MoSCoW](Base/ProjetoNaoOrientado/Requisistos/Priorizacao/Moscow.md)
     - [Protótipo de Media Fidelidade](Base/ProjetoNaoOrientado/PrototipoMedia.md)
-    - [Guia de Estilo](Base/ProjetoNaoOrientado/GuiaDeEstilo.md)
-    - [Casos de Uso](Base/ProjetoNaoOrientado/CasosdeUso.md)
     - [Plano de Gerenciamento de Riscos](Base/ProjetoNaoOrientado/TAP.md)
   - Módulo Processos/Metodologias/Abordagens
     - [BPMN](Base/Metodologias/BPMN.md)
@@ -51,6 +49,8 @@
       - [Diagrama NFR](Modelagem/IniciativasExtras/NFR.md)
       - [Canvas](Modelagem/Canvas.md)
       - [Atas](Ata/Entrega2.md)
+      - [Casos de Uso](Modelagem/CasosdeUso.md)
+      - [Guia de Estilo](Modelagem/GuiaDeEstilo.md)
   - [Participações - Modelagem](Modelagem/2.3.ParticipacoesModelagem.md)
 
 - **Padrões de Projeto**
