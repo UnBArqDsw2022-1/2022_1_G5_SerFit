@@ -53,16 +53,13 @@ Definem como os atores e casos de uso interagem entre si e podem ser de 4 tipos:
 </ul>
 
 ## 3. Diagramas
+
 ### 3.1. Fluxo de Registrar-se 
- 
-<p align="center">
 
 ![alt text](../../assets/casosdeuso/CasosDeUso3.jpeg)
 
   <br><b>Figura 6: Diagrama do fluxo de Registrar-se</b>
-</p>
 
-<center>
   
 |  UC01  | Informações                                                                 |
 | :------: | :---------------------------------------------------------------------------: |
@@ -73,7 +70,6 @@ Definem como os atores e casos de uso interagem entre si e podem ser de 4 tipos:
 | Fluxo principal | <ul> <li> O usuário acessa a aplicação <li> O usuário informa seu E-mail, nome e senha <li> O usuário realiza o cadastro</ul>|
 | Pós-condições | O usuário poderá utilizar os serviços do aplicativo disponibilizados para seu tipo de usuário(Personal ou Cliente)                 |
   
-</center>
 
 ### 3.2. Fluxo de Pesquisar Profissionais
 
@@ -86,7 +82,6 @@ Definem como os atores e casos de uso interagem entre si e podem ser de 4 tipos:
 
 </p>
 
-<center>
   
 |  UC02  | Informações                                                                 |
 | :------: | :---------------------------------------------------------------------------: |
@@ -97,7 +92,6 @@ Definem como os atores e casos de uso interagem entre si e podem ser de 4 tipos:
 | Fluxo principal | <ul> <li> O Cliente acessa a aplicação <li> O Cliente realiza o login <li> O Cliente pesquisar Profissionais <li> O Cliente escolhe um Profissional para ver detalhes</ul>|
 | Pós-condições | O Cliente poderá entrar em contato com o Profissional encontrado     |
   
-</center>
 
 ### 3.3. Fluxo de Conversar com Cliente
 
