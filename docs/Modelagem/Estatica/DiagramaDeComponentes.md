@@ -40,4 +40,5 @@ Os membros participantes foram:
 | ------ | -------------------------------- | ------------ | ----------- |
 | 1.0    | Criação do documento             | Lucas Gomes | ---         |
 | 2.0    | Adição da descrição dos símbolos do diagrama             | Lucas Gomes | ---         |
+| 3.0    | Revisão da v2.0 para v3.0            | --- | Adrian Sares Lopes         |
 
