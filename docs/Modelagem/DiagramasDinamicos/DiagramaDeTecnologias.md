@@ -1,4 +1,4 @@
-# Diagrama de Tecnologias
+# Documento de Tecnologias
 
 ## 1. Introdução
 <p style="text-align: justify;">
