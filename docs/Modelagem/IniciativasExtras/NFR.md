@@ -67,10 +67,10 @@ A partir dos requisitos já levantados no <a href="../priorization/moscow">Mosco
 
 <style>
     body {
-        text-alignment: justify;
+        text-align: justify;
     }
     p {
-        text-alignment: justify;
+        text-align: justify;
     }
 
 </style>
