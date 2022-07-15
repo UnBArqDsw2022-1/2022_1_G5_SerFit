@@ -18,6 +18,7 @@
     - [MoSCoW](Base/ProjetoNaoOrientado/Requisistos/Priorizacao/Moscow.md)
     - [Protótipo de Media Fidelidade](Base/ProjetoNaoOrientado/PrototipoMedia.md)
     - [Guia de Estilo](Base/ProjetoNaoOrientado/GuiaDeEstilo.md)
+    - [Casos de Uso](Base/ProjetoNaoOrientado/CasosdeUso.md)
     - [Plano de Gerenciamento de Riscos](Base/ProjetoNaoOrientado/TAP.md)
   - Módulo Processos/Metodologias/Abordagens
     - [BPMN](Base/Metodologias/BPMN.md)

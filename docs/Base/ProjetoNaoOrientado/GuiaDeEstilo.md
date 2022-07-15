@@ -26,7 +26,7 @@
 
 <p align="center">
 
-![alt text](../../assets/guia_estilo/exemplo_layout_2.png)
+![alt text](../../assets/guia_estilo/exemplo_layout_1.png)
 
 <br><b>Figura 1: Exemplo layout padrão</b>
 <br><small><i>Fonte: Autores</i></small>
@@ -43,7 +43,7 @@
 
 ### 3.2. Tipografia
 
-<p align=justify>A tipografia do aplicativo é unicamente a <a href="https://fonts.google.com/specimen/Fira+Sans">Fira Sans</a>.</p>
+<p align=justify>A tipografia do aplicativo é unicamente a <a href="https://fonts.google.com/specimen/Roboto">Roboto</a>.</p>
 
 ### 3.3. Símbolos não tipográficos
 
