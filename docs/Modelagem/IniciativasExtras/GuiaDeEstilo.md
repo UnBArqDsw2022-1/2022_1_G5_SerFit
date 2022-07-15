@@ -47,7 +47,7 @@
 
 ### 3.3. Símbolos não tipográficos
 
-![alt text](../assets/guia_estilo/icones_prototipo.png)
+![alt text](../../assets/guia_estilo/icones_prototipo.png)
 
 <br><b>Figura 3: Simbolos do aplicativo</b>
 <br><small><i>Fonte: Autores</i></small>
