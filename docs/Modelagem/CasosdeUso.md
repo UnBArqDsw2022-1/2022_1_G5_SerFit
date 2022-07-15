@@ -56,7 +56,9 @@ Definem como os atores e casos de uso interagem entre si e podem ser de 4 tipos:
 ### 3.1. Fluxo de Registrar-se 
  
 <p align="center">
-<img src="https://user-images.githubusercontent.com/48844857/156847412-e357349f-f4dc-4383-b353-376f704f1b47.jpg">
+
+![alt text](../assets/casosdeuso/CasosDeUso3.jpeg)
+
   <br><b>Figura 6: Diagrama do fluxo de Registrar-se</b>
 </p>
 
@@ -76,8 +78,12 @@ Definem como os atores e casos de uso interagem entre si e podem ser de 4 tipos:
 ### 3.2. Fluxo de Pesquisar Profissionais
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/48844857/156847608-75337053-6150-4f87-a642-af1cc5bd3b5a.jpg">
-  <br><b>Figura 7: Diagrama do fluxo de Pesquisar Profissionais</b>
+
+![alt text](../assets/casosdeuso/CasosDeUso2.jpeg)
+
+<br><b>Figura 7: Diagrama do fluxo de Pesquisar Profissionais</b>
+<br><small><i>Fonte: Autores</i></small>
+
 </p>
 
 <center>
@@ -96,7 +102,9 @@ Definem como os atores e casos de uso interagem entre si e podem ser de 4 tipos:
 ### 3.3. Fluxo de Conversar com Cliente
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/48844857/156847697-0c3e264e-b90f-48f0-9edb-5f6e17757a5a.jpg">
+
+![alt text](../assets/casosdeuso/CasosDeUso1.jpeg)
+
   <br><b>Figura 8: Diagrama do fluxo de Conversar com Cliente</b>
 </p>
 
