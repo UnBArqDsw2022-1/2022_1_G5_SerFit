@@ -35,6 +35,8 @@
       - [Diagrama de Componentes](Modelagem/Estatica/DiagramaDeComponentes.md)
     - Diagramas Dinâmicos
     - Modelagem Ágil
+    - Iniciativas Extras
+      - [Business Canvas](Modelagem/Canvas.md)
   - [Participações - Modelagem](/Modelagem/2.3.ParticipacoesModelagem.md)
 
 - **Padrões de Projeto**
