@@ -53,14 +53,12 @@ Definem como os atores e casos de uso interagem entre si e podem ser de 4 tipos:
 </ul>
 
 ## 3. Diagramas
+
 ### 3.1. Fluxo de Registrar-se 
- 
-<p align="center">
 
 ![alt text](../../assets/casosdeuso/CasosDeUso3.jpeg)
 
   <br><b>Figura 6: Diagrama do fluxo de Registrar-se</b>
-</p>
 
   
 |  UC01  | Informações                                                                 |
