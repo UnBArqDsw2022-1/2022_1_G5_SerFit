@@ -27,6 +27,7 @@
     - [Política de Contribuição](Base/ProjetoNaoOrientado/Extra/CONTRIBUTING.md)
     - [Heatmap](Base/ProjetoNaoOrientado/Extra/heatmap.md)
   - [Participações - Base](Base/ParticipacoesBase.md)
+  - [EAP](Base/ProjetoNaoOrientado/Extra/EAP.md)
 
 - **Modelagem**
   - Módulo Projeto Orientado a Abordagens Tradicionais
@@ -35,8 +36,9 @@
     - Diagramas Dinâmicos
     - Modelagem Ágil
     - Iniciativas Extras
-      - [Diagrama NFR](/Modelagem/IniciativasExtras/NFR.md)
-  - [Participações - Modelagem](/Modelagem/2.3.ParticipacoesModelagem.md)
+      - [Diagrama NFR](Modelagem/IniciativasExtras/NFR.md)
+      - [Diagrama de Estados](Modelagem/DiagramaDeEstados.md)
+  - [Participações - Modelagem](Modelagem/2.3.ParticipacoesModelagem.md)
 
 - **Padrões de Projeto**
 
@@ -48,8 +50,12 @@
     - [3.5. Participações - Padrões de Projeto](/PadroesDeProjeto/3.5.ParticipacoesPadroes.md)
 
 - **Arquitetura de Software & Reutilização**
+
   - [4. Desenho de Software (Arquitetura & Reutilização de Software)](/ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
     - [4.1. Módulo Estilos e Padrões Arquiteturais](/ArquiteturaReutilizacao/4.1.PadroesArquiteturais.md)
     - [4.2. Módulo Reutilização de Software](/ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
     - [4.3. Iniciativas Extras - Arquitetura & Reutilização de Software](/ArquiteturaReutilizacao/4.3.IniciativasExtras.md)
     - [4.4. Participações - Arquitetura & Reutilização de Software](/ArquiteturaReutilizacao/4.4.ParticipacoesArqReutilizacao.md)
+
+- **Ata das Sprints**
+  - [Entrega 2](/Ata/Entrega2)
