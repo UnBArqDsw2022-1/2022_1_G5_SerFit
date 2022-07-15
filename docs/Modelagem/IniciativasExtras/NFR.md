@@ -38,6 +38,10 @@ A partir dos requisitos já levantados no <a href="../priorization/moscow">Mosco
 | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/unknow.png">                  | Contribuição desconhecida entre um softgoal descendente e um ascendente                                                                                                 |
 | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2021.2-MedSUS/main/docs/assets/nfr/equals.png">                  | O softgoal descendente será satisfeito, apenas se o softgoal ascendente for satisfeito ou o softgoal descendente será negado apenas se o softgoal ascendente for negado |
 
+## 3. NFR
+
+
+
 ![alt](../../assets/nfr/nfr_serfit_app_ISO25010.drawio.png)
 
 ![alt](../../assets/nfr/nfr_serfit_app_confiabilidade.drawio.png)
@@ -48,7 +52,18 @@ A partir dos requisitos já levantados no <a href="../priorization/moscow">Mosco
 
 ![alt](../../assets/nfr/nfr_serfit_app_usab.drawio.png)
 
-## 3. NFR
+## Referências bibliográficas
+
+> NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados, SILVA, Antônio Reinaldo, Universidade Federal de Pernambuco , Brazil, 2019. CD-ROM.
+
+## Histórico de Versionamento
+
+| Versão | Alteração                        | Autor(es)    | Revisor(es) |
+| ------ | -------------------------------- | ------------ | ----------- |
+| 1.0    | Criação do documento             |Adrian Soares | ---         |
+| 1.1    | Diagrama geral          | Adrian | ---         |
+| 1.2    | Diagramas específicos | Adrian | ---         |
+
 
 <style>
     body {
