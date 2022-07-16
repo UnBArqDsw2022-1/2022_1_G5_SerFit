@@ -23,7 +23,7 @@ Sabendo que esse método permite a análise de cada processo, as pessoas envolvi
 
 ## 3. Canvas
 
-![alt text](../assets/canvas/Business%20Model%20Canvas.jpg)
+![alt text](../../assets/canvas/Business%20Model%20Canvas.jpg)
 
 ## Histórico de Versionamento
 

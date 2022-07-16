@@ -12,19 +12,19 @@ Serão apresentados a seguir 4 diagramas que foram produzidos pela equipe de des
 
 ## 2.1 Diagrama Genérico
 
-![alt text](../assets/diagramadepacotes/Diagrama-Generico.png)
+![alt text](../../assets/diagramadepacotes/Diagrama-Generico.png)
 
 ## 2.2 Diagrama Genérico com Tecnologias
 
-![alt text](../assets/diagramadepacotes/Application.png)
+![alt text](../../assets/diagramadepacotes/Application.png)
 
 ## 2.3 Diagrama de Pacotes - Frontend
 
-![alt text](../assets/diagramadepacotes/Frontend.png)
+![alt text](../../assets/diagramadepacotes/Frontend.png)
 
 ## 2.4 Diagrama de Pacotes - Backend
 
-![alt text](../assets/diagramadepacotes/Backend.png)
+![alt text](../../assets/diagramadepacotes/Backend.png)
 
 ## 3. Referências
 

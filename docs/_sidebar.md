@@ -17,8 +17,6 @@
     - [Questionário](Base/ProjetoNaoOrientado/Requisistos/Elicitacao/Questionario.md)
     - [MoSCoW](Base/ProjetoNaoOrientado/Requisistos/Priorizacao/Moscow.md)
     - [Protótipo de Media Fidelidade](Base/ProjetoNaoOrientado/PrototipoMedia.md)
-    - [Guia de Estilo](Base/ProjetoNaoOrientado/GuiaDeEstilo.md)
-    - [Casos de Uso](Base/ProjetoNaoOrientado/CasosdeUso.md)
     - [Plano de Gerenciamento de Riscos](Base/ProjetoNaoOrientado/TAP.md)
   - Módulo Processos/Metodologias/Abordagens
     - [BPMN](Base/Metodologias/BPMN.md)
@@ -28,17 +26,30 @@
     - [Política de Contribuição](Base/ProjetoNaoOrientado/Extra/CONTRIBUTING.md)
     - [Heatmap](Base/ProjetoNaoOrientado/Extra/heatmap.md)
   - [Participações - Base](Base/ParticipacoesBase.md)
-  - [EAP](Base/ProjetoNaoOrientado/Extra/EAP.md)
 
 - **Modelagem**
   - Módulo Projeto Orientado a Abordagens Tradicionais
     - Diagramas Estáticos
-      - [Diagrama de Componentes](Modelagem/Estatica/DiagramaDeComponentes.md)
+      - [Diagrama de Classes](Modelagem/DiagramasEstaticos/DiagramaDeClasses.md)
+      - [Diagrama de Pacotes](Modelagem/DiagramasEstaticos/DiagramaDePacotes.md)
+      - [Diagrama de Componentes](Modelagem/DiagramasEstaticos/DiagramaDeComponentes.md)
+      - [Diagrama de Implantação](Modelagem/2.1.1.UMLEstaticos.md)
     - Diagramas Dinâmicos
+      - [Diagrama de Sequência](Modelagem/DiagramasDinamicos/DiagramaDeSequencia.md)
+      - [Diagrama de Comunicação](Modelagem/DiagramasDinamicos/DiagramaDeComunicacao.md)
+      - [Diagrama de Estados](Modelagem/DiagramasDinamicos/DiagramaDeEstados.md)
+      - [Diagrama de Atividades](Modelagem/DiagramasDinamicos/DiagramaDeAtividades.md)
     - Modelagem Ágil
+      - [Backlog](Modelagem/2.1.3.Agil.md)
     - Iniciativas Extras
+      - [Documento de Tecnologias](Modelagem/IniciativasExtras/DiagramaDeTecnologias.md)
+      - [Diagrama de Banco de Dados]()
+      - [EAP](Base/ProjetoNaoOrientado/Extra/EAP.md)
       - [Diagrama NFR](Modelagem/IniciativasExtras/NFR.md)
-      - [Diagrama de Estados](Modelagem/DiagramaDeEstados.md)
+      - [Canvas](Modelagem/IniciativasExtras/Canvas.md)
+      - [Atas](Ata/Entrega2.md)
+      - [Casos de Uso](Modelagem/IniciativasExtras/CasosdeUso.md)
+      - [Guia de Estilo](Modelagem/IniciativasExtras/GuiaDeEstilo.md)
   - [Participações - Modelagem](Modelagem/2.3.ParticipacoesModelagem.md)
 
 - **Padrões de Projeto**

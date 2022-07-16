@@ -15,12 +15,12 @@ Os diagrama de estados, possuem os seguintes componentes:
 
 | Simbolo                                                        	| Legenda                  	|
 |:---------------------------------------------------------------:|:-------------------------:|
-| ![]( ../assets/modelagem/diagramaDeEstados/inicio.svg)        	| Estado Inicial           	|
-| ![]( ../assets/modelagem/diagramaDeEstados/transicao.svg)       | Transição                	|
-| ![]( ../assets/modelagem/diagramaDeEstados/estado.svg)         	| Estado                   	|
-| ![]( ../assets/modelagem/diagramaDeEstados/pseudo_escolha.svg) 	| Pseudo Estado de Escolha 	|
-| ![]( ../assets/modelagem/diagramaDeEstados/conjuncao.svg)      	| Conjunção                	|
-| ![]( ../assets/modelagem/diagramaDeEstados/estado_final.svg)   	| Estado Final             	|
+| ![]( ../../assets/modelagem/diagramaDeEstados/inicio.svg)        	| Estado Inicial           	|
+| ![]( ../../assets/modelagem/diagramaDeEstados/transicao.svg)       | Transição                	|
+| ![]( ../../assets/modelagem/diagramaDeEstados/estado.svg)         	| Estado                   	|
+| ![]( ../../assets/modelagem/diagramaDeEstados/pseudo_escolha.svg) 	| Pseudo Estado de Escolha 	|
+| ![]( ../../assets/modelagem/diagramaDeEstados/conjuncao.svg)      	| Conjunção                	|
+| ![]( ../../assets/modelagem/diagramaDeEstados/estado_final.svg)   	| Estado Final             	|
 </div>
 
 <center>
@@ -35,7 +35,7 @@ Diante do projeto, a metodologia para desenvolver os diagramas de estado, consis
 
 ### 3.1 Entrar no App
 
-![Diagrama Entrar no App](../assets/modelagem/diagramaDeEstados/Diagrama1.svg)
+![Diagrama Entrar no App](../../assets/modelagem/diagramaDeEstados/Diagrama1.svg)
 
 <center>
 <figcaption>Imagem 3: Diagrama de estado cadastrando treinador.</figcaption>
@@ -44,7 +44,7 @@ Diante do projeto, a metodologia para desenvolver os diagramas de estado, consis
 
 ### 3.2 Cadastrar Treino
 
-![Diagrama Cadastrar Treino](../assets/modelagem/diagramaDeEstados/Diagrama2.svg)
+![Diagrama Cadastrar Treino](../../assets/modelagem/diagramaDeEstados/Diagrama2.svg)
 
 <center>
 <figcaption>Imagem 2: Diagrama de estado acessando app.</figcaption>
