@@ -16,10 +16,8 @@ Para o desenvolvimento do diagrama foi utilizado as ferramentas do site LucidCha
 
 
 ## 3. Diagrama
- 
-<p align="center">
-  <img src="../../assets/diagrama-de-sequencia/Sequence-diagram.png" />
-</p>
+
+![alt text](../../assets/diagrama-de-sequencia/Sequence-diagram.png)
 
 <br>
 
