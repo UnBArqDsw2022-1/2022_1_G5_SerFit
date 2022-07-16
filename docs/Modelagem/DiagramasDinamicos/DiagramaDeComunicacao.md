@@ -15,12 +15,12 @@ Os diagramas foram elaborados através da ferramenta LucidChart, que conta com s
 ## 2.1 Fluxo do Cliente
 
 
-![alt text](../../assets/diagrama_de_comunicacao/navegacao_cliente.png)
+![alt text](../../assets/diagrama-de-comunicacao/navegacao_cliente.png)
 
 ## 2.2 Fluxo do Personal
 
 
-![alt text](../../assets/diagrama_de_comunicacao/navegacao_personal.png)
+![alt text](../../assets/diagrama-de-comunicacao/navegacao_personal.png)
 
 ## 3. Conclusão
 

@@ -57,7 +57,7 @@ Definem como os atores e casos de uso interagem entre si e podem ser de 4 tipos:
  
 <p align="center">
 
-![alt text](../assets/casosdeuso/CasosDeUso3.jpeg)
+![alt text](../../assets/casosdeuso/CasosDeUso3.jpeg)
 
   <br><b>Figura 6: Diagrama do fluxo de Registrar-se</b>
 </p>

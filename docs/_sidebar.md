@@ -30,26 +30,26 @@
 - **Modelagem**
   - Módulo Projeto Orientado a Abordagens Tradicionais
     - Diagramas Estáticos
-      - [Diagrama de Classes](Modelagem/2.1.1.1.DiagramaDeClasses.md)
+      - [Diagrama de Classes](Modelagem/DiagramasEstaticos/DiagramaDeClasses.md)
       - [Diagrama de Pacotes](Modelagem/DiagramasEstaticos/DiagramaDePacotes.md)
-      - [Diagrama de Componentes](Modelagem/Estatica/DiagramaDeComponentes.md)
+      - [Diagrama de Componentes](Modelagem/DiagramasEstaticos/DiagramaDeComponentes.md)
       - [Diagrama de Implantação](Modelagem/2.1.1.UMLEstaticos.md)
     - Diagramas Dinâmicos
-      - [Diagrama de Sequência]()
+      - [Diagrama de Sequência](Modelagem/DiagramasDinamicos/DiagramaDeSequencia.md)
       - [Diagrama de Comunicação](Modelagem/DiagramasDinamicos/DiagramaDeComunicacao.md)
-      - [Diagrama de Estados](Modelagem/DiagramaDeEstados.md)
-      - [Diagrama de Atividades](Modelagem/DiagramaDeAtividades.md)
+      - [Diagrama de Estados](Modelagem/DiagramasDinamicos/DiagramaDeEstados.md)
+      - [Diagrama de Atividades](Modelagem/DiagramasDinamicos/DiagramaDeAtividades.md)
     - Modelagem Ágil
       - [Backlog](Modelagem/2.1.3.Agil.md)
     - Iniciativas Extras
-      - [Documento de Tecnologias](Modelagem/DiagramasDinamicos/DiagramaDeTecnologias.md)
+      - [Documento de Tecnologias](Modelagem/IniciativasExtras/DiagramaDeTecnologias.md)
       - [Diagrama de Banco de Dados]()
       - [EAP](Base/ProjetoNaoOrientado/Extra/EAP.md)
       - [Diagrama NFR](Modelagem/IniciativasExtras/NFR.md)
-      - [Canvas](Modelagem/Canvas.md)
+      - [Canvas](Modelagem/IniciativasExtras/Canvas.md)
       - [Atas](Ata/Entrega2.md)
-      - [Casos de Uso](Modelagem/CasosdeUso.md)
-      - [Guia de Estilo](Modelagem/GuiaDeEstilo.md)
+      - [Casos de Uso](Modelagem/IniciativasExtras/CasosdeUso.md)
+      - [Guia de Estilo](Modelagem/IniciativasExtras/GuiaDeEstilo.md)
   - [Participações - Modelagem](Modelagem/2.3.ParticipacoesModelagem.md)
 
 - **Padrões de Projeto**

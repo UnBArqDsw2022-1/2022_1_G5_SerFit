@@ -16,7 +16,7 @@ A UML foi criada como um modelo padronizado para descrever uma abordagem de prog
 
 ## 2. Diagrama de Classes da equipe
 
-![alt text](./../assets/diagramaclasses/diagramaclasses.png)
+![alt text](../../assets/diagramaclasses/diagramaclasses.png)
 
 ## 3. Referências
 
