@@ -43,7 +43,7 @@
       - [Backlog](Modelagem/2.1.3.Agil.md)
     - Iniciativas Extras
       - [Documento de Tecnologias](Modelagem/IniciativasExtras/DiagramaDeTecnologias.md)
-      - [Diagrama de Banco de Dados]()
+      <!-- - [Diagrama de Banco de Dados]() -->
       - [EAP](Base/ProjetoNaoOrientado/Extra/EAP.md)
       - [Diagrama NFR](Modelagem/IniciativasExtras/NFR.md)
       - [Canvas](Modelagem/IniciativasExtras/Canvas.md)

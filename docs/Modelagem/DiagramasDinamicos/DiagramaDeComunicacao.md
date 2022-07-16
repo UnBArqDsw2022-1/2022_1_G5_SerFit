@@ -15,12 +15,14 @@ Os diagramas foram elaborados através da ferramenta LucidChart, que conta com s
 ## 2.1 Fluxo do Cliente
 
 
-![alt text](../../assets/diagrama-de-comunicacao/navegacao_cliente.png)
+83-diagrama-de-sequencia
+![alt text](../../assets/diagrama-de-comunicacao/navegacao_cliente.jpeg)
 
 ## 2.2 Fluxo do Personal
 
 
-![alt text](../../assets/diagrama-de-comunicacao/navegacao_personal.png)
+83-diagrama-de-sequencia
+![alt text](../../assets/diagrama-de-comunicacao/navegacao_personal.jpeg)
 
 ## 3. Conclusão
 
@@ -38,3 +40,4 @@ Com os dois diagramas dinâmicos criados neste documento, temos uma síntese do 
 | ------ | -------------------- | --------------- | ----------- |
 | 1.0    | Criação do documento | Wesley Santos e Victor Hugo| ---         |
 | 2.0    | Adição de conteúdo | Wesley Santos e Victor Hugo | ---         |
+| 3.0    | Edição do diagrama | Wesley Santos e Victor Hugo | ---         |
