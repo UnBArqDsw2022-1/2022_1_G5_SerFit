@@ -21,7 +21,7 @@ Pode-se classificar como a parte visual de um site, aquilo que o usuário conseg
 ### 3.1. [React Native](https://reactnative.dev/) (FrontEnd)
 
 <p align="center">
-  <img src="../../assets/diagrama-de-tecnologias/ReactNative.webp" />
+  <img src="../../assets/diagrama-de-tecnologias/ReactNative.webp" width="200"/>
 </p>
 
 
