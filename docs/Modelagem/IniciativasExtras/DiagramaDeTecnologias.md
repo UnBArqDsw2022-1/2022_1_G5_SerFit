@@ -20,34 +20,26 @@ Pode-se classificar como a parte visual de um site, aquilo que o usuário conseg
 
 ### 3.1. [React Native](https://reactnative.dev/) (FrontEnd)
 
-<p align="center">
-  <img src="../../assets/diagrama-de-tecnologias/ReactNative.webp" width="200"/>
-</p>
+![alt text](../../assets/diagrama-de-tecnologias/ReactNative.webp)
 
 
 React Native é uma estrutura de software de interface do usuário de código aberto criada pela Meta Platforms, Inc. Ele é usado para desenvolver aplicativos para Android, Android TV, iOS, macOS, tvOS, Web, Windows e UWP, permitindo que os desenvolvedores usem a estrutura React juntamente com recursos nativos da plataforma.
 
 ### 3.2. [Expo](https://expo.dev/) (FrontEnd)
 
-<p align="center">
-  <img src=../../assets/diagrama-de-tecnologias/Expo.png />
-</p>
+![alt text](../../assets/diagrama-de-tecnologias/Expo.png)
 
 Expo é uma plataforma de código aberto para testar, configurar e ate implementar aplicativos nativos universais para Android, iOS e web com JavaScript e React. É uma ferramenta para desenvolvimento em React Native interessante por trazer uma série de componentes pré-configurados e uma forma de testar as aplicações facilmente.
 
 ### 3.3. [Express](https://expressjs.com/pt-br/) (BackEnd)
 
-<p align="center">
-  <img src=../../assets/diagrama-de-tecnologias/Express.png />
-</p>
+![alt text](../../assets/diagrama-de-tecnologias/Express.png)
 
 Express é uma framework de aplicação para o [Node.js](https://nodejs.org/en/), que serve como um software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web. O Express fornece uma fina camada de recursos fundamentais de aplicativos web, sem ocultar recursos node.js.
 
 ### 3.4. [PostgreSQL](https://www.postgresql.org/) (BackEnd)
 
-<p align="center">
-  <img src="../../assets/diagrama-de-tecnologias/PostgreSQL.png" />
-</p>
+![alt text](../../assets/diagrama-de-tecnologias/PostgreSQL.png)
 
 PostgreSQL é um poderoso sistema de banco de dados de código aberto com mais de 30 anos de desenvolvimento ativo que lhe rendeu uma forte reputação de confiabilidade, robustez de recursos e desempenho.
 
