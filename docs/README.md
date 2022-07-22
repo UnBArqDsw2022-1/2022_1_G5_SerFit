@@ -30,6 +30,10 @@ Adicione 2 ou mais screenshots do projeto em termos de artefatos da Primeira Ent
 ## Screenshots Segunda Entrega <<FOCO: DSW(Modelagem)>>
 Adicione 2 ou mais screenshots do projeto em termos de artefatos da Segunda Entrega.
 
+![alt text](assets/entrega2/issues.png)
+
+![alt text](assets/diagramaclasses/diagramaclasses.png)
+
 OBS: Não especificaram no prazo (15Julho22) - Profa. Milene
 
 ## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
