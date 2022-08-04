@@ -70,4 +70,9 @@
     - [4.4. Participações - Arquitetura & Reutilização de Software](/ArquiteturaReutilizacao/4.4.ParticipacoesArqReutilizacao.md)
 
 - **Ata das Sprints**
-  - [Entrega 2](/Ata/Entrega2)
+  - Entrega 2
+    - [Sprint 1](/Ata/Entrega2/Sprint1.md)
+    - [Sprint 2](/Ata/Entrega2/Sprint2.md)
+  - Entrega 3
+    - [Sprint 6](/Ata/Entrega3/Sprint6.md)
+    - [Sprint 7](/Ata/Entrega3/Sprint7.md)
