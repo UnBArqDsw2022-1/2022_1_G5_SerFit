@@ -28,6 +28,7 @@
   - [Participações - Base](Base/ParticipacoesBase.md)
 
 - **Modelagem**
+
   - Módulo Projeto Orientado a Abordagens Tradicionais
     - Diagramas Estáticos
       - [Diagrama de Classes](Modelagem/DiagramasEstaticos/DiagramaDeClasses.md)
@@ -54,12 +55,53 @@
 
 - **Padrões de Projeto**
 
-  - [3. Desenho de Software (Padrões de Projeto)](/PadroesDeProjeto/3.PadroesDeProjeto.md)
-    - [3.1. Módulo Padrões de Projeto GRASPs](/PadroesDeProjeto/3.1.GRASPs.md)
-    - [3.2. Módulo Padrões de Projeto GoFs](/PadroesDeProjeto/3.2.GoFs.md)
-    - [3.3. Modelagem Ágil](/PadroesDeProjeto/3.3.PadroesExtra.md)
-    - [3.4. Iniciativas Extras - Padrões de Projeto](/PadroesDeProjeto/3.4.IniciativasExtras.md)
-    - [3.5. Participações - Padrões de Projeto](/PadroesDeProjeto/3.5.ParticipacoesPadroes.md)
+  - [**GRASPS**](PadroesDeProjeto/GRASPS/capaGrasps.md)
+    - Adotados no Projeto
+      - [Criador]()
+      - [Controller]()
+      - [Polimorfismo]()
+      - [Alta Coesão Baixo Acoplamento]()
+      - [Especialista]()
+      - [Indireção]()
+      - [Variações Protegidas]()
+      - [Invenção Pura]()
+    - Não Adotados no Projeto
+      - [Padrões de Projeto](PadroesDeProjeto/GRASPS/naoAdotadosGrasp.md)
+  - [**GoFs**](PadroesDeProjeto/GoFs/capaGofs.md)
+    - **Criacional**
+      - Adotados no Projeto
+        - [Prototype]()
+        - [Singleton]()
+        - [Factory Method]()
+        - [Abstract Factory]()
+      - Não Adotados no Projeto
+        - [Padrões de Projeto](PadroesDeProjeto/GoFs/Criacional/naoAdotadoCriacional.md)
+    - **Estrutural**
+      - Adotados no Projeto
+        - [Bridge]()
+        - [Composite]()
+        - [Facade]()
+        - [Flyweight]()
+      - Não Adotados no Projeto
+        - [Adapter](PadroesDeProjeto/GoFs/Estrutural/naoAdotadoEstrutural.md)
+    - **Comportamental**
+      - Adotados no Projeto
+        - [Chain of Responsibility]()
+        - [Iterator]()
+        - [Observer]()
+        - [State]()
+        - [Strategy]()
+      - Não Adotados no Projeto
+        - [Padrões de Projeto](PadroesDeProjeto/GoFs/Comportamental/naoAdotadoComportamental.md)
+  - [**Padrões Emergentes**](PadroesDeProjeto/PadroesEmergentes/capaEmergente.md)
+    - Adotados no Projeto
+      - [MVC]()
+      - [Middleware]()
+      - [Injeção de Dependência]()
+    - Não Adotados no Projeto
+      - [Padrões de Projeto](PadroesDeProjeto/PadroesEmergentes/naoAdotadosEmergente.md)
+  - **Iniciativas extras**
+    - [Atas da Entrega](PadroesDeProjeto/Iniciativa%20Extra/atas.md)
 
 - **Arquitetura de Software & Reutilização**
 
