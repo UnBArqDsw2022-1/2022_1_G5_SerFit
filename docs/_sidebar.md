@@ -91,7 +91,6 @@
         - [Observer]()
         - [State]()
         - [Strategy]()
-        - [Multiton](PadroesDeProjeto/GoFs/Comportamental/multiton.md)
       - Não Adotados no Projeto
         - [Padrões de Projeto](PadroesDeProjeto/GoFs/Comportamental/naoAdotadoComportamental.md)
   - [**Padrões Emergentes**](PadroesDeProjeto/PadroesEmergentes/capaEmergente.md)
