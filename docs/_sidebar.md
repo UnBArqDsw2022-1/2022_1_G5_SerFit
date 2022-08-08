@@ -72,7 +72,7 @@
       - Adotados no Projeto
         - [Prototype]()
         - [Singleton]()
-        - [Factory Method]()
+        - [Factory Method](PadroesDeProjeto/GoFs/Criacional/factory-method.md)
         - [Abstract Factory]()
       - Não Adotados no Projeto
         - [Padrões de Projeto](PadroesDeProjeto/GoFs/Criacional/naoAdotadoCriacional.md)
