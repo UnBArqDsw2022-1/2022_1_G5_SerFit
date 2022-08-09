@@ -93,6 +93,7 @@
         - [Strategy]()
       - Não Adotados no Projeto
         - [Padrões de Projeto](PadroesDeProjeto/GoFs/Comportamental/naoAdotadoComportamental.md)
+        - [Template Method](PadroesDeProjeto/GoFs/Comportamental/template-method.md)
   - [**Padrões Emergentes**](PadroesDeProjeto/PadroesEmergentes/capaEmergente.md)
     - Adotados no Projeto
       - [MVC]()
