@@ -12,6 +12,8 @@ O padrão Visitor representa uma operação a ser executada nos elementos de uma
 
 O padrão Visitor define uma nova operação ou um conjunto de operações em um objeto ou conjunto de objetos sem alterar os próprios objetos. A nova lógica é implementada em um objeto separado definido como visitante. Se os objetos fornecerem um método de visita aceitando o objeto visitante fazendo alterações no atual, haverá uma maneira perfeita para os clientes implementarem futuras extensões.
 
+![builder1](../../../assets/visitor/visitor_example.png)
+
 ## 3. Conclusão
 
 Analisando as características do Visitor, percebemos que, a princípio, não é um padrão que se encaixe no projeto SerFit.
