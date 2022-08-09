@@ -87,7 +87,7 @@
     - **Comportamental**
       - Adotados no Projeto
         - [Chain of Responsibility]()
-        - [Iterator](PadroesDeProjeto/GoFs/Comportamental/iterator.md)
+        - [Iterator]()
         - [Observer]()
         - [State]()
         - [Strategy]()
