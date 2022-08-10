@@ -7,11 +7,11 @@ Uma das principais características do uso desse padrão é o potencial de reuti
 
 ## 2. Utilização
 
-A utilização deste padrão de projeto no contexto do projeto pode ser utilizado no contexto de React, pois com a injeção de alguma dependência em um componente em ambiente distinto é possivel economizar tempo e obter uma melhoria de performance no projeto.
+A utilização deste padrão de projeto no contexto do projeto pode ser utilizado no contexto de React, pois O React oferece injeção de dependência sem precisar de um contêiner de injeção de dependência, graças ao JSX. Permitindo dessa forma, economizar tempo e obter uma melhoria de performance no desolvimento do projeto e sua manutenabilidade.
 
 Observa-se na imagem abaixo, um exemplo de código que exemplificar esse conceito:
 
-
+ ![dependency_injection](../../../assets/dependency-injection/dependency_injection.png)
 
 ## 3. Conclusão
 
