@@ -28,4 +28,6 @@ Na imagem abaixo, é possível observar a implementação da classe UserControll
 
 | Versão | Alteração                        | Autor(es)    | Revisor(es) |
 | ------ | -------------------------------- | ------------ | ----------- |
-| 1.0    | Criação do documento             | Lucas Gomes | ---         |
+| 1.0    | Criação do documento e adição da introdução            | Lucas Gomes | ---         |
+| 1.1    | Adição do exemplo de uso no projeto             | Lucas Gomes | ---         |
+
