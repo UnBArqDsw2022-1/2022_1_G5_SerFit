@@ -8,7 +8,7 @@ A principal motivação para se utilizar desse padrão de projeto é aumentar a 
 
 A imagem abaixo demonstra um exemplo de como funcionaria considerando que o Warehouse se comporta como uma object pool.
 
-![alt text](https://sourcemaking.com/files/v2/content/patterns/Object_pool_example1.png)
+![object poll example](https://sourcemaking.com/files/v2/content/patterns/Object_pool_example1.png)
 
 ## 2. Utilização
 
@@ -16,7 +16,7 @@ Apesar de não utilizado no projeto, o Object Pool permite uma melhora significa
 
 Observa-se na imagem abaixo, que a implementação deste padrão permite pegar elemento de forma rápida pois já foi iniciado pelo pela pool e além disso permite o cliente reutilizar um objeto já utilizado anteriormente. 
 
-![builder1](../../../assets/object_pool/object_pool_example.png)
+![object poll](../../../assets/object_pool/object_pool_example.png)
 
 ## 3. Conclusão
 
