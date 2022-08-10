@@ -6,13 +6,13 @@ O objetivo principal do Visitor é abstrair a funcionalidade que pode ser aplica
 
 O padrão Visitor representa uma operação a ser executada nos elementos de uma estrutura de objeto sem alterar as classes nas quais opera. Esse padrão pode ser observado na operação de uma empresa de táxi, demonstrado na figura abaixo:
 
-![alt text](https://sourcemaking.com/files/v2/content/patterns/Visitor_example1.png?id=e755bb05841a1443910cf1e8ed53e8e7)
+![visitor example](https://sourcemaking.com/files/v2/content/patterns/Visitor_example1.png?id=e755bb05841a1443910cf1e8ed53e8e7)
 
 ## 2. Utilização
 
 O padrão Visitor define uma nova operação ou um conjunto de operações em um objeto ou conjunto de objetos sem alterar os próprios objetos. A nova lógica é implementada em um objeto separado definido como visitante. Se os objetos fornecerem um método de visita aceitando o objeto visitante fazendo alterações no atual, haverá uma maneira perfeita para os clientes implementarem futuras extensões.
 
-![builder1](../../../assets/visitor/visitor_example.png)
+![visitor](../../../assets/visitor/visitor_example.png)
 
 ## 3. Conclusão
 
