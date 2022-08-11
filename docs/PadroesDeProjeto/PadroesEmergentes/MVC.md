@@ -27,7 +27,7 @@ View
 Controller
 ![Exemplo MVC Controller](/2022_1_G5_SerFit/docs/assets/MVC/controller.png)
 
-## 4. Referências
+## Referências
 
 - Vitor Zucher. Publicado em Jul 17, 2020. O que é padrão MVC? Entenda arquitetura de softwares!. Disponível em < <https://www.lewagon.com/pt-BR/blog/o-que-e-padrao-mvc> > . Acesso em: 08 de Agosto de 2022
 
