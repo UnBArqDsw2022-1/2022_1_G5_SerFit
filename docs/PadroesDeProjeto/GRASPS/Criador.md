@@ -31,3 +31,14 @@ No projeto Ser Fit, esse princípio deverá permear todas as nossas implementaç
         text-align: justify;
     }
 </style>
+
+## Referências
+
+  [https://edisciplinas.usp.br/pluginfile.php/2186358/mod_resource/content/1/Aula09_GRASP.pdf](https://edisciplinas.usp.br/pluginfile.php/2186358/mod_resource/content/1/Aula09_GRASP.pdf)
+  
+  [https://www.andrecelestino.com/delphi-design-patterns-grasp-creator/](https://www.andrecelestino.com/delphi-design-patterns-grasp-creator/)
+## Histórico de Versionamento
+
+| Versão | Alteração            | Autor(es)       | Revisor(es) |
+| ------ | -------------------- | --------------- | ----------- |
+| 1.0    | Criação do documento | Adrian Soares   | ----------- |
