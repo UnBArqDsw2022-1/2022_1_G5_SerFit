@@ -10,7 +10,7 @@ No nosso projeto Serfit o padrão multiton foi aplicado na parte menu com os bot
 
 ## 3. Aplicação
 
-![Exemplo Multiton](/2022_1_G5_SerFit/docs/assets/multiton/multiton.jpeg)
+![Exemplo Multiton](../../../assets/multiton/multiton.jpeg)
 
 ## 4. Referências
 
