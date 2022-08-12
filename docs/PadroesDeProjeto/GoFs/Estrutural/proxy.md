@@ -24,9 +24,15 @@ Assim, partindo-se para um escopo transacional, o padrão proxy na imagem abaixo
 Agora falando no escopo do projeto SerFit, o proxy pode estar conectado ao padrão emergente middleware, que funciona como uma camada de transição dessas manipulações, assim, podemos dizer que em uma camada middleware pode haver vários proxys atuando. No projeto em questão, o proxy se dá pelo JWT Auth Proxy:
 </p>
 
-![Proxy](../../../assets/proxy/proxy-projeto.png)
+Proxy atuando no middleware:
 
+![Proxy](../../../assets/proxy/middleware.png)
+
+Autenticação com o JWT Proxy Auth:
 ![Proxy](../../../assets/proxy/middleware-proxy.png)
+
+Verificação dentro do classe Proxy:
+![Proxy](../../../assets/proxy/proxy-projeto.png)
 
 ## 4. Bibliografia
 
