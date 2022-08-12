@@ -19,3 +19,10 @@ O padrão facade é uma boa funcionalidade para operacões que requerem um conju
 - Facade. [S. l.]. Disponível em: https://refactoring.guru/pt-br/design-patterns/facade
 
 - Facade Design Pattern. [S. l.]. Disponível em: https://sourcemaking.com/design_patterns/facade
+
+## Histórico de Versionamento
+
+
+| Versão | Alteração                        | Autor(es)    | Revisor(es) |
+| ------ | -------------------------------- | ------------ | ----------- |
+| 1.0    | Criação do documento             | Ricardo Loureiro | ---         |
