@@ -74,7 +74,7 @@
       - [Object Pool](PadroesDeProjeto/GoFs/Criacional/object_pool.md)
       - [Multiton](PadroesDeProjeto/GoFs/Criacional/multiton.md)
     - **Estrutural**
-      - [Bridge](PadroesDeProjeto/GoFs/Estrutural/adapter.md)
+      - [Bridge](PadroesDeProjeto/GoFs/Estrutural/)
       - [Composite](PadroesDeProjeto/GoFs/Estrutural/)
       - [Facade](PadroesDeProjeto/GoFs/Estrutural/facade.md)
       - [Flyweight](PadroesDeProjeto/GoFs/Estrutural/Flyweight.md)
@@ -88,7 +88,7 @@
       - [State](PadroesDeProjeto/GoFs/Comportamental/State.md)
       - [Strategy](PadroesDeProjeto/GoFs/Comportamental/strategy.md)
       - [Template Method](PadroesDeProjeto/GoFs/Comportamental/template-method.md)
-      - [Command](PadroesDeProjeto/GoFs/Comportamental/)
+      - [Command](PadroesDeProjeto/GoFs/Comportamental/gofs_comportamentais.md)
       - [Memento](PadroesDeProjeto/GoFs/Comportamental/)
       - [Medietor](PadroesDeProjeto/GoFs/Comportamental/)
       - [Visitor](PadroesDeProjeto/GoFs/Comportamental/visitor.md)

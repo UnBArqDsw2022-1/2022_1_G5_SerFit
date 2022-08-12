@@ -12,9 +12,7 @@ Um exemplo que **não está** sendo usado no projeto, mas ajuda a entender como 
 
 O código que implementaria o exemplo de possível uso no projeto seria esse:
 
-<p align="center">
-  <img src="../../assets/polimorfismo/codigo_exemplo.png" alt="Codigo do Exemplo"/>
-</p>
+![ex_grasp_criador](../../assets/polimorfismo/codigo_exemplo.png)
 
 <h6 align = "center">
     Imagem 1: Código do exemplo
@@ -28,8 +26,6 @@ O código que implementaria o exemplo de possível uso no projeto seria esse:
 
 ## Histórico de Versionamento
 
-
-| Versão | Alteração                        | Autor(es)     | Revisor(es) |
-| ------ | -------------------------------- | ------------- | ----------- |
-| 1.0    | Criação do documento             | Victor Hugo   | ---         |
-
+| Versão | Alteração            | Autor(es)   | Revisor(es) |
+| ------ | -------------------- | ----------- | ----------- |
+| 1.0    | Criação do documento | Victor Hugo | ---         |
