@@ -84,7 +84,8 @@
         - [Facade]()
         - [Flyweight]()
       - Não Adotados no Projeto
-        - [Adapter](PadroesDeProjeto/GoFs/Estrutural/naoAdotadoEstrutural.md)
+        - [Padrões de Projeto](PadroesDeProjeto/GoFs/Estrutural/naoAdotadoEstrutural.md)
+        - [Adapter](PadroesDeProjeto/GoFs/Estrutural/adapter.md)
     - **Comportamental**
       - Adotados no Projeto
         - [Chain of Responsibility]()
