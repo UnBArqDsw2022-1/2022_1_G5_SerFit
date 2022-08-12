@@ -4,7 +4,7 @@
 
 É um padrão de projeto comportamental que transforma um pedido em um objeto independente que contém toda a informação sobre o pedido. Essa transformação permite que você parametrize métodos com diferentes pedidos, atrase ou coloque a execução do pedido em uma fila e suporte operações que não podem ser feitas.
 
-## 2. Estrutura
+## 2. Usabilidade
 
 O padrão Command tem as seguintes consequências:
 
@@ -18,7 +18,7 @@ O padrão Command tem as seguintes consequências:
 ![Abstract Factory](../../../assets/gofs-comportamentais/gofs-command.png)
 
 
-## Referências
+## 3. Bibliografia
 
 [1] Fonte texto: (GAMMA, 2007)
 
