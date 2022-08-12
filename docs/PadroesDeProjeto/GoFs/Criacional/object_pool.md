@@ -10,7 +10,7 @@ A imagem abaixo demonstra um exemplo de como funcionaria considerando que o Ware
 
 ![object poll example](https://sourcemaking.com/files/v2/content/patterns/Object_pool_example1.png)
 
-## 2. Utilização
+## 2. Usabilidade
 
 Apesar de não utilizado no projeto, o Object Pool permite uma melhora significatica na performace de um determinado projeto .
 
