@@ -16,7 +16,7 @@ Para seguir esse princípio, basta criar componentes e classes artificiais para 
 
 ## 3. Projeto
 
-Para o projeto, boa parte dos GOFs e padrões emergentes utilizados necessitaram de Invenção Pura, para poder cumprir os Designs. Como exemplo, temos as classes de [Controller](#) e de [Banco de Dados](Singleton).
+Para o projeto, boa parte dos GOFs e padrões emergentes utilizados necessitaram de Invenção Pura, para poder cumprir os Designs. Como exemplo, temos as classes de [Controller](#) e de [Banco de Dados](../GoFs/Estrutural/Singleton.md).
 
 ## 4. Referências
 
