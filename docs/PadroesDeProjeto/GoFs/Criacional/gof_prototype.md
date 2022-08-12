@@ -10,7 +10,7 @@ O padrão Prototype delega o processo de clonagem para o próprio objeto que est
 ![Abstract Factory](../../../assets/gof-prototype/gof-prototype.png)
 <h6 align = "center">Figura 1: Construição de protótipos 
 
-## 3. Usabilidade
+## 3. Aplicação
 
 No nosso projeto, podemos utilizar quando precisarmos utilizar o mesmo botão, por exemplo, em diferentes lugares. Com o mesmo formato, mesmas cores e demais configurações. Na imagem abaixo, visualizamos a ideia principal desse padrão de projeto: clonar esses produtos que tenham a mesma configuração.
 
