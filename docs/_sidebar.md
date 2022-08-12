@@ -77,7 +77,7 @@
       - [Multiton](PadroesDeProjeto/GoFs/Criacional/multiton.md)
     - **Estrutural**
       - [Bridge](PadroesDeProjeto/GoFs/Estrutural/bridge.md)
-      - [Composite](PadroesDeProjeto/GoFs/Estrutural/)
+      - [Composite](PadroesDeProjeto/GoFs/Estrutural/Composite.md)
       - [Facade](PadroesDeProjeto/GoFs/Estrutural/facade.md)
       - [Flyweight](PadroesDeProjeto/GoFs/Estrutural/Flyweight.md)
       - [Adapter](PadroesDeProjeto/GoFs/Estrutural/adapter.md)
