@@ -1,6 +1,6 @@
 # MVC
 
-## Introdução
+## 1. Introdução
 
 O MVC é uma sigla do termo em inglês Model (modelo) View (visão) e Controller (Controle) que facilita a troca de informações entre a interface do usuário aos dados no banco, fazendo com que as respostas sejam mais rápidas e dinâmicas.
 
@@ -14,11 +14,11 @@ View - A camada View (visão) é responsável pela interação com o usuário. N
 
 Controller - A camada Controller (controlador) é responsável por lidar com as requisições do usuário. Ela gerencia as ações realizadas, fala qual Model e qual View utilizar para que a ação seja completada.
 
-## Usabilidade  
+## 2. Usabilidade  
 
 Não foi aplicado no nosso projeto, mas poderia ser tendo como base toda a explicação de controle do MVC.
 
-## Código
+## 3. Aplicação
 
 Model
 ![Exemplo MVC Model](/2022_1_G5_SerFit/docs/assets/MVC/model.png)
@@ -27,7 +27,7 @@ View
 Controller
 ![Exemplo MVC Controller](/2022_1_G5_SerFit/docs/assets/MVC/controller.png)
 
-## Referências
+## 4. Referências
 
 - Vitor Zucher. Publicado em Jul 17, 2020. O que é padrão MVC? Entenda arquitetura de softwares!. Disponível em < <https://www.lewagon.com/pt-BR/blog/o-que-e-padrao-mvc> > . Acesso em: 08 de Agosto de 2022
 
