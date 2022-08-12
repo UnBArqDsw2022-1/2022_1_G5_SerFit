@@ -13,7 +13,7 @@ Pelo padrão especialista, devemos procurar aquela classe de objetos que possui 
 Uma instância de Sale contém isso; portanto, pela diretriz do padrão especialista, Sale é uma classe de objeto adequada para esta responsabilidade.
 
 
-## 2. Utilização
+## 2. Usabilidade
 
  **Não houve** necessidade de utilizar o padrão especialista, pois cada classe do backend conseguiu executar suas funções diretamente, e no frontend, por se tratar de um framework em JavaScript, onde o código tende a ser mais funcional e pouco se especializar. Um exemplo que mostra a utilização do padrão, seria uma implementação adicional para o aplicativo, imaginando a funcionalidade da *loja* como uma sessão que armazena o valor de cada compra feita nas lojas linkadas, a partir dos respectivos produtos como mostrado a seguir:
 
