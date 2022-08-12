@@ -11,7 +11,7 @@ O padrão Decorator é composto por quatro elementos: [3]
 * Definição abstrata de um decorator para este componente;
 * Uma ou mais implementações concretas do decorator do componente.
 
-## 2. Utilização
+## 2. Usabilidade
 Após discussão entre os membros do grupo, foi decidido que o padrão Decorator não seria utilizado no desenvolvimento do projeto. Porém, um exemplo da utilização desse padrão foi desenvolvido com o intuito de esclarecer seu funcionamento.
 
 * 2.1 Implementação da interface
@@ -81,7 +81,7 @@ treinoComAgachamento.realizarTreino();
 ```
 
 
-## 3. Referências
+## 3. Bibliografia
 
 [1] Decorator. Disponível em: <https://pt.wikipedia.org/wiki/Decorator>.
 
@@ -90,7 +90,7 @@ treinoComAgachamento.realizarTreino();
 [3] Padrão de Projeto: Decorator. Disponível em: <https://gabrielschade.github.io/2018/08/13/gof-decorator.html>. Acesso em: 10 ago. 2022.
 
 
-## 4. Histórico de Versionamento
+## Histórico de Versionamento
 
 | Versão | Alteração                        | Autor(es)    | Revisor(es) |
 | ------ | -------------------------------- | ------------ | ----------- |
