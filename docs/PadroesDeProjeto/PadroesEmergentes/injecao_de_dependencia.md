@@ -5,7 +5,7 @@
 Com a utilização desse padrão é possível obter uma melhor separação de interesses, podendo entender melhor sua interface de usuário.
 Uma das principais características do uso desse padrão é o potencial de reutilização que se pode obter, podendo utilizar os componentes criados em vários ambientes distintos.
 
-## 2. Utilização
+## 2. Usabilidade
 
 A utilização deste padrão de projeto no contexto do projeto pode ser utilizado no contexto de React, pois O React oferece injeção de dependência sem precisar de um contêiner de injeção de dependência, graças ao JSX. Permitindo dessa forma, economizar tempo e obter uma melhoria de performance no desolvimento do projeto e sua manutenabilidade.
 
