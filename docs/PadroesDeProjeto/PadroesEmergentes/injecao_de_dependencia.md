@@ -11,7 +11,7 @@ A utilização deste padrão de projeto no contexto do projeto pode ser utilizad
 
 Observa-se na imagem abaixo, um exemplo de código que exemplificar esse conceito:
 
- ![dependency_injection](../../../assets/dependency-injection/dependency_injection.png)
+![dependency_injection](../../assets/dependency-injection/dependency_injection.png)
 
 ## 3. Conclusão
 
@@ -24,6 +24,6 @@ Com isso, é possível constatar que a utilização do padrão de Injeção de D
 
 ## Histórico de Versionamento
 
-| Versão | Alteração | Autor(es) | Revisor(es) |
-| --- | --- | --- | --- |
-| 1.0 | Criação do documento | Daniel | --- |
+| Versão | Alteração            | Autor(es) | Revisor(es) |
+| ------ | -------------------- | --------- | ----------- |
+| 1.0    | Criação do documento | Daniel    | ---         |
