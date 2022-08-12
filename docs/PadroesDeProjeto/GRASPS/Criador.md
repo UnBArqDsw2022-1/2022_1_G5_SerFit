@@ -24,7 +24,7 @@ Por exemplo uma classe de Venda que possua os dados iniciais de um pagamento dev
 
 ## Projeto
 
-No projeto Ser Fit, esse princípio deverá permear todas as nossas implementações. Sempre em que pensarmos nas atribuições de criação de instâncias, estamos pensando em GRASPS criadores. Um exemplo de responsabilidade de criação usada em nosso projeto é o [Abstract Factory](#) que está especificado dentre os padrões GOFS utilizados.
+No projeto Ser Fit, esse princípio deverá permear todas as nossas implementações. Sempre em que pensarmos nas atribuições de criação de instâncias, estamos pensando em GRASPS criadores. Um exemplo de responsabilidade de criação usada em nosso projeto é o [Factory](#) que está especificado dentre os padrões GOFS utilizados.
 
 <style>
     p, caption {
