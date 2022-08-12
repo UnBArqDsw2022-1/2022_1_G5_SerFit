@@ -70,6 +70,7 @@
   - [**GoFs**](PadroesDeProjeto/GoFs/capaGofs.md)
     - **Criacional**
       - Adotados no Projeto
+        - [Builder](PadroesDeProjeto/GoFs/Criacional/builder.md)
         - [Prototype]()
         - [Singleton]()
         - [Factory Method](PadroesDeProjeto/GoFs/Criacional/factory-method.md)
