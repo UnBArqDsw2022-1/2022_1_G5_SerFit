@@ -1,4 +1,4 @@
-# Object Pool
+# Especialista
 
 ## 1. Introdução.
 
@@ -15,15 +15,15 @@ Uma instância de Sale contém isso; portanto, pela diretriz do padrão especial
 
 ## 2. Utilização
 
-Apesar de não utilizado no projeto, o Object Pool permite uma melhora significatica na performace de um determinado projeto .
+ **Não houve** necessidade de utilizar o padrão especialista, pois cada classe do backend conseguiu executar suas funções diretamente, e no frontend, por se tratar de um framework em JavaScript, onde o código tende a ser mais funcional e pouco se especializar. Um exemplo que mostra a utilização do padrão, seria uma implementação adicional para o aplicativo, imaginando a funcionalidade da *loja* como uma sessão que armazena o valor de cada compra feita nas lojas linkadas, a partir dos respectivos produtos como mostrado a seguir:
 
-Observa-se na imagem abaixo, que a implementação deste padrão permite pegar elemento de forma rápida pois já foi iniciado pelo pela pool e além disso permite o cliente reutilizar um objeto já utilizado anteriormente. 
+## 3. Código
 
-![object poll](../../../assets/object_pool/object_pool_example.png)
+<p align="center">
+  <img src="../../assets/especialista/codigo_exemplo.png" alt="Codigo do Exemplo"/>
+</p>
 
-## 3. Conclusão
-
-Esse padrão certamente será usado no projeto. Mesmo que seja de um forma adaptada para algumas situações bem especificas a equipe acredita que irá ser utilizado em algum momentodo desenvolvimento.
+A classe *Sale* (venda no geral, incluindo seu valor) se especializa para retornar o valor total da venda do *getTotal()*, fazendo uma referência ao método *getSubTotal()* da classe *SalesLineItem* (total de vendas por item), que por sua vez faz uma referência ao método *getPrice()* da classe *ProductDescription* (descrição do produto, incluindo seu preço)
 
 ## 4. Referências
 
@@ -41,3 +41,4 @@ Esse padrão certamente será usado no projeto. Mesmo que seja de um forma adapt
 | Versão | Alteração | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- |
 | 1.0 | Criação do documento | Daniel | --- |
+| 1.1 | Adição da utilização e exemplo | Victor Hugo | --- |
