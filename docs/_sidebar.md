@@ -99,6 +99,7 @@
     - [REST](PadroesDeProjeto/PadroesEmergentes/rest.md)
   - **Iniciativas extras**
     - [Atas da Entrega](PadroesDeProjeto/Iniciativa%20Extra/atas.md)
+    - [Apresentacao](PadroesDeProjeto/Iniciativa%20Extra/apresentacao.md)
 
 - **Arquitetura de Software & Reutilização**
 
