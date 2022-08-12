@@ -10,7 +10,7 @@ O padrão de Baixo Acoplamento utiliza da boa prática que uma classe não depen
 
 * Maior potencial de reutilização de código.
 
-O padrão GRASP Alta Coesão complementa o príncipio de baixa Coesão, trazerndo padrões para a camada de responsabilidade de cada componente do sistema, assim, é possível determinar o nível de conexão entre os diferentes elementos do sistema.
+O padrão GRASP Alta Coesão complementa o príncipio de baixa Coesão, trazendo padrões para a camada de responsabilidade de cada componente do sistema, assim, é possível determinar o nível de conexão entre os diferentes elementos do sistema.
 
 ## 2. Usabilidade
 
@@ -20,7 +20,7 @@ Ao utilizar padrões já definidos pelo **React Native**, ja estamos utilizando 
 
 # 3. Conclusão
 
-Após conhecer e implementar padrões de Alta Coesão e Baixo Acoplamento no nosso software, percebemos que o sistema fica mais fácil de entender a responsabilidade de cada componente e a implementação possui um bom suporte mudanças e novas features.
+Após conhecer e implementar padrões de Alta Coesão e Baixo Acoplamento no nosso software, percebemos que o sistema fica mais fácil de entender, a responsabilidade de cada componente e a implementação possui um bom suporte para mudanças e novas features.
 
 ## 4. Bibliografia
 
@@ -31,3 +31,4 @@ Após conhecer e implementar padrões de Alta Coesão e Baixo Acoplamento no nos
 | Versão | Alteração | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- |
 | 1.0 | Criação do documento | Ricardo Loureiro | --- |
+| 1.1 | Revisão do documento| Ricardo Loureiro| ---|
