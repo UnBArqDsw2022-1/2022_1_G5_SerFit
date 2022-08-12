@@ -8,7 +8,7 @@ O REST é um padrão emergente arquitetural, ele fornece padrões que implementa
 
 - Client-Server: Separar as responsabilidades do frontend e do backend
 
-- Stateless: O serviro não mantém estado, em que cada solicitação deve possuir seu próprio entendimento.
+- Stateless: O serviço não mantém estado, em que cada solicitação deve possuir seu próprio entendimento.
 
 - Cacheable: A resposta de uma solicitação deve informar se o dado pode ou não ser mantido em cache.
 
