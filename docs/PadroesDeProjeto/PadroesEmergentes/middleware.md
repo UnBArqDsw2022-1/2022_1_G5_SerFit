@@ -3,7 +3,7 @@
 ## 1. Introdução
 
 <p style="text-align: justify;">
-O padrão emergente Middleware é um padrão que age como uma “camada”, capaz de fazer a mediação entre várias tecnologias de software, de modo que as informações (de diferentes fontes) são movidas ao mesmo tempo que suas diferenças de protocolos, plataformas, arquiteturas, ambientes e sistemas operacionais não interferem no processo. </p>
+O padrão emergente Middleware é um padrão que age como uma “camada” capaz de fazer a mediação entre várias tecnologias de software, de modo que as informações (de diferentes fontes) são movidas ao mesmo tempo que suas diferenças de protocolos, plataformas, arquiteturas, ambientes e sistemas operacionais não interferem no processo. </p>
 
 <p style="text-align: justify;">
  Um dos principais problemas que o middleware resolve é a forma da qual podem ser preservadas as informações de sessão após o login de um usuário. Os middlewares comunicam com as requisições fazendo alterações/persistência na solicitação e nos objetos de resposta, proporcionando, assim, mais segurança e confiabilidade durante o processo.</p>
@@ -11,7 +11,7 @@ O padrão emergente Middleware é um padrão que age como uma “camada”, capa
 ## 2. Usabilidade
 
 <p style="text-align: justify;">
-A escopo do projeto e tecnologias do aplicativo SerFit, as funções de middleware são funções que têm acesso ao objeto de requisição(req) ao objeto de resposta (res) e à função next no ciclo de req-res do aplicativo. A função next é uma função no Router Express que, quando chamada, executa o middleware sucessor do middleware atual.
+No escopo do projeto e tecnologias do aplicativo SerFit, as funções de middleware são funções que têm acesso ao objeto de requisição (req), ao objeto de resposta (res) e à função next no ciclo de req-res do aplicativo. A função next é uma função no Router Express que, quando chamada, executa o middleware sucessor do middleware atual.
 </p>
 
 ![Middleware](../../assets/middleware-doc/middlware-image.png)
@@ -42,3 +42,5 @@ Uma aplicação do middleware no nosso projeto pode ser identificado na imagem a
 | Versão | Alteração            | Autor(es)       | Revisor |
 | ------ | -------------------- | --------------- | ------- |
 | 1.0    | Criação do documento | Gustave Persijn | ---     |
+| 1.1    | Revisão do documento |  Lucas Gomes | ---     |
+
