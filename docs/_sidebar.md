@@ -56,53 +56,47 @@
 - **Padrões de Projeto**
 
   - [**GRASPS**](PadroesDeProjeto/GRASPS/capaGrasps.md)
-    - Adotados no Projeto
-      - [Criador]()
-      - [Controller]()
-      - [Polimorfismo]()
-      - [Alta Coesão Baixo Acoplamento]()
-      - [Especialista]()
-      - [Indireção]()
-      - [Variações Protegidas]()
-      - [Invenção Pura]()
-    - Não Adotados no Projeto
-      - [Padrões de Projeto](PadroesDeProjeto/GRASPS/naoAdotadosGrasp.md)
+    - [Criador](PadroesDeProjeto/GRASPS/Criador.md)
+    - [Controller](PadroesDeProjeto/GRASPS/Controller.md)
+    - [Polimorfismo](PadroesDeProjeto/GRASPS/Polimorfismo.md)
+    - [Alta Coesão Baixo Acoplamento](PadroesDeProjeto/GRASPS/alta-coesao-baixo-acoplamento.md)
+    - [Especialista](PadroesDeProjeto/GRASPS/especialista.md)
+    - [Indireção](PadroesDeProjeto/GRASPS/Indirecao.md)
+    - [Variações Protegidas](PadroesDeProjeto/GRASPS/)
+    - [Invenção Pura](PadroesDeProjeto/GRASPS/)
   - [**GoFs**](PadroesDeProjeto/GoFs/capaGofs.md)
     - **Criacional**
-      - Adotados no Projeto
-        - [Builder](PadroesDeProjeto/GoFs/Criacional/builder.md)
-        - [Prototype]()
-        - [Singleton]()
-        - [Factory Method](PadroesDeProjeto/GoFs/Criacional/factory-method.md)
-        - [Abstract Factory]()
-      - Não Adotados no Projeto
-        - [Padrões de Projeto](PadroesDeProjeto/GoFs/Criacional/naoAdotadoCriacional.md)
+      - [Builder](PadroesDeProjeto/GoFs/Criacional/builder.md)
+      - [Prototype](PadroesDeProjeto/GoFs/Criacional/gof_prototype.md)
+      - [Singleton](PadroesDeProjeto/GoFs/Criacional/)
+      - [Factory Method](PadroesDeProjeto/GoFs/Criacional/factory-method.md)
+      - [Abstract Factory](PadroesDeProjeto/GoFs/Criacional/)
+      - [Object Pool](PadroesDeProjeto/GoFs/Criacional/object_pool.md)
+      - [Multiton](PadroesDeProjeto/GoFs/Criacional/multiton.md)
     - **Estrutural**
-      - Adotados no Projeto
-        - [Bridge]()
-        - [Composite]()
-        - [Facade]()
-        - [Flyweight]()
-      - Não Adotados no Projeto
-        - [Padrões de Projeto](PadroesDeProjeto/GoFs/Estrutural/naoAdotadoEstrutural.md)
-        - [Adapter](PadroesDeProjeto/GoFs/Estrutural/adapter.md)
+      - [Bridge](PadroesDeProjeto/GoFs/Estrutural/adapter.md)
+      - [Composite](PadroesDeProjeto/GoFs/Estrutural/)
+      - [Facade](PadroesDeProjeto/GoFs/Estrutural/facade.md)
+      - [Flyweight](PadroesDeProjeto/GoFs/Estrutural/Flyweight.md)
+      - [Adapter](PadroesDeProjeto/GoFs/Estrutural/adapter.md)
+      - [Proxy](PadroesDeProjeto/GoFs/Estrutural/proxy.md)
+      - [Decorator](PadroesDeProjeto/GoFs/Estrutural/)
     - **Comportamental**
-      - Adotados no Projeto
-        - [Chain of Responsibility]()
-        - [Iterator]()
-        - [Observer]()
-        - [State]()
-        - [Strategy]()
-      - Não Adotados no Projeto
-        - [Padrões de Projeto](PadroesDeProjeto/GoFs/Comportamental/naoAdotadoComportamental.md)
-        - [Template Method](PadroesDeProjeto/GoFs/Comportamental/template-method.md)
+      - [Chain of Responsibility](PadroesDeProjeto/GoFs/Comportamental/chain_of_responsibility.md)
+      - [Iterator](PadroesDeProjeto/GoFs/Comportamental/iterator.md)
+      - [Observer](PadroesDeProjeto/GoFs/Comportamental/observer.md)
+      - [State](PadroesDeProjeto/GoFs/Comportamental/State.md)
+      - [Strategy](PadroesDeProjeto/GoFs/Comportamental/strategy.md)
+      - [Template Method](PadroesDeProjeto/GoFs/Comportamental/template-method.md)
+      - [Command](PadroesDeProjeto/GoFs/Comportamental/)
+      - [Memento](PadroesDeProjeto/GoFs/Comportamental/)
+      - [Medietor](PadroesDeProjeto/GoFs/Comportamental/)
+      - [Visitor](PadroesDeProjeto/GoFs/Comportamental/visitor.md)
   - [**Padrões Emergentes**](PadroesDeProjeto/PadroesEmergentes/capaEmergente.md)
-    - Adotados no Projeto
-      - [MVC]()
-      - [Middleware]()
-      - [Injeção de Dependência]()
-    - Não Adotados no Projeto
-      - [Padrões de Projeto](PadroesDeProjeto/PadroesEmergentes/naoAdotadosEmergente.md)
+    - [MVC](PadroesDeProjeto/PadroesEmergentes/MVC.md)
+    - [Middleware](PadroesDeProjeto/PadroesEmergentes/middleware.md)
+    - [Injeção de Dependência](PadroesDeProjeto/PadroesEmergentes/injecao_de_dependencia.md)
+    - [REST](PadroesDeProjeto/PadroesEmergentes/rest.md)
   - **Iniciativas extras**
     - [Atas da Entrega](PadroesDeProjeto/Iniciativa%20Extra/atas.md)
 
