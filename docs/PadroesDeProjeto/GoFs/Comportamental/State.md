@@ -4,7 +4,7 @@
 O State é um padrão de projeto comportamental que permite que um objeto altere seu comportamento quando seu estado interno muda, parecendo, então, como se o objeto mudasse de classe.[1]</br>
 Este padrão possui um conceito similar ao de máquinas de estado finitos. [2]
 
-## 2. Utilização
+## 2. Usabilidade
 Foi decidido pelo grupo que o padrão State será utilizado no projeto, porém ele ainda não foi implementado. Entretando, uma versão simplificada foi desenvolvida para exemplificar seu funcionamento. </br>
 No código abaixo, temos a implementação da tela de exibição das lojas disponíveis. Porém, enquanto a requisição GET para receber todas as lojas não for finalizada, o estado *isDataLoaded* permanecerá falso. E com o *isDataLoaded* falso, o componente que será renderizado para o usuário será o *Loading*. </br>
 Logo, quando a resposta for enviada, o estado *isDataLoaded* mudará para verdadeiro, e o componente que será renderizado irá mudar. 
@@ -53,7 +53,7 @@ export default Body;
 
 ‌
 
-## 4. Histórico de Versionamento
+## Histórico de Versionamento
 
 | Versão | Alteração            | Autor(es)       | Revisor(es) |
 | ------ | -------------------- | --------------- | ----------- |
