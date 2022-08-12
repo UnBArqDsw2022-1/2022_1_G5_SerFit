@@ -21,11 +21,11 @@ Não foi aplicado no nosso projeto, mas poderia ser tendo como base toda a expli
 ## 3. Aplicação
 
 Model
-![Exemplo MVC Model](/2022_1_G5_SerFit/docs/assets/MVC/model.png)
+![Exemplo MVC Model](../../assets/MVC/model.png)
 View
-![Exemplo MVC View](/2022_1_G5_SerFit/docs/assets/MVC/view.png)
+![Exemplo MVC View](../../assets/MVC/view.png)
 Controller
-![Exemplo MVC Controller](/2022_1_G5_SerFit/docs/assets/MVC/controller.png)
+![Exemplo MVC Controller](../../assets/MVC/controller.png)
 
 ## 4. Referências
 
@@ -37,4 +37,4 @@ Controller
 
 | Versão | Alteração            | Autor(es)      | Revisor(es) |
 | ------ | -------------------- | -------------- | ----------- |
-| 1.0    | Criação do documento | Felipe Correia | ----------- |
+| 1.0    | Criação do documento | Felipe Correia | ---         |
