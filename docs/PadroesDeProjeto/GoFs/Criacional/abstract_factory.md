@@ -3,7 +3,7 @@
 ## 1. Introdução
 Prover uma interface para criação de famílias de objetos relacionados ou dependentes sem que se especifiquem suas classes concretas.
 
-## 2. Utilização
+## 2. Aplicação
 
 <img width="671" alt="Screen Shot 2022-08-12 at 12 28 06 PM" src="https://user-images.githubusercontent.com/16293264/184429671-0eeb11fa-38d9-410e-be24-fae9a2e5fc6e.png">
 
