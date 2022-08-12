@@ -48,7 +48,9 @@
       - [EAP](Base/ProjetoNaoOrientado/Extra/EAP.md)
       - [Diagrama NFR](Modelagem/IniciativasExtras/NFR.md)
       - [Canvas](Modelagem/IniciativasExtras/Canvas.md)
-      - [Atas](Ata/Entrega2.md)
+      - Atas
+        - [Sprint 1](Ata/Entrega2/Sprint1.md)
+        - [Sprint 2](Ata/Entrega2/Sprint2.md)
       - [Casos de Uso](Modelagem/IniciativasExtras/CasosdeUso.md)
       - [Guia de Estilo](Modelagem/IniciativasExtras/GuiaDeEstilo.md)
   - [Participações - Modelagem](Modelagem/2.3.ParticipacoesModelagem.md)
@@ -98,8 +100,11 @@
     - [Injeção de Dependência](PadroesDeProjeto/PadroesEmergentes/injecao_de_dependencia.md)
     - [REST](PadroesDeProjeto/PadroesEmergentes/rest.md)
   - **Iniciativas extras**
-    - [Atas da Entrega](PadroesDeProjeto/Iniciativa%20Extra/atas.md)
-    - [Apresentacao](PadroesDeProjeto/Iniciativa%20Extra/apresentacao.md)
+    - Atas
+      - [Sprint 6](Ata/Entrega3/Sprint6.md)
+      - [Sprint 7](Ata/Entrega3/Sprint7.md)
+      - [Sprint 8](Ata/Entrega3/Sprint8.md)
+    - [Apresentação](PadroesDeProjeto/Iniciativa%20Extra/apresentacao.md)
 
 - **Arquitetura de Software & Reutilização**
 
