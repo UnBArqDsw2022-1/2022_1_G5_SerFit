@@ -37,7 +37,9 @@ Adicione 2 ou mais screenshots do projeto em termos de artefatos da Segunda Entr
 OBS: Não especificaram no prazo (15Julho22) - Profa. Milene
 
 ## Screenshots Terceira Entrega <<FOCO: DSW(Padrões de Projeto)>>
-Adicione 2 ou mais screenshots do projeto em termos de artefatos da Terceira Entrega.
+![alt text](assets/entrega3/screenshot1.png)
+![alt text](assets/entrega3/screenshot2.png)
+![alt text](assets/entrega3/screenshot3.png)
 
 ## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
 Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
