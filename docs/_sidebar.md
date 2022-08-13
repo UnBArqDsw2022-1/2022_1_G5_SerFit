@@ -91,7 +91,7 @@
       - [Strategy](PadroesDeProjeto/GoFs/Comportamental/strategy.md)
       - [Template Method](PadroesDeProjeto/GoFs/Comportamental/template-method.md)
       - [Command](PadroesDeProjeto/GoFs/Comportamental/gofs_comportamentais.md)
-      - [Memento](PadroesDeProjeto/GoFs/Comportamental/)
+      - [Memento](PadroesDeProjeto/GoFs/Comportamental/Memento.md)
       - [Medietor](PadroesDeProjeto/GoFs/Comportamental/mediator.md)
       - [Visitor](PadroesDeProjeto/GoFs/Comportamental/visitor.md)
   - [**Padrões Emergentes**](PadroesDeProjeto/PadroesEmergentes/capaEmergente.md)
