@@ -48,7 +48,9 @@
       - [EAP](Base/ProjetoNaoOrientado/Extra/EAP.md)
       - [Diagrama NFR](Modelagem/IniciativasExtras/NFR.md)
       - [Canvas](Modelagem/IniciativasExtras/Canvas.md)
-      - [Atas](Ata/Entrega2.md)
+      - Atas
+        - [Sprint 1](Ata/Entrega2/Sprint1.md)
+        - [Sprint 2](Ata/Entrega2/Sprint2.md)
       - [Casos de Uso](Modelagem/IniciativasExtras/CasosdeUso.md)
       - [Guia de Estilo](Modelagem/IniciativasExtras/GuiaDeEstilo.md)
   - [Participações - Modelagem](Modelagem/2.3.ParticipacoesModelagem.md)
@@ -56,52 +58,53 @@
 - **Padrões de Projeto**
 
   - [**GRASPS**](PadroesDeProjeto/GRASPS/capaGrasps.md)
-    - Adotados no Projeto
-      - [Criador]()
-      - [Controller]()
-      - [Polimorfismo]()
-      - [Alta Coesão Baixo Acoplamento]()
-      - [Especialista]()
-      - [Indireção]()
-      - [Variações Protegidas]()
-      - [Invenção Pura]()
-    - Não Adotados no Projeto
-      - [Padrões de Projeto](PadroesDeProjeto/GRASPS/naoAdotadosGrasp.md)
+    - [Criador](PadroesDeProjeto/GRASPS/Criador.md)
+    - [Controller](PadroesDeProjeto/GRASPS/Controller.md)
+    - [Polimorfismo](PadroesDeProjeto/GRASPS/Polimorfismo.md)
+    - [Alta Coesão Baixo Acoplamento](PadroesDeProjeto/GRASPS/alta-coesao-baixo-acoplamento.md)
+    - [Especialista](PadroesDeProjeto/GRASPS/especialista.md)
+    - [Indireção](PadroesDeProjeto/GRASPS/Indirecao.md)
+    - [Variações Protegidas](PadroesDeProjeto/GRASPS/variacoes-protegidas.md)
+    - [Invenção Pura](PadroesDeProjeto/GRASPS/InvencaoPura.md)
   - [**GoFs**](PadroesDeProjeto/GoFs/capaGofs.md)
     - **Criacional**
-      - Adotados no Projeto
-        - [Prototype]()
-        - [Singleton]()
-        - [Factory Method]()
-        - [Abstract Factory]()
-      - Não Adotados no Projeto
-        - [Padrões de Projeto](PadroesDeProjeto/GoFs/Criacional/naoAdotadoCriacional.md)
+      - [Builder](PadroesDeProjeto/GoFs/Criacional/builder.md)
+      - [Prototype](PadroesDeProjeto/GoFs/Criacional/gof_prototype.md)
+      - [Singleton](PadroesDeProjeto/GoFs/Criacional/Singleton.md)
+      - [Factory Method](PadroesDeProjeto/GoFs/Criacional/factory-method.md)
+      - [Abstract Factory](PadroesDeProjeto/GoFs/Criacional/abstract_factory.md)
+      - [Object Pool](PadroesDeProjeto/GoFs/Criacional/object_pool.md)
+      - [Multiton](PadroesDeProjeto/GoFs/Criacional/multiton.md)
     - **Estrutural**
-      - Adotados no Projeto
-        - [Bridge]()
-        - [Composite]()
-        - [Facade]()
-        - [Flyweight]()
-      - Não Adotados no Projeto
-        - [Adapter](PadroesDeProjeto/GoFs/Estrutural/naoAdotadoEstrutural.md)
+      - [Bridge](PadroesDeProjeto/GoFs/Estrutural/bridge.md)
+      - [Composite](PadroesDeProjeto/GoFs/Estrutural/Composite.md)
+      - [Facade](PadroesDeProjeto/GoFs/Estrutural/facade.md)
+      - [Flyweight](PadroesDeProjeto/GoFs/Estrutural/Flyweight.md)
+      - [Adapter](PadroesDeProjeto/GoFs/Estrutural/adapter.md)
+      - [Proxy](PadroesDeProjeto/GoFs/Estrutural/proxy.md)
+      - [Decorator](PadroesDeProjeto/GoFs/Estrutural/Decorator.md)
     - **Comportamental**
-      - Adotados no Projeto
-        - [Chain of Responsibility]()
-        - [Iterator]()
-        - [Observer]()
-        - [State]()
-        - [Strategy]()
-      - Não Adotados no Projeto
-        - [Padrões de Projeto](PadroesDeProjeto/GoFs/Comportamental/naoAdotadoComportamental.md)
+      - [Chain of Responsibility](PadroesDeProjeto/GoFs/Comportamental/chain_of_responsibility.md)
+      - [Iterator](PadroesDeProjeto/GoFs/Comportamental/iterator.md)
+      - [Observer](PadroesDeProjeto/GoFs/Comportamental/observer.md)
+      - [State](PadroesDeProjeto/GoFs/Comportamental/State.md)
+      - [Strategy](PadroesDeProjeto/GoFs/Comportamental/strategy.md)
+      - [Template Method](PadroesDeProjeto/GoFs/Comportamental/template-method.md)
+      - [Command](PadroesDeProjeto/GoFs/Comportamental/gofs_comportamentais.md)
+      - [Memento](PadroesDeProjeto/GoFs/Comportamental/Memento.md)
+      - [Medietor](PadroesDeProjeto/GoFs/Comportamental/mediator.md)
+      - [Visitor](PadroesDeProjeto/GoFs/Comportamental/visitor.md)
   - [**Padrões Emergentes**](PadroesDeProjeto/PadroesEmergentes/capaEmergente.md)
-    - Adotados no Projeto
-      - [MVC]()
-      - [Middleware]()
-      - [Injeção de Dependência]()
-    - Não Adotados no Projeto
-      - [Padrões de Projeto](PadroesDeProjeto/PadroesEmergentes/naoAdotadosEmergente.md)
+    - [MVC](PadroesDeProjeto/PadroesEmergentes/MVC.md)
+    - [Middleware](PadroesDeProjeto/PadroesEmergentes/middleware.md)
+    - [Injeção de Dependência](PadroesDeProjeto/PadroesEmergentes/injecao_de_dependencia.md)
+    - [REST](PadroesDeProjeto/PadroesEmergentes/rest.md)
   - **Iniciativas extras**
-    - [Atas da Entrega](PadroesDeProjeto/Iniciativa%20Extra/atas.md)
+    - Atas
+      - [Sprint 6](Ata/Entrega3/Sprint6.md)
+      - [Sprint 7](Ata/Entrega3/Sprint7.md)
+      - [Sprint 8](Ata/Entrega3/Sprint8.md)
+    - [Apresentação](PadroesDeProjeto/Iniciativa%20Extra/apresentacao.md)
 
 - **Arquitetura de Software & Reutilização**
 
