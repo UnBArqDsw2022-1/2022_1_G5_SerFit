@@ -1,4 +1,4 @@
-# GRASP Criador
+# Criador
 
 ## 1. Introdução
 
@@ -41,4 +41,4 @@ No projeto Ser Fit, esse princípio deverá permear todas as nossas implementaç
 
 | Versão | Alteração            | Autor(es)       | Revisor(es) |
 | ------ | -------------------- | --------------- | ----------- |
-| 1.0    | Criação do documento | Adrian Soares   | ----------- |
+| 1.0    | Criação do documento | Adrian Soares   | Felipe      |
