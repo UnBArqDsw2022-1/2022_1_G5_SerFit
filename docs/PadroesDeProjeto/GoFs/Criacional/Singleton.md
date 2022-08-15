@@ -1,4 +1,4 @@
-# GOF Criacional - Singleton
+# Singleton
 
 ## 1. Introdução
 
@@ -98,10 +98,4 @@ SERRANO, Milene. Aula, 2022 - GOFs Criacionais. Disciplina de Arquitetura e Dese
 
 | Versão | Alteração            | Autor(es)       | Revisor(es) |
 | ------ | -------------------- | --------------- | ----------- |
-| 1.0    | Criação do documento | Adrian Soares   | ----------- |
-
-<style>
-    p, caption {
-        text-align: justify;
-    }
-</style>
+| 1.0    | Criação do documento | Adrian Soares   | Felipe      |
