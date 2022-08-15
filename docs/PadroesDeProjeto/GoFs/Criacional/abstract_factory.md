@@ -1,4 +1,4 @@
-# Abstract_factory
+# Abstract Factory
 
 ## 1. Introdução
 Prover uma interface para criação de famílias de objetos relacionados ou dependentes sem que se especifiquem suas classes concretas.
@@ -11,9 +11,9 @@ Prover uma interface para criação de famílias de objetos relacionados ou depe
 
 ## 3. Conclusão
 
--Criar interfaces comuns para bancos de dados diferentes. Criam-se fábricas
+- Criar interfaces comuns para bancos de dados diferentes. Criam-se fábricas
 abstratas específicas para cada banco de dados.
--Criar interfaces comuns para bibliotecas de interface diferentes, que usam os
+- Criar interfaces comuns para bibliotecas de interface diferentes, que usam os
 mesmos objetos. 
 
 ## 4. Links
@@ -29,6 +29,6 @@ https://github.com/UnBArqDsw2022-1/2022.1_G5_SerFit_App/blob/main/app/components
 
 ## Histórico de Versionamento
 
-| Versão | Alteração | Autor(es) | Revisor(es) |
-| --- | --- | --- | --- |
-| 1.0 | Criação do documento | Fernando | --- |
+| Versão | Alteração | Autor(es) | Revisor(es)   |
+| ---    | ---       | ---       | ---           |
+| 1.0 | Criação do documento | Fernando | Felipe |
