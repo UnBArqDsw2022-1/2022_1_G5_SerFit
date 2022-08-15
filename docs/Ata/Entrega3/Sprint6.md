@@ -6,11 +6,11 @@
 
 | Tasks                                  | Pair 1 | Pair 2 | Pair 3 | Pair 4 | Pair 5 |
 | :------------------------------------- | :----: | :----: | :----: | :----: | :----: |
-| Tela inicial                           |        |        |        |        |        |
-| Tela cadastro                          |        |        |        |        |        |
-| Cadastro (endpoint)                    |        |        |        |        |        |
-| Tela login                             |        |        |        |        |        |
-| Endpoint Login                         |        |        |        |        |        |
+| Tela inicial                           |    X   |        |        |        |        |
+| Tela cadastro                          |        |    X   |        |        |        |
+| Cadastro (endpoint)                    |        |        |    X   |        |        |
+| Tela login                             |        |        |        |    X   |        |
+| Endpoint Login                         |        |        |        |        |    X   |
 
 ### Pares
 
