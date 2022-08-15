@@ -1,4 +1,4 @@
-# GRASP - Invenção Pura
+# Invenção Pura
 
 ## 1. Introdução
 
@@ -28,10 +28,4 @@ Para o projeto, boa parte dos GOFs e padrões emergentes utilizados necessitaram
 
 | Versão | Alteração            | Autor(es)       | Revisor(es) |
 | ------ | -------------------- | --------------- | ----------- |
-| 1.0    | Criação do documento | Adrian Soares   | ----------- |
-
-<style>
-    p, caption {
-        text-align: justify;
-    }
-</style>
+| 1.0    | Criação do documento | Adrian Soares   | Felipe      |
