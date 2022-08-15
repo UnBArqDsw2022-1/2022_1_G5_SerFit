@@ -1,4 +1,4 @@
-# GRASP - Indireção
+# Indireção
 
 ## 1. Introdução
 
@@ -29,9 +29,3 @@ Em nosso projeto, a indireção acontece em diversos momentos, já que a Arquite
 | Versão | Alteração            | Autor(es)       | Revisor(es) |
 | ------ | -------------------- | --------------- | ----------- |
 | 1.0    | Criação do documento | Adrian Soares   | ----------- |
-
-<style>
-    p, caption {
-        text-align: justify;
-    }
-</style>
