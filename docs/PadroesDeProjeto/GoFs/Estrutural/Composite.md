@@ -1,4 +1,4 @@
-# GOF - Estrutural - Composite
+# Composite
 
 ## 1. Introdução
 
@@ -102,4 +102,4 @@ class UserExercises extends ExerciseController {
 
 | Versão | Alteração                        | Autor(es)    | Revisor(es) |
 | ------ | -------------------------------- | ------------ | ----------- |
-| 1.0    | Criação do documento             | Adrian Soares Lopes | ---         |
+| 1.0    | Criação do documento             | Adrian Soares Lopes | Felipe         |
