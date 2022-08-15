@@ -1,4 +1,4 @@
-# Mementos
+# Memento
 
 ## 1. Introdução
 
@@ -32,4 +32,4 @@ O problema desse padrão que **não está** sendo utilizado no projeto, é que p
 
 | Versão | Alteração            | Autor(es)      | Revisor(es) |
 | ------ | -------------------- | -------------- | ----------- |
-| 1.0    | Criação do documento | Victor Hugo | ----------- |
+| 1.0    | Criação do documento | Victor Hugo    | Felipe      |
