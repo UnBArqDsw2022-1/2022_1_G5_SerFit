@@ -111,13 +111,23 @@
 ## 9. Tamanho e desempenho
 
 <p style="text-align: justify;">
- texto texto texto
+    Levando em consideração os repositórios da aplicação SerFit ainda em desenvolvimento e evolução, concluímos  que o somatório não passará de 1GB. Para acessar a aplicação, não é necessário a instalação de nenhum programa, apenas acesso a internet e um dispositivo mobile ou computador. Além disso, a aplicação deve suportar muitas conexões simultâneas, por se tratar de uma plataforma que deve ser usada diariamente por um grupo de pessoas.
 </p>
 
 ## 10. Qualidade de Software
 
 <p style="text-align: justify;">
- texto texto texto
+ Na etapa de construção da aplicação utilizamos o padrão de arquitetura MVC, sendo possível fazer a divisão em camadas e subcamadas bem definidas, possibilitando a compreensão do código, além da sua reutilização. Foi utilizada também a norma ISO/IEC 9126, cujo objetivo é definir um conjunto de parâmetros que visam padronizar a avaliação da qualidade de software.
+
+ Critérios  | Descrição
+--------- | ------
+Funcionalidade | A aplicação foi construída segundo os requisitos que foram levantados na fase inicial do projeto.
+Confiabilidade | O sistema foi desenvolvido para garantir que o mesmo se recupere em caso de falhas
+Usabilidade | O sistema possui uma interface simples, clara, intuitiva e foi construída com base no protótipo de alta fidelidade. Também é possível notar que o sistema utiliza linguagem clara e direta, simplificando o entendimento do que está sendo feito e o que se pode fazer.
+Eficiência | O sistema é otimizado em relação ao tempo de resposta de requisições.
+Manutenibilidade | Os padrões de projeto aplicados durante o desenvolvimento facilitam a identificação de defeitos, na correção e evolução do código.  Além da documentação estar disponível no repositório do grupo, facilitando a consulta e apoiando na manutenibilidade do código.
+Portabilidade |  A utilização do Docker garante um ambiente estável, o que auxilia na criação de possíveis novos módulos.
+
 </p>
 
 <!-- Fim Wesley -->
@@ -131,3 +141,4 @@
 | Versão | Alteração           | Autor(es) | Revisor(es) |
 | ------ | ------------------- | --------- | ----------- |
 | 1.0    | Criação do template | Gustave   | -           |
+| 2.0    | Adição de desempenho e qualidade do software | Wesley   | - 
