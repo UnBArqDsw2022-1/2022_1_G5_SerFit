@@ -47,8 +47,18 @@
 ## 4. Visão de casos de uso
 
 <p style="text-align: justify;">
- texto texto texto
-</p>
+
+ ## Visão de Casos de Uso
+&emsp;&emsp;Apresentando uma representação mais próxima do cliente ou profissional, a visão de casos de uso auxilia no entendimento das interações dos atores com o sistema de forma a descrever os cenários de uso da aplicação. O diagrama de casos de uso do projeto Ser Fit pode ser acessado pelo [documento de casos de uso](../../Modelagem/IniciativasExtras/CasosdeUso) desenvolvido anteriormente.<br>
+&emsp;&emsp;A seguir, tem-se uma descrição resumida dos casos de uso o projeto, os quais contemplam as funcionalidades mais prioritárias do sistema.
+
+#### Descrição dos casos de uso
+
+- **UC01 - Registrar-se:** este caso de uso engloba tanto o cliente quanto o personal. Consiste no ato do usuário (cliente ou personal) se registrar no aplicativo, para isso é necessário informar senha, email e nome. Apos realizado o registro uma série de serviços do aplicativo se tornarão disponíveis para uso.
+
+- **UC02 - Pesquisar Profissionais:** este caso de uso é exclusivo do ator cliente. Se trata do ato de após realizado o registro o cliente acessar o aplicativo, fazer o login e pesquisar profissionais disponíveis e ver detalhes, a pós-condição desse caso seria de contratar um profissional.
+
+- **UC03 - Conversar com Cliente:** este caso de uso é exclusivo do ator profissional. Se trata do ato de após realizado o registro o profissional acessar o aplicativo, fazer o login e entrar no chat, a pós-condição desse caso seria de conversar com um cliente.
 
 <!-- Fim Daniel -->
 
