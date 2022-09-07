@@ -73,7 +73,9 @@
 ## 6. Visão de processos
 
 <p style="text-align: justify;">
- texto texto texto
+ A visão lógica representa como a organização conceitual do sistema vai ser estruturado de maneira lógica. Para isso, fazemos o uso de artefatos que demonstrem a estrutura, como os diagramas de classes, de pacote, de colaboração, de interação e até mesmo de sequência do caso. 
+
+ Dependendo da complexidade do sistema, ou da necessidade de explicar as especificidades, podemos usar vários desses documentos, temos como objetivo esses documentos serem suficientes para a compreensão do sistema para quem estiver lendo.
 </p>
 
 ### 6.1 Diagrama de atividades
