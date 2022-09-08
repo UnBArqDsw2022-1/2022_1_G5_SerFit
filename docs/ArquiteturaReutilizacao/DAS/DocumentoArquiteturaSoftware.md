@@ -150,8 +150,24 @@ No tópico de Visão de Dados, será abordado de forma mais aprofundada.
 </p>
 
 ### 6.1. Diagrama de atividades
+Levando em conta a notação UML (Unified Modeling Language, ou, em português, Linguagem de Modelagem Unificada) o *Diagrama de Atividades* é considerado um diagrama de comportamento que está descrevendo o que é necessário acontecer no sistema durante o processo de modelagem do aplciativo **SerFit**.
+Este diagrama fornece uma visualização do comportamento de um sistema descrevendo a sequência de ações em um processo, como mostrado nos diagramas abaixo.
+
+#### Cadastro
+![Diagrama de Atividades do Cadastro](../../assets/diagramadeatividades/atividadesCadastro.png)
+
+#### Profissional
+![Diagrama de Atividades do Profissional](../../assets/diagramadeatividades/atividadesProfissional.png)
+
+#### Cliente
+![Diagrama de Atividades do Cliente](../../assets/diagramadeatividades/atividadesCliente.png)
 
 ### 6.2. Diagrama de sequência
+Também seguindo a notação UML o *Diagrama de Sequência* é um modelo que mostra o comportamento dinâmico da aplicativo **SerFit** através de duas dimensões: Mudanças de estado interna, através da descrição de como um objeto altera o seu estado, e as Interações, que são descritas pelo comportamento externo e a sua dinâmica com outros objetos. Levando em consideração os dois tipos de usuário (Cliente e Personal), o aplicativo e o banco de dados, o comportamento dinâmico é estabalecido seguindo o diagrama abaixo.
+
+<p align="center">
+  <img src="../../assets/diagrama-de-sequencia/Sequence-diagram.png" />
+</p>
 
 <!-- Fim Lucas e Victor -->
 
