@@ -71,7 +71,7 @@ A seguir, foram mapeados os artefatos gerados durante as fases inicias do projet
 ### 2.2. Back-end
 
 <p style="text-align: justify;">
- A base do nosso back-end se dá pelo <b>Node.js</b> que é um ambiente de execução Javascript server-side, ou seja, pode-se criar aplicações javascript sem a necessidade de um browser, tendo como principal característica sua alta escalabilidade. Outro ponto é que sua arquitetura possibilita um número considerável de requisições concorrentes quando comparadas ao modelo tradicional. 
+ A base do nosso back-end se dá pelo <b>Node.js</b> que é um ambiente de execução Javascript server-side, ou seja, pode-se criar aplicações javascript sem a necessidade de um browser, tendo como principal característica sua alta escalabilidade. Outro ponto é que sua arquitetura possibilita um número considerável de requisições concorrentes quando comparadas ao modelo tradicional.
 </p>
 
 <p style="text-align: justify;">
@@ -174,7 +174,13 @@ No tópico de Visão de Dados, será abordado de forma mais aprofundada.
 ## 8. Visão de dados
 
 <p style="text-align: justify;">
- texto texto texto
+Se por um lado a visão lógica descreve como o sistema é estruturado, a visão de dados vem com o objetivo de ser uma especialização dessa visão lógica. A ideia principal é que essa visão seja utilizada se a persistência for um aspecto realmente significativo do sistema e se a conversão do modelo de design — para o modelo de dados não for feita automaticamente pelos mecanimos de persistência.
+
+Existem  diversas visões, mas nem todas são relevantes para todos os projetos, e a visão de dados muitas vezes é considerada como opcional.
+
+Tratamos dessa visão quando o sistema tem camadas de persistência, visto que também ela contém um detalhamento do banco de dados. Um modelo que podemos utilizar como referência nessa visão de dados, é justamente o DER, o diagrama de Entidade-Relacionamento, que aborda uma forma de representar graficamente a modelagem do banco de dados. A figura abaixo representa o DER Conceitual.
+
+ ![DER](../../assets/das/DER.png)
 </p>
 
 <!-- Fim Felipe -->
