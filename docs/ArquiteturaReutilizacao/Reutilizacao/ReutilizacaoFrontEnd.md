@@ -121,7 +121,21 @@ Para o aplicativo Ser Fit, que funciona como o Front-end do projeto, o React-Nat
 
 ## 4. Referências
 
+> SERRANO, Milene. Arquitetura e Desenho de Software - Aula REUTILIZAÇÃO & FRAMEWORK 1º/2022. Material apresentado para a disciplina de Arquitetura e Desenho de Software no curso de Engenharia de Software da UnB, FGA.
+
+> https://reactnative.dev
+
+> https://github.com/facebook/react-native
+
+> VERGILIO, Silva. Padrões Arquiteturais. Disponível em: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjEkciDvIX6AhXXrpUCHZcmB7kQFnoECAgQAQ&url=https%3A%2F%2Fwww.inf.ufpr.br%2Fandrey%2Fci163%2FPadroesFrameworksAl.pdf&usg=AOvVaw2nCtwyri-MjTiQZhY53qcS
+
 ## Histórico de Versionamento
+
+| Versão | Alteração                        | Autor(es)    | Revisor(es) |
+| ------ | -------------------------------- | ------------ | ----------- |
+| 1.0    | Criação do documento             | Adrian Soares| ---         |
+
+
 
 <style> 
 body {
