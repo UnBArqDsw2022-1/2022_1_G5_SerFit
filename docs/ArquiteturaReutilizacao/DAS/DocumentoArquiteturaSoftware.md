@@ -20,13 +20,13 @@ O DAS - Documento de Arquitetura de Software - é um documento que apresenta uma
 <p style="text-align: justify;">
 A seguir, será apresentado uma visão introdutória desse documento no escopo do projeto SerFit, partindo-se, posteriormente, para as tópicos recentemente listados.</p>
 
-### 1.1 Finalidade
+### 1.1. Finalidade
 
 <p style="text-align: justify;">
  Esse artefato serve como uma ponte de comunicação entre o arquiteto do time e o outros membros da equipe, portanto, possui importância significativa no ciclo de desenvolvimento de um produto de Software. Dessa forma, esse documento reúne todas as informações estruturais do produto, podendo servir de consulta não só para os desenvolvedores, como para toda a equipe de desenvolvimento.
 </p>
 
-### 1.2 Escopo
+### 1.2. Escopo
 
 <p style="text-align: justify;">
  O projeto SerFit tem por objetivo ser uma plataforma intermediadora entre usuários e profissionais da área de bem-estar físico, podendo abranger nutricionistas, personal trainers, professores de yoga, fisioterapeutas e outros. Em resumo, a imagem abaixo mostra um escopo inicial das funcionalidades primárias elicitadas pelo time para a construção desse Software.
@@ -34,7 +34,7 @@ A seguir, será apresentado uma visão introdutória desse documento no escopo d
 
 ![image](../../../docs/assets/brainstorm/mindmeister.png)
 
-### 1.3 Tabela de artefatos gerados
+### 1.3. Tabela de artefatos gerados
 
 A seguir, foram mapeados os artefatos gerados durante as fases inicias do projeto, das quais serão relacionados nos tópicos arquiteturais sequentemente.
 
@@ -60,7 +60,7 @@ A seguir, foram mapeados os artefatos gerados durante as fases inicias do projet
 
 ## 2. Representação Arquitetural
 
-### 2.1 Front-end
+### 2.1. Front-end
 
 <p style="text-align: justify;">
  O <b>React Native</b> foi a escolha do framework a ser utilizado no front-end principalmente porque possibilita a criação de aplicações em multiplataformas, tanto no Android quanto no iOS. Além disso, o React Native possui ferramentas que convertem o código para a linguagem nativa do sistema operacional utilizado, tornando o app mais fluido. Uma outra facilidade é quando se tange às aplicações híbridas, em que o React Native cria uma arquitetura através da bridge. A Bridge é a responsável pela comunicação entre o código JS e o código nativo.
@@ -68,7 +68,7 @@ A seguir, foram mapeados os artefatos gerados durante as fases inicias do projet
 
 ![image](../../../docs/assets/das/reactnative.png)
 
-### 2.2 Back-end
+### 2.2. Back-end
 
 <p style="text-align: justify;">
  A base do nosso back-end se dá pelo <b>Node.js</b> que é um ambiente de execução Javascript server-side, ou seja, pode-se criar aplicações javascript sem a necessidade de um browser, tendo como principal característica sua alta escalabilidade. Outro ponto é que sua arquitetura possibilita um número considerável de requisições concorrentes quando comparadas ao modelo tradicional. 
@@ -79,13 +79,17 @@ A seguir, foram mapeados os artefatos gerados durante as fases inicias do projet
 </p>
 
 <p style="text-align: justify;">
+ Cabe também citar o <b>Sequelize</b> que é um ORM baseado para alguns bancos de dados, entre eles, o Postrgres (banco utilizado no projeto). Ele contribui no suporte de transações e no gerenciamento de dados, utilizando métodos JS, facilitando na modificação das estruturas de dados, como também na criação, população e outras tarefas.
+</p>
+
+<p style="text-align: justify;">
  Já o <b>Docker</b> também foi utilizado, sendo uma plataforma open source que facilita a integração em ambientes isolados. Em resumo, ele "empacota" uma aplicação dentro de containers, bastando que a outra pessoa tenha o Docker instalado para poder rodar a aplicação desejada.
 </p>
 
 <p style="text-align: justify;">
 Ademais, o back-end poderá ser melhor compreendido no tópico de Visão Lógica desse mesmo documento. </p>
 
-### 2.3 Banco de Dados
+### 2.3. Banco de Dados
 
 <p style="text-align: justify;">
 O <b>PostgreSQL</b> foi o banco escolhido para armazenar os dados da nossa aplicação devido a sua semelhança com o MySQL, sendo altamente escalável e de fácil integração.
@@ -101,13 +105,13 @@ No tópico de Visão de Dados, será abordado de forma mais aprofundada.
 
 ## 3. Metas e restrições da arquitetura
 
-### 3.1 Metas
+### 3.1. Metas
 
 <p style="text-align: justify;">
  texto texto texto
 </p>
 
-### 3.2 Restrições
+### 3.2. Restrições
 
 <!-- Fim Fernando -->
 
@@ -129,11 +133,11 @@ No tópico de Visão de Dados, será abordado de forma mais aprofundada.
  texto texto texto
 </p>
 
-### 5.1 Diagrama de classes
+### 5.1. Diagrama de classes
 
-### 5.2 Diagrama de pacotes
+### 5.2. Diagrama de pacotes
 
-### 5.3 Diagrama de comunicação
+### 5.3. Diagrama de comunicação
 
 <!-- Fim Ricardo -->
 
@@ -145,9 +149,9 @@ No tópico de Visão de Dados, será abordado de forma mais aprofundada.
  texto texto texto
 </p>
 
-### 6.1 Diagrama de atividades
+### 6.1. Diagrama de atividades
 
-### 6.2 Diagrama de sequência
+### 6.2. Diagrama de sequência
 
 <!-- Fim Lucas e Victor -->
 
@@ -159,9 +163,9 @@ No tópico de Visão de Dados, será abordado de forma mais aprofundada.
  texto texto texto
 </p>
 
-### 7.1 Diagrama de componentes
+### 7.1. Diagrama de componentes
 
-### 7.2 Diagrama de implantação
+### 7.2. Diagrama de implantação
 
 <!-- Fim Luis -->
 
