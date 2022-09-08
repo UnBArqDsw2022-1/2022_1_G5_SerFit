@@ -30,12 +30,15 @@
 
 <!-- Fernando -->
 
-## 3. Metas e representação da arquitetura
+## 3. Metas e Restrições da arquitetura
 
 ### 3.1 Metas
 
 <p style="text-align: justify;">
- texto texto texto
+ As metas da nossa arquitetura foram definidas a partir da pesquisa inicial, de acordo com as necessidades observadas durante o processo de levantamento de requisitos. Algumas das nossas principais metas estabelecidas foram:
+* Portabilidade: a plataforma deve estar disponível em ambientes mobile, bem como web e desktop
+* Usabilidade: é essencial que o sistema possibilite o usuário a realizar as ações rapidamente, intuitivamente, com qualidade e satisfação para que tenhamos cada vez mais o alcançe e aceitação do público.
+* Responsividade: devido à variedade de dispositivos que temos atualmente, é importante que a plataforma renderize bem em qualquer um dos tamanhos de tela utilizados para o acesso.
 </p>
 
 ### 3.2 Restrições
