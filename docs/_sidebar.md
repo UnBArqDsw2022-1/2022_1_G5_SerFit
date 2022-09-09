@@ -108,12 +108,15 @@
   - [Participações - Padrões de Projeto](PadroesDeProjeto/ParticipacoesPadroes.md)
 
 - **Arquitetura de Software & Reutilização**
-
  - [4. Desenho de Software (Arquitetura & Reutilização de Software)](/ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
     - [4.1. Módulo Estilos e Padrões Arquiteturais](/ArquiteturaReutilizacao/4.1.PadroesArquiteturais.md)
     - [4.2. Módulo Reutilização de Software](/ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
     - [4.3. Iniciativas Extras - Arquitetura & Reutilização de Software](/ArquiteturaReutilizacao/4.3.IniciativasExtras.md)
     - [4.4. Participações - Arquitetura & Reutilização de Software](/ArquiteturaReutilizacao/4.4.ParticipacoesArqReutilizacao.md)
+  - **Iniciativas extras**
+    - Atas
+      - [Sprint 9](Ata/Entrega4/Sprint9.md)
+      - [Sprint 10](Ata/Entrega4/Sprint10.md)
 
 
 - **Ata das Sprints**
