@@ -32,7 +32,7 @@ A seguir, será apresentado uma visão introdutória desse documento no escopo d
  O projeto SerFit tem por objetivo ser uma plataforma intermediadora entre usuários e profissionais da área de bem-estar físico, podendo abranger nutricionistas, personal trainers, professores de yoga, fisioterapeutas e outros. Em resumo, a imagem abaixo mostra um escopo inicial das funcionalidades primárias elicitadas pelo time para a construção desse Software.
 </p>
 
-![image](../../../docs/assets/brainstorm/mindmeister.png)
+![image](../../assets/brainstorm/mindmeister.png)
 
 <center>
 <figcaption>Imagem: Escopo da Solução</figcaption>
@@ -71,7 +71,7 @@ A seguir, foram mapeados os artefatos gerados durante as fases inicias do projet
  O <b>React Native</b> foi a escolha do framework a ser utilizado no front-end principalmente porque possibilita a criação de aplicações em multiplataformas, tanto no Android quanto no iOS. Além disso, o React Native possui ferramentas que convertem o código para a linguagem nativa do sistema operacional utilizado, tornando o app mais fluido. Uma outra facilidade é quando se tange às aplicações híbridas, em que o React Native cria uma arquitetura através da bridge. A Bridge é a responsável pela comunicação entre o código JS e o código nativo.
 </p>
 
-![image](../../../docs/assets/das/reactnative.png)
+![image](../../assets/das/reactnative.png)
 
 <center>
 <figcaption>Imagem: Arquitetura React Native</figcaption>
@@ -204,8 +204,9 @@ Nosso projeto tem duas frentes de implementação e detalharemos cada um em sequ
 
 #### **Front-End**
 
+![Diagrama de Pacotes](../../assets/arquitetura_reutilizacao/Frontend.png)
+
 <center>
-<img src = "../../assets/arquitetura_reutilizacao/Frontend.png" alt = "Imagem: Diagrama de Pacotes - Front End">
 <figcaption>Imagem: Diagrama de Pacotes - Front End</figcaption>
 <figcaption>Autor: Gustave Persjn</figcaption>
 </center>
@@ -218,12 +219,12 @@ Também pode ser oriundo da página <strong>Assets</strong>, que tem a função 
 
 #### **Back-End**
 
+![Diagrama de Pacotes](../../assets/arquitetura_reutilizacao/Backend.svg)
+
 <center>
-<img src = "../../assets/arquitetura_reutilizacao/Backend.svg" alt = "Imagem: Diagrama de Pacotes - Back End">
 <figcaption>Imagem: Diagrama de Pacotes - Back End</figcaption>
 <figcaption>Autor: Ricardo Loureiro</figcaption>
 </center>
-
 <br>
 
 <p style="text-align: justify;">No banck-end temos a camada de <strong>controller</strong> que é onde os recebem requisições de componentes externos. Ele filtra as solicitações de requisições que são enviadas pelo front-end.
@@ -240,8 +241,9 @@ Diretamente temos a pasta <strong>config</strong>, no qual estão as definiçõe
 
 #### **Fluxo Cliente**
 
+![Fluxo cliente](../../assets/arquitetura_reutilizacao/navegacao_cliente.jpeg)
+
 <center>
-<img src = "../../assets/arquitetura_reutilizacao/navegacao_cliente.jpeg" alt = "Imagem: Diagrama de Pacotes - Back End">
 <figcaption>Imagem: Diagrama de Comunicação - Cliente</figcaption>
 <figcaption>Autor: Ricardo Loureiro</figcaption>
 </center>
@@ -250,8 +252,9 @@ Diretamente temos a pasta <strong>config</strong>, no qual estão as definiçõe
 
 #### **Fluxo Personal**
 
+![Fluxo personal](../../assets/arquitetura_reutilizacao/navegacao_personal.jpeg)
+
 <center>
-<img src = "../../assets/arquitetura_reutilizacao/navegacao_personal.jpeg" alt = "Imagem: Diagrama de Pacotes - Back End">
 <figcaption>Imagem: Diagrama de Comunicação - Personal</figcaption>
 <figcaption>Autor: Ricardo Loureiro</figcaption>
 </center>
@@ -303,9 +306,7 @@ Este diagrama fornece uma visualização do comportamento de um sistema descreve
 <p style="text-align: justify;">
 Também seguindo a notação UML o *Diagrama de Sequência* é um modelo que mostra o comportamento dinâmico da aplicativo **SerFit** através de duas dimensões: Mudanças de estado interna, através da descrição de como um objeto altera o seu estado, e as Interações, que são descritas pelo comportamento externo e a sua dinâmica com outros objetos. Levando em consideração os dois tipos de usuário (Cliente e Personal), o aplicativo e o banco de dados, o comportamento dinâmico é estabalecido seguindo o diagrama abaixo.</p>
 
-<p align="center">
-  <img src="../../assets/diagrama-de-sequencia/Sequence-diagram.png" />
-</p>
+![Diagrama de Sequência](../../assets/diagrama-de-sequencia/Sequence-diagram.png)
 
 <center>
 <figcaption>Imagem: Diagrama de Sequência</figcaption>
@@ -403,8 +404,7 @@ Tratamos dessa visão quando o sistema tem camadas de persistência, visto que t
 > O que é diagrama de componentes UML?. Disponível em https://www.lucidchart.com/pages/pt/diagrama-de-componentes-uml. Acesso em: 07 de Setembro de 2022.
 > Component Diagram. Disponível em: https://www.smartdraw.com/component-diagram/#:~:text=A%20component%20diagram%2C%20also%20known,is%20covered%20by%20planned%20development. Acesso 07 de Setembro de 2022.
 > Visões Arquiteturais. Disponível em https://www.inf.ufpr.br/andrey/ci163/VisoesAl.pdf.
-> SERRANO,Milene; SERRANO, Maurício; CAVALCANTE, André Cruz. Arquitetura de Software deReferência para Sistemas de Informação Governamentais. In: XI Brazilian Symposium on Information System, Goiânia, Maio 26-29, 2015. Disponível em: https://sol.sbc.org.br/index.php/sbsi/article/view/5886/5784
-> \*Demais referências disponíveis no documento de cada artefato elaborado e disponível na Wiki
+> SERRANO,Milene; SERRANO, Maurício; CAVALCANTE, André Cruz. Arquitetura de Software deReferência para Sistemas de Informação Governamentais. In: XI Brazilian Symposium on Information System, Goiânia, Maio 26-29, 2015. Disponível em: https://sol.sbc.org.br/index.php/sbsi/article/view/5886/5784 > \*Demais referências disponíveis no documento de cada artefato elaborado e disponível na Wiki
 
 # Histórico de Versionamento
 
