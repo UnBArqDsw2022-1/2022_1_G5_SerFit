@@ -32,7 +32,6 @@ Adicione 2 ou mais screenshots do projeto em termos de artefatos da Segunda Entr
 
 ![alt text](assets/entrega2/issues.png)
 
-![alt text](assets/diagramaclasses/diagramaclasses.png)
 
 OBS: Não especificaram no prazo (15Julho22) - Profa. Milene
 
@@ -42,7 +41,9 @@ OBS: Não especificaram no prazo (15Julho22) - Profa. Milene
 ![alt text](assets/entrega3/screenshot3.png)
 
 ## Screenshots Quarta Entrega (FINAL) <<FOCOS: Arquitetura & Reutilização de Software & PROJETO FINAL>>
-Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
+![alt text](assets/entrega4/pullRequests.png)
+![alt text](assets/entrega4/frontend.png)
+![alt text](assets/entrega4/backend.png)
 
 ## Descritivo dos Principais Aspectos Técnicos 
 **Principal(is) Metodologia(s) Adotada(s)**: xxxxxx<br>
@@ -56,10 +57,6 @@ Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcioname
 (x) NÃO
 
 Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados em consultar o projeto.
-
-## Informações Complementares 
-
-### Membros
 
 <div id="members">
     <div class="member-content"></div>
