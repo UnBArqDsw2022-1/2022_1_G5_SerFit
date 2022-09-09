@@ -91,7 +91,7 @@
       - [Strategy](PadroesDeProjeto/GoFs/Comportamental/strategy.md)
       - [Template Method](PadroesDeProjeto/GoFs/Comportamental/template-method.md)
       - [Command](PadroesDeProjeto/GoFs/Comportamental/gofs_comportamentais.md)
-      - [Memento](PadroesDeProjeto/GoFs/Comportamental/Memento.md)
+      - [Memento](PadroesDeProjeto/GoFs/Comportamental/)
       - [Medietor](PadroesDeProjeto/GoFs/Comportamental/mediator.md)
       - [Visitor](PadroesDeProjeto/GoFs/Comportamental/visitor.md)
   - [**Padrões Emergentes**](PadroesDeProjeto/PadroesEmergentes/capaEmergente.md)
@@ -105,19 +105,15 @@
       - [Sprint 7](Ata/Entrega3/Sprint7.md)
       - [Sprint 8](Ata/Entrega3/Sprint8.md)
     - [Apresentação](PadroesDeProjeto/Iniciativa%20Extra/apresentacao.md)
-  - [Participações - Padrões de Projeto](PadroesDeProjeto/ParticipacoesPadroes.md)
 
 - **Arquitetura de Software & Reutilização**
- - [4. Desenho de Software (Arquitetura & Reutilização de Software)](/ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
-    - [4.1. Módulo Estilos e Padrões Arquiteturais](/ArquiteturaReutilizacao/4.1.PadroesArquiteturais.md)
-    - [4.2. Módulo Reutilização de Software](/ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
-    - [4.3. Iniciativas Extras - Arquitetura & Reutilização de Software](/ArquiteturaReutilizacao/4.3.IniciativasExtras.md)
-    - [4.4. Participações - Arquitetura & Reutilização de Software](/ArquiteturaReutilizacao/4.4.ParticipacoesArqReutilizacao.md)
+
+  - [DAS - Documento de Arquitetura de Software](ArquiteturaReutilizacao/DAS/DocumentoArquiteturaSoftware.md)
+  - [Documento de Reutilização](ArquiteturaReutilizacao/Reutilizacao/ReutilizacaoFrontEnd.md)
   - **Iniciativas extras**
     - Atas
       - [Sprint 9](Ata/Entrega4/Sprint9.md)
       - [Sprint 10](Ata/Entrega4/Sprint10.md)
-
 
 - **Ata das Sprints**
   - Entrega 2

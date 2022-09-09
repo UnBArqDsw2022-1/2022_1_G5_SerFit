@@ -34,6 +34,11 @@ A seguir, será apresentado uma visão introdutória desse documento no escopo d
 
 ![image](../../../docs/assets/brainstorm/mindmeister.png)
 
+<center>
+<figcaption>Imagem: Escopo da Solução</figcaption>
+<figcaption>Autor:  Equipe</figcaption>
+</center>
+
 ### 1.3. Tabela de artefatos gerados
 
 A seguir, foram mapeados os artefatos gerados durante as fases inicias do projeto, das quais serão relacionados nos tópicos arquiteturais sequentemente.
@@ -67,6 +72,11 @@ A seguir, foram mapeados os artefatos gerados durante as fases inicias do projet
 </p>
 
 ![image](../../../docs/assets/das/reactnative.png)
+
+<center>
+<figcaption>Imagem: Arquitetura React Native</figcaption>
+<figcaption>Autor: Undefined</figcaption>
+</center>
 
 ### 2.2. Back-end
 
@@ -103,44 +113,45 @@ No tópico de Visão de Dados, será abordado de forma mais aprofundada.
 
 <!-- Fernando -->
 
-
-
 ## 3. Metas e Restrições da arquitetura
 
 ### 3.1. Metas
 
 <p style="text-align: justify;">
- As metas da nossa arquitetura foram definidas a partir da pesquisa inicial, de acordo com as necessidades observadas durante o processo de levantamento de requisitos. Algumas das nossas principais metas estabelecidas foram:
+ As metas da nossa arquitetura foram definidas a partir da pesquisa inicial, de acordo com as necessidades observadas durante o processo de levantamento de requisitos. Algumas das nossas principais metas estabelecidas foram:</p>
  
-#### 3.1.1 Portabilidade:
+#### 3.1.1. Portabilidade:
 a plataforma deve estar disponível em ambientes mobile, bem como web e desktop
 
-#### 3.1.2 Usabilidade: 
+#### 3.1.2. Usabilidade:
+
 é essencial que o sistema possibilite o usuário a realizar as ações rapidamente, intuitivamente, com qualidade e satisfação para que tenhamos cada vez mais o alcançe e aceitação do público.
 
-#### 3.1.3 Responsividade:
+#### 3.1.3. Responsividade:
+
 devido à variedade de dispositivos que temos atualmente, é importante que a plataforma renderize bem em qualquer um dos tamanhos de tela utilizados para o acesso.
 
-#### 3.1.4 Escalabilidade
+#### 3.1.4. Escalabilidade
+
 A aplicação deve ser estruturada com o objetivo de ser escalável o suficiente para ser possível futuras evoluções com o crescimento do projeto.
 
-#### 3.1.5 Segurança
+#### 3.1.5. Segurança
+
 O aplicativo deve ser seguro e lidar com os dados dos usuários com segurança, de forma que a informação só pode ser acessada e atualizada por pessoas autorizadas e devidamente credenciadas (autenticação de usuários).
 
-#### 3.1.6 Usabilidade
-O sistema deverá ter a capacidade em fazer com que o usuário tenha sucesso na execução de suas tarefas de maneira simples.
+#### 3.1.6. Usabilidade
 
-</p>
+O sistema deverá ter a capacidade em fazer com que o usuário tenha sucesso na execução de suas tarefas de maneira simples.
 
 ### 3.2. Restrições
 
-|Restrições||
-|:-----|:------|
-|3.2.1 Plataforma|A aplicação terá suporte nativo para dispositivos mobile e browsers|
-|3.2.2 Linguagem|A aplicação será desenvolvida em idioma português do Brasil.|
-|3.2.3 Público|A aplicação será voltada para prestadores de diversos serviços da saúde e fitness e seus respectivos clientes.|
-|3.2.4 Equipe|A equipe de desenvolvimento possui 10 alunos integrantes do curso de Eng. de Software da UnB.|
-|3.2.5 Conectividade|É necessária a conectividade com a internet para o acesso e utilização da aplicação.|
+| Restrições    | Descrição                                                                                                      |
+| :------------ | :------------------------------------------------------------------------------------------------------------- |
+| Plataforma    | A aplicação terá suporte nativo para dispositivos mobile e browsers                                            |
+| Linguagem     | A aplicação será desenvolvida em idioma português do Brasil.                                                   |
+| Público       | A aplicação será voltada para prestadores de diversos serviços da saúde e fitness e seus respectivos clientes. |
+| Equipe        | A equipe de desenvolvimento possui 10 alunos integrantes do curso de Eng. de Software da UnB.                  |
+| Conectividade | É necessária a conectividade com a internet para o acesso e utilização da aplicação.                           |
 
 <!-- Fim Fernando -->
 
@@ -150,7 +161,8 @@ O sistema deverá ter a capacidade em fazer com que o usuário tenha sucesso na 
 
 <p style="text-align: justify;">
 
- ## Visão de Casos de Uso
+### 4.1. Visão de Casos de Uso
+
 &emsp;&emsp;Apresentando uma representação mais próxima do cliente ou profissional, a visão de casos de uso auxilia no entendimento das interações dos atores com o sistema de forma a descrever os cenários de uso da aplicação. O diagrama de casos de uso do projeto Ser Fit pode ser acessado pelo [documento de casos de uso](../../Modelagem/IniciativasExtras/CasosdeUso) desenvolvido anteriormente.<br>
 &emsp;&emsp;A seguir, tem-se uma descrição resumida dos casos de uso o projeto, os quais contemplam as funcionalidades mais prioritárias do sistema.
 
@@ -169,14 +181,16 @@ O sistema deverá ter a capacidade em fazer com que o usuário tenha sucesso na 
 ## 5. Visão Lógica
 
 <p style="text-align: justify;">
- A visão lógica representa como a organização conceitual do sistema vai ser estruturado de maneira lógica. Para isso, fazemos o uso de artefatos que demonstrem a estrutura, como os diagramas de classes, de pacote, de colaboração, de interação e até mesmo de sequência do caso. 
+ A visão lógica representa como a organização conceitual do sistema vai ser estruturado de maneira lógica. Para isso, fazemos o uso de artefatos que demonstrem a estrutura, como os diagramas de classes, de pacote, de colaboração, de interação e até mesmo de sequência do caso.
 
- Dependendo da complexidade do sistema, ou da necessidade de explicar as especificidades, podemos usar vários desses documentos, temos como objetivo esses documentos serem suficientes para a compreensão do sistema para quem estiver lendo.
+Dependendo da complexidade do sistema, ou da necessidade de explicar as especificidades, podemos usar vários desses documentos, temos como objetivo esses documentos serem suficientes para a compreensão do sistema para quem estiver lendo.
+
 </p>
 
 ### 5.1. Diagrama de classes
 
 ![Diagrama de Classes](../../assets/arquitetura_reutilizacao/diagramadeclasse.svg)
+
 <center>
 <figcaption>Imagem: Diagrama de Classes.</figcaption>
 <figcaption>Autor: Ricardo Loureiro</figcaption>
@@ -196,7 +210,9 @@ Nosso projeto tem duas frentes de implementação e detalharemos cada um em sequ
 <figcaption>Autor: Gustave Persjn</figcaption>
 </center>
 
-<p style="text-align: justify;">O nosso front-end é que contém o nosso view, ela que é responsável pela interação com o usuário. O ponto inicial é a pagina <strong>Rountes</strong>, é onde tem as chamadas para o conteúdo da aplicação, esses conteúdos da página Routes é oriundo tanto das páginas <strong>Screens</strong> e <strong>Components</strong>. 
+<br>
+
+<p style="text-align: justify;">O nosso front-end é que contém o nosso view, ela que é responsável pela interação com o usuário. O ponto inicial é a pagina <strong>Rountes</strong>, é onde tem as chamadas para o conteúdo da aplicação, esses conteúdos da página Routes é oriundo tanto das páginas <strong>Screens</strong> e <strong>Components</strong>.
 
 Também pode ser oriundo da página <strong>Assets</strong>, que tem a função armazenamento de média estática. Por fim temos as pastas <strong>Services</strong> e <strong>MicroServices</strong> que são responsáveis pela comunicação API do sistema com o Back End.</p>
 
@@ -208,6 +224,8 @@ Também pode ser oriundo da página <strong>Assets</strong>, que tem a função 
 <figcaption>Autor: Ricardo Loureiro</figcaption>
 </center>
 
+<br>
+
 <p style="text-align: justify;">No banck-end temos a camada de <strong>controller</strong> que é onde os recebem requisições de componentes externos. Ele filtra as solicitações de requisições que são enviadas pelo front-end.
 
 <strong>Controller</strong> e <strong>Model</strong> estão representados no diagrama de pacotes que estão no diretório do API.
@@ -216,40 +234,83 @@ Ainda em API, temos os <strong>middlewares</strong> e <strong>utils</strong> que
 
 Diretamente temos a pasta <strong>config</strong>, no qual estão as definições e variáveis de ambientes e autenticação. O banco de dados no diretório <strong>database</strong>, que contém as regras para modificação das tabelas.</p>
 
-
-
 ### 5.3. Diagrama de comunicação
 
+<p style="text-align: justify;">O diagrama de comunicação é definido para esclarecer funções de objetos e classes, esse diagrama mostra as interações entre objetos e/ou partes. Assim esse diagrama pode ser utilizado para complementar a representação da visão lógica da arquitetura do processo, pois ele foi feito para abordar uma visão mais macro do sistema com foco na lógica da aplicação.</p>
 
-<p style="text-align: justify;">O diagrama de comunicação é definido para esclarecer funções de objetos e classes, esse diagrama mostra as interações entre objetos e/ou partes. Assim esse diagrama pode ser utilizado para complementar a representação da visão lógica da arquitetura do processo, pois ele foi feito para abordar uma visão mais macro do sistema com foco na lógica da aplicação.
+#### **Fluxo Cliente**
 
+<center>
+<img src = "../../assets/arquitetura_reutilizacao/navegacao_cliente.jpeg" alt = "Imagem: Diagrama de Pacotes - Back End">
+<figcaption>Imagem: Diagrama de Comunicação - Cliente</figcaption>
+<figcaption>Autor: Ricardo Loureiro</figcaption>
+</center>
+
+<br>
+
+#### **Fluxo Personal**
+
+<center>
+<img src = "../../assets/arquitetura_reutilizacao/navegacao_personal.jpeg" alt = "Imagem: Diagrama de Pacotes - Back End">
+<figcaption>Imagem: Diagrama de Comunicação - Personal</figcaption>
+<figcaption>Autor: Ricardo Loureiro</figcaption>
+</center>
+
+<br>
+
+<p style="text-align: justify;">
 Nosso diagrama de comunicação é definido em fluxo do cliente e fluxo do personal e pode ser visto nesta <a href = "https://unbarqdsw2022-1.github.io/2022_1_G5_SerFit/#/Modelagem/DiagramasDinamicos/DiagramaDeComunicacao">página</a></p>
-
 
 <!-- Lucas e Victor -->
 
 ## 6. Visão de processos
 
-
 ### 6.1. Diagrama de atividades
+
+<p style="text-align: justify;">
 Levando em conta a notação UML (Unified Modeling Language, ou, em português, Linguagem de Modelagem Unificada) o *Diagrama de Atividades* é considerado um diagrama de comportamento que está descrevendo o que é necessário acontecer no sistema durante o processo de modelagem do aplciativo **SerFit**.
-Este diagrama fornece uma visualização do comportamento de um sistema descrevendo a sequência de ações em um processo, como mostrado nos diagramas abaixo.
+Este diagrama fornece uma visualização do comportamento de um sistema descrevendo a sequência de ações em um processo, como mostrado nos diagramas abaixo.</p>
 
 #### Cadastro
+
 ![Diagrama de Atividades do Cadastro](../../assets/diagramadeatividades/atividadesCadastro.png)
 
+<center>
+<figcaption>Imagem: Diagrama de Atividades - Cadastro</figcaption>
+<figcaption>Autor: Lucas Gomes e Victor Hugo</figcaption>
+</center>
+
 #### Profissional
+
 ![Diagrama de Atividades do Profissional](../../assets/diagramadeatividades/atividadesProfissional.png)
 
+<center>
+<figcaption>Imagem: Diagrama de Atividades - Profissional</figcaption>
+<figcaption>Autor: Lucas Gomes e Victor Hugo</figcaption>
+</center>
+
 #### Cliente
+
 ![Diagrama de Atividades do Cliente](../../assets/diagramadeatividades/atividadesCliente.png)
 
+<center>
+<figcaption>Imagem: Diagrama de Atividades - Cliente</figcaption>
+<figcaption>Autor: Lucas Gomes e Victor Hugo</figcaption>
+</center>
+
 ### 6.2. Diagrama de sequência
-Também seguindo a notação UML o *Diagrama de Sequência* é um modelo que mostra o comportamento dinâmico da aplicativo **SerFit** através de duas dimensões: Mudanças de estado interna, através da descrição de como um objeto altera o seu estado, e as Interações, que são descritas pelo comportamento externo e a sua dinâmica com outros objetos. Levando em consideração os dois tipos de usuário (Cliente e Personal), o aplicativo e o banco de dados, o comportamento dinâmico é estabalecido seguindo o diagrama abaixo.
+
+<p style="text-align: justify;">
+Também seguindo a notação UML o *Diagrama de Sequência* é um modelo que mostra o comportamento dinâmico da aplicativo **SerFit** através de duas dimensões: Mudanças de estado interna, através da descrição de como um objeto altera o seu estado, e as Interações, que são descritas pelo comportamento externo e a sua dinâmica com outros objetos. Levando em consideração os dois tipos de usuário (Cliente e Personal), o aplicativo e o banco de dados, o comportamento dinâmico é estabalecido seguindo o diagrama abaixo.</p>
 
 <p align="center">
   <img src="../../assets/diagrama-de-sequencia/Sequence-diagram.png" />
 </p>
+
+<center>
+<figcaption>Imagem: Diagrama de Sequência</figcaption>
+<figcaption>Autor: Lucas Gomes e Victor Hugo</figcaption>
+</center>
 
 <!-- Fim Lucas e Victor -->
 
@@ -263,16 +324,19 @@ Também seguindo a notação UML o *Diagrama de Sequência* é um modelo que mos
 
 ### 7.1. Diagrama de componentes
 
+<p style="text-align: justify;">
+O Diagrama de Componentes fornece uma visão geral de um sistema de software, mostrando o relacionamento entre os diferentes componentes deste sistema. Este diagrama geralmente é desenvolvido para ajudar a modelar os detalhes da implementação e para verificar novamente se todos os aspectos dos requisitos do sistema estão sendo cobertos pelo desenvolvimento planejado. </p>
 
-### 7.2 Diagrama de implantação
-
-O Diagrama de Componentes fornece uma visão geral de um sistema de software, mostrando o relacionamento entre os diferentes componentes deste sistema. Este diagrama geralmente é desenvolvido para ajudar a modelar os detalhes da implementação e para verificar novamente se todos os aspectos dos requisitos do sistema estão sendo cobertos pelo desenvolvimento planejado. </br> 
 O Diagrama de componentes é formado pelos símbolos abordados no documento do [diagrama de componentes](../../Modelagem/DiagramasEstaticos/DiagramaDeComponentes.md).
 
 ![Diagrama de Componentes](../../assets/diagramaComponentes/Diagrama%20de%20Componentes.drawio.png)
 
-<h6 align = "center">Diagrama de Componentes</h6>
+<center>
+<figcaption>Imagem: Diagrama de Componentes</figcaption>
+<figcaption>Autor: Luis Gustavo</figcaption>
+</center>
 
+### 7.2. Diagrama de implantação
 
 <p style="text-align: justify;">
  Ser_Fit é uma aplicação mobile que segue o modelo de camadas, em que existe as camadas: frontend (representada pelo aplicativo feito com ReactJS), backend (representado pelo servidor NodeJS) e a base da dados (representado pelo banco PostgreSQL). O diagrama de implementação possui representações dessas camadas juntamente com a camada de interface do cliente que tem acesso apenas a interface do frontend. O usuário acessa por meio de um aplicativo nativo e o frontend realiza requisições ao backend, que por sua vez realiza os serviços solicitados, armazenando e buscando os dados necessários na base de dados.
@@ -280,7 +344,10 @@ O Diagrama de componentes é formado pelos símbolos abordados no documento do [
 
 ![Diagrama de Implantação](../../assets/implantacao/diagrama-implantacao2.png)
 
-<h6 align = "center">Diagrama de Implantação</h6>
+<center>
+<figcaption>Imagem: Diagrama de Implantação</figcaption>
+<figcaption>Autor: Luis Gustavo</figcaption>
+</center>
 
 <!-- Fim Luis -->
 
@@ -289,14 +356,20 @@ O Diagrama de componentes é formado pelos símbolos abordados no documento do [
 ## 8. Visão de dados
 
 <p style="text-align: justify;">
-Se por um lado a visão lógica descreve como o sistema é estruturado, a visão de dados vem com o objetivo de ser uma especialização dessa visão lógica. A ideia principal é que essa visão seja utilizada se a persistência for um aspecto realmente significativo do sistema e se a conversão do modelo de design — para o modelo de dados não for feita automaticamente pelos mecanimos de persistência.
+Se por um lado a visão lógica descreve como o sistema é estruturado, a visão de dados vem com o objetivo de ser uma especialização dessa visão lógica. A ideia principal é que essa visão seja utilizada se a persistência for um aspecto realmente significativo do sistema e se a conversão do modelo de design — para o modelo de dados não for feita automaticamente pelos mecanimos de persistência.</p>
 
-Existem  diversas visões, mas nem todas são relevantes para todos os projetos, e a visão de dados muitas vezes é considerada como opcional.
+<p style="text-align: justify;">
+Existem  diversas visões, mas nem todas são relevantes para todos os projetos, e a visão de dados muitas vezes é considerada como opcional.</p>
 
-Tratamos dessa visão quando o sistema tem camadas de persistência, visto que também ela contém um detalhamento do banco de dados. Um modelo que podemos utilizar como referência nessa visão de dados, é justamente o DER, o diagrama de Entidade-Relacionamento, que aborda uma forma de representar graficamente a modelagem do banco de dados. A figura abaixo representa o DER Conceitual.
+<p style="text-align: justify;">
+Tratamos dessa visão quando o sistema tem camadas de persistência, visto que também ela contém um detalhamento do banco de dados. Um modelo que podemos utilizar como referência nessa visão de dados, é justamente o DER, o diagrama de Entidade-Relacionamento, que aborda uma forma de representar graficamente a modelagem do banco de dados. A figura abaixo representa o DER Conceitual.</p>
 
- ![DER](../../assets/das/DER.png)
-</p>
+![DER](../../assets/das/DER.png)
+
+<center>
+<figcaption>Imagem: Diagrama de Banco de Dados</figcaption>
+<figcaption>Autor: Felipe Correia</figcaption>
+</center>
 
 <!-- Fim Felipe -->
 
@@ -311,7 +384,7 @@ Tratamos dessa visão quando o sistema tem camadas de persistência, visto que t
 ## 10. Qualidade de Software
 
 <p style="text-align: justify;">
- Na etapa de construção da aplicação utilizamos o padrão de arquitetura MVC, sendo possível fazer a divisão em camadas e subcamadas bem definidas, possibilitando a compreensão do código, além da sua reutilização. Foi utilizada também a norma ISO/IEC 9126, cujo objetivo é definir um conjunto de parâmetros que visam padronizar a avaliação da qualidade de software.
+ Na etapa de construção da aplicação utilizamos o padrão de arquitetura MVC, sendo possível fazer a divisão em camadas e subcamadas bem definidas, possibilitando a compreensão do código, além da sua reutilização. Foi utilizada também a norma ISO/IEC 9126, cujo objetivo é definir um conjunto de parâmetros que visam padronizar a avaliação da qualidade de software.</p>
 
 | Critérios        | Descrição                                                                                                                                                                                                                                                               |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -322,18 +395,27 @@ Tratamos dessa visão quando o sistema tem camadas de persistência, visto que t
 | Manutenibilidade | Os padrões de projeto aplicados durante o desenvolvimento facilitam a identificação de defeitos, na correção e evolução do código. Além da documentação estar disponível no repositório do grupo, facilitando a consulta e apoiando na manutenibilidade do código.      |
 | Portabilidade    | A utilização do Docker garante um ambiente estável, o que auxilia na criação de possíveis novos módulos.                                                                                                                                                                |
 
-</p>
-
 <!-- Fim Wesley -->
 
 ## Referências Bibliográficas
 
-- Conceito: Visão de Implementação. Disponível em < https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/guidances/concepts/deployment_view_64CB74A6.html > Acesso 07 de Setembro de 2022.
-- O que é diagrama de componentes UML?. Disponível em https://www.lucidchart.com/pages/pt/diagrama-de-componentes-uml. Acesso em: 07 de Setembro de 2022.
-- Component Diagram. Disponível em: https://www.smartdraw.com/component-diagram/#:~:text=A%20component%20diagram%2C%20also%20known,is%20covered%20by%20planned%20development. Acesso 07 de Setembro de 2022.
+> Conceito: Visão de Implementação. Disponível em < https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/guidances/concepts/deployment_view_64CB74A6.html > Acesso 07 de Setembro de 2022.
+> O que é diagrama de componentes UML?. Disponível em https://www.lucidchart.com/pages/pt/diagrama-de-componentes-uml. Acesso em: 07 de Setembro de 2022.
+> Component Diagram. Disponível em: https://www.smartdraw.com/component-diagram/#:~:text=A%20component%20diagram%2C%20also%20known,is%20covered%20by%20planned%20development. Acesso 07 de Setembro de 2022.
+> Visões Arquiteturais. Disponível em https://www.inf.ufpr.br/andrey/ci163/VisoesAl.pdf.
+> SERRANO,Milene; SERRANO, Maurício; CAVALCANTE, André Cruz. Arquitetura de Software deReferência para Sistemas de Informação Governamentais. In: XI Brazilian Symposium on Information System, Goiânia, Maio 26-29, 2015. Disponível em: https://sol.sbc.org.br/index.php/sbsi/article/view/5886/5784
+> \*Demais referências disponíveis no documento de cada artefato elaborado e disponível na Wiki
 
-## Histórico de Versionamento
+# Histórico de Versionamento
 
-
-
-
+| Versão | Alteração                                                        |   Autor(es)    | Revisor(es) |
+| :----: | :--------------------------------------------------------------- | :------------: | :---------: |
+|  1.0   | Criação do template                                              |    Gustave     |      -      |
+|  1.1   | Criação do tópico Visão Lógica                                   |    Ricardo     |      -      |
+|  1.2   | Criação do tópico Diagrama de Implantação                        |      Luis      |      -      |
+|  1.3   | Criação do tópico de Desempenho, Tamanho e Qualidade do Software |     Wesley     |      -      |
+|  1.4   | Criação do tópico Introdução e Representação Arquitetural        |    Gustave     |      -      |
+|  1.5   | Criação do tópico Metas e Restrições da Arquitetura              |    Fernando    |      -      |
+|  1.6   | Criação do tópico Visão de Casos de Uso                          |     Daniel     |      -      |
+|  1.7   | Criação do tópico Visão de Processos                             | Lucas e Victor |      -      |
+|  1.8   | Criação do tópico Visão de Dados                                 |     Felipe     |      -      |
