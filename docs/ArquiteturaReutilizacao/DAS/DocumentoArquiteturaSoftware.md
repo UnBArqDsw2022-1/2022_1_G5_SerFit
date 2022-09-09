@@ -285,7 +285,7 @@ Este diagrama fornece uma visualização do comportamento de um sistema descreve
 
 #### Profissional
 
-![Diagrama de Atividades do Profissional](../../assets/diagramadeatividades/atividadesProfissional.png)
+![Diagrama de Atividades do Profissional](../../assets/novoDiagramaAtiv/profissional.png)
 
 <center>
 <figcaption>Imagem: Diagrama de Atividades - Profissional</figcaption>
@@ -294,7 +294,7 @@ Este diagrama fornece uma visualização do comportamento de um sistema descreve
 
 #### Cliente
 
-![Diagrama de Atividades do Cliente](../../assets/diagramadeatividades/atividadesCliente.png)
+![Diagrama de Atividades do Cliente](../../assets/novoDiagramaAtiv/cliente.png)
 
 <center>
 <figcaption>Imagem: Diagrama de Atividades - Cliente</figcaption>
