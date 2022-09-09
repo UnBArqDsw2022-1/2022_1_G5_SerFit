@@ -189,7 +189,7 @@ Dependendo da complexidade do sistema, ou da necessidade de explicar as especifi
 
 ### 5.1. Diagrama de classes
 
-![Diagrama de Classes](../../assets/arquitetura_reutilizacao/diagramadeclasse.svg)
+![Diagrama de Classes](../../assets/arquitetura_reutilizacao/DiagramaDeClasses.png)
 
 <center>
 <figcaption>Imagem: Diagrama de Classes.</figcaption>
