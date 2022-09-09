@@ -15,13 +15,13 @@ Através de uma análise das tecnologias utilizadas e de suas documentações e 
 ### 3.1. Tecnologias, frameworks e bibliotecas
 
 <p style="text-align: justify;">
-A tecnologia utilizada para compor o front-end (Aplicativo) do projeto SerFit, foi o React-Native. Segundo o próprio projeto, open-source, mantido pela empresa Facebook, o React native é "Um framework para construir aplicações nativas utilizando React". Percebe-se que, assim como outros frameworks, como o Flutter, o React-Native pretende ser um framework cross-platform, isto é, funcionar em diferentes ambientes. </p>
+A tecnologia utilizada para compor o front-end (Aplicativo) do projeto SerFit foi o React-Native. Segundo o próprio projeto, open-source, mantido pela empresa Facebook, o React native é "Um framework para construir aplicações nativas utilizando React". Percebe-se que, assim como outros frameworks, como o Flutter, o React-Native pretende ser um framework cross-platform, isto é, funcionar em diferentes ambientes. </p>
 
 <p style="text-align: justify;">
-No caso do React-Native, serve tanto para desenvolvimento para aparelhos que utilizam sistema IOS quanto para o sistema Android e plataformas web, bastando algumas alterações de compatibilidade e na hora de se evidenciar o build. Com isso já se é possível ver o favorecimento da reutilização do software desenvolvido, servindo para diversas plataformas, com poucas modificações do código. Mas primeiramente podemos verificar como o React Native se encaixa na definição de framework.</p>
+No caso do React-Native, este framework serve tanto para desenvolvimento para aparelhos que utilizam sistema IOS quanto para o sistema Android e plataformas web, bastando algumas alterações de compatibilidade e na hora de se evidenciar o build. Com isso já se é possível ver o favorecimento da reutilização do software desenvolvido, servindo para diversas plataformas, com poucas modificações do código. Mas primeiramente podemos verificar como o React Native se encaixa na definição de framework.</p>
 
 <p style="text-align: justify;">
-Como exposto na aula de REUTILIZAÇÃO & FRAMEWORK uma das definições de framework, descritas por Fayad et al (1999), é de que "um framework é um conjunto de classes que constitui um projeto para a solução de uma família de problemas". Isso pode ser percebido no código do projeto React-native, que mesmo com a estrutura permissiva da linguagem javascript, utiliza a sintaxe do typescript para o controle de Interfaces e estruturas abstratas (Figura 1).</p>
+Como exposto na aula de REUTILIZAÇÃO & FRAMEWORK uma das definições de framework, descritas por Fayad et al (1999), é de que "um framework é um conjunto de classes que constitui um projeto para a solução de uma família de problemas". Isso pode ser percebido no código do projeto React-native, que mesmo com a estrutura permissiva da linguagem JavaScript, utiliza a sintaxe do TypeScript para o controle de Interfaces e estruturas abstratas (Figura 1).</p>
 
 ![Figura1](./../../assets/front-reutilizacao/code2.png)
 
@@ -31,7 +31,7 @@ Como exposto na aula de REUTILIZAÇÃO & FRAMEWORK uma das definições de frame
 
 ### 3.2. Análise de tipo
 
-A utilização mais comum do react-native é como um framework de caixa-preta, ou seja, sua reutilização se dá por composição de componentes já construídos, utilizando-se dos atibutos das instâncias para customização e configuração. Na Figura 2, no código a seguir, do projeto Ser Fit, segue um exemplo disso. O código pode ser acessado no repositórios, [clicando aqui](https://github.com/UnBArqDsw2022-1/2022.1_G5_SerFit_App/blob/main/app/views/MainMenu/index.jsx)
+A utilização mais comum do React-Native é como um framework de caixa-preta, ou seja, sua reutilização se dá por composição de componentes já construídos, utilizando-se dos atibutos das instâncias para customização e configuração. Na Figura 2, no código a seguir, do projeto Ser Fit, segue um exemplo disso. O código pode ser acessado no repositórios, [clicando aqui](https://github.com/UnBArqDsw2022-1/2022.1_G5_SerFit_App/blob/main/app/views/MainMenu/index.jsx)
 
 ![Figura1](./../../assets/front-reutilizacao/code.png)
 
@@ -90,4 +90,4 @@ Para o aplicativo Ser Fit, que funciona como o Front-end do projeto, o React-Nat
 | Versão | Alteração                | Autor(es)       | Revisor(es) |
 | ------ | ------------------------ | --------------- | ----------- |
 | 1.0    | Criação do documento     | Adrian Soares   | ---         |
-| 1.1    | Reutilização do back-end | Gustave Persijn | ---         |
+| 1.1    | Reutilização do back-end | Gustave Persijn | Lucas Gomes        |
