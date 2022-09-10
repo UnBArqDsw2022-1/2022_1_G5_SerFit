@@ -105,6 +105,7 @@
       - [Sprint 7](Ata/Entrega3/Sprint7.md)
       - [Sprint 8](Ata/Entrega3/Sprint8.md)
     - [Apresentação](PadroesDeProjeto/Iniciativa%20Extra/apresentacao.md)
+  - [Participações - Padrões de Projeto](PadroesDeProjeto/ParticipacoesPadroes.md)
 
 - **Arquitetura de Software & Reutilização**
 
@@ -114,6 +115,7 @@
     - Atas
       - [Sprint 9](Ata/Entrega4/Sprint9.md)
       - [Sprint 10](Ata/Entrega4/Sprint10.md)
+  - [Participações - Arquitetura de Software & Reutilização](ArquiteturaReutilizacao/ParticipacoesArqReutilizacao.md)
 
 - **Ata das Sprints**
   - Entrega 2

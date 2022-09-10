@@ -1,9 +1,17 @@
-# 4.4. Participações - Arquitetura & Reutilização de Software
+# Participações - Arquitetura & Reutilização de Software
 
 Breve relato sobre as participações/contribuições de cada membro à entrega. 
 
-|Nome do Membro | Contribuição | Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
+|Nome do Membro| Contribuição| Significância da Contribuição para o Projeto (Excelente/Boa/Regular/Ruim/Nula) |
 | -- | -- | -- |
-| Fulano  |  1. Visões Lógica & Implantação do DAS. 2. Pontos Flexíveis - Candidatos à Reutilização. 3. Atas das Reuniões 07 e 08 & Evoluções dos Diagramas de Classes e Pacotes & Auxílio na Capacitação dos Membros da Equipe nas Tecnologias do Projeto. | Boa |
-
-TODOS DEVEM PARTICIPAR, MOSTRANDO SEUS PONTOS DE VISTA E COMO COLABORARAM NESSA ETAPA DO PROJETO.
+| Adrian Soares Lopes                  | 1. Criação do documento de reutilização de Front-end. 2. Implementação de telas de pesquisa de personal e de menu principal 3. Seeding do banco de dados 4. Ajuda na configuração das requisições do App 5. Configurações extras do docker do BackEnd | Excelente |
+| Daniel Vinicius Ribeiro Alves        | Criação do documento de visões de de casos de uso e criação de dados para popular o banco de dados. | Excelente |
+| Felipe Correia Andrade               | 1. Implementação de telas: categorias de exercícios, exercícios por grupo muscular e informações de um exercício. 2. Criação do documento de Visão de Dados | Excelente |
+| Fernando Ribeiro Aguilar             | 1. Participação no desenvolvimento do frontend (telas de menu, perfil de usuário, personal, cliente) 2. Pareamento e knowledge transfer 3. documento de arquitetura (metas e restrições) | Excelente | 
+| Gustave Augusto Persijn              | 1. Criação e definição do template do documento DAS e Reutilização, 2. Organização do Repositório, 3. Introdução e Representação Arquitetural do DAS, 4. Parte do backend no documento de Reutilização, 5. Contribuição na integração das telas (criação de novo endpoint), 6. Merge de todas as branches da documentação, 7. Revisão de PRs, 8. Fechamento de Sprint (fechamento das issues, branches e criaçao da ata) |Excelente |
+| Lucas Gomes Lopes                    |1. Integração do frontend com o backend. 2. Junção de telas no frontend. 3. Refatoração de componentes. 4. Criação de novas telas: Tela de perfil, tela de atividades e barra de navegação. 5. Documento de arquitetura de softwares (diagrama de atividades e sequência). 6. Revisão de PRs. | Excelente |
+| Luis Gustavo Avelino de Lima Jacinto | 1. Criação de diversos endpoints no BackEnd (contratação e cancelamento de serviços, criação de treinos, etc..); 2. Criação de middlewares para autenticação de usuários com perfil de personal; 3. Seeding para popular o banco de dados; 4. Correção de PRs; 5. Documento de Arquitetura (Implantação: Diagrama de componentes e diagrama de implantação); | Excelente |
+| Ricardo de Castro Loureiro           | Criação de telas no Front-end (cadastro do cliente e personal, tela de perfil e barra inferior de menu; Criação de documentos de Visão Lógica, refeito os diagramas de classe, pacotes e comunicação. Correção de PRs e correção dos documentos na wiki. | Excelente |
+| Victor Hugo Siqueira Costa           | Criação, refatoração e/ou correção de telas no frontend: perfil personal, perfil cliente, edição de atividades, menu principal, login/cadastro. Suporte no backend e correção de bugs. Documento de arquitetura de softwares (diagrama de atividades e sequência). Criação/Revisão de issues e pull requests. Ajuda e suporte externamente. | Excelente |
+| Wesley Pedrosa dos Santos            | 1. Implementação de telas: categoria de exercícios, exercícios por grupo muscular, cadastro de cliente e personal. 2. Refatoração de telas no frontend. 3. Revisão de PRs. 4. Documento de Arquitetura (Tamanho e desempenho; Qualidade do Software);  | Excelente
+|
